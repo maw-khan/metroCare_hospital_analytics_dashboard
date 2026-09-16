@@ -1,0 +1,1201 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,follow_up_date,appointment_status,payment_mode,appointment_mode
+1,166,5,2025-02-19,09:00,,Cancelled,Cash,Video Call
+2,110,2,2024-09-14,15:45,2024-09-28,Completed,Card,Video Call
+3,299,2,2025-05-23,15:00,,Scheduled,Card,In-Person
+4,74,18,2024-09-30,13:15,,COMPLETED,Card,In-Person
+5,289,2,2025-06-13,12:45,,completed,INS,In-Person
+6,154,8,2024-11-01,12:00,2024-11-10,COMPLETED,Card,In-Person
+7,61,17,2025-03-03,11:30,,completed,Card,In-Person
+8,161,11,2025-07-22,14:45,,completed,Cash,Video Call
+9,34,2,2025-07-26,13:45,,completed,INS,In-Person
+10,87,20,2024-09-29,16:00,,completed,Cash,In-Person
+11,255,3,2024-10-25,16:45,,Completed,Ins Claim,In-Person
+12,184,22,2025-02-11,12:15,,Completed,Cash,In-Person
+13,94,9,2024-12-23,09:15,,completed,Card,Video Call
+14,264,20,2025-07-02,09:45,,NoShow,CASH,In-Person
+15,206,2,2024-11-06,10:15,,Completed,Cash,In-Person
+16,275,4,2025-02-03,09:00,,NoShow,CASH,Video Call
+17,187,16,2024-10-02,10:45,,Scheduled,Card,In-Person
+18,53,24,2025-01-23,13:45,,Cancelled,Card,Video Call
+19,271,12,2024-10-15,17:00,,cancelled,Insurance Claim,In-Person
+20,134,17,2025-02-04,11:30,,CANCELLED,Card,In-Person
+21,100,26,2024-12-01,15:15,,completed,Cash,Video Call
+22,242,9,2024-11-08,14:45,,CANCELLED,INS,In-Person
+23,53,8,2025-03-29,12:30,,COMPLETED,Ins Claim,Video Call
+24,177,26,2025-06-26,10:00,,NO-SHOW,Card,In-Person
+25,171,3,2025-02-19,16:45,,Cancelled,Insurance Claim,Video Call
+26,15,5,2025-05-30,16:15,2025-06-23,COMPLETED,Ins Claim,Video Call
+27,68,1,2024-08-08,10:15,2024-08-31,Completed,Insurance Claim,In-Person
+28,124,25,2025-05-28,14:30,,Completed,cash,In-Person
+29,299,17,2025-03-04,17:15,,COMPLETED,Card,In-Person
+30,77,6,2024-10-12,16:00,2024-11-05,completed,Card,In-Person
+31,30,8,2024-11-06,13:00,,CANCELLED,Card,In-Person
+32,33,15,2025-01-14,17:15,2025-02-06,completed,Card,In-Person
+33,133,18,2024-11-12,16:15,,completed,Card,In-Person
+34,109,22,2025-01-03,10:15,,no-show,Cash,Video Call
+35,113,24,2024-09-18,15:45,,COMPLETED,Insurance Claim,In-Person
+36,207,11,2025-03-04,12:30,,COMPLETED,CASH,In-Person
+37,10,13,2025-01-17,17:30,2025-02-01,Completed,Cash,Video Call
+38,140,2,2024-11-01,13:15,,CANCELLED,INS,In-Person
+39,275,17,2025-05-20,16:30,2025-05-27,Completed,Insurance Claim,In-Person
+40,46,26,2024-12-12,10:15,,Completed,Card,Video Call
+41,138,20,2024-10-06,09:15,,NO-SHOW,Cash,In-Person
+42,160,21,2025-01-04,17:15,2025-01-19,COMPLETED,Card,In-Person
+43,19,1,2024-08-10,17:15,,Completed,Insurance Claim,In-Person
+44,254,18,2025-02-18,17:30,2025-03-08,Completed,cash,In-Person
+45,28,5,2024-08-08,10:30,,Completed,CASH,Video Call
+46,145,20,2024-12-03,13:00,,Completed,Cash,In-Person
+47,281,11,2024-12-04,09:30,2024-12-31,Completed,CASH,In-Person
+48,103,8,2025-04-16,09:00,2025-05-02,Completed,cash,In-Person
+49,120,3,2025-05-27,17:15,,COMPLETED,Ins Claim,In-Person
+50,254,5,2024-12-24,11:00,,CANCELLED,Ins Claim,In-Person
+51,259,5,2025-04-26,17:00,,CANCELLED,Ins Claim,In-Person
+52,118,3,2024-08-16,09:15,,Completed,CASH,In-Person
+53,273,22,2024-12-04,16:30,2024-12-27,Completed,Ins Claim,Video Call
+54,34,24,2025-03-31,13:00,,NO-SHOW,Insurance Claim,In-Person
+55,236,16,2025-02-12,10:45,,no-show,Ins Claim,In-Person
+56,102,3,2025-06-04,11:30,2025-06-19,COMPLETED,Card,In-Person
+57,51,23,2024-11-20,16:30,,completed,Card,In-Person
+58,282,7,2025-01-07,10:45,,completed,cash,Video Call
+59,138,13,2024-11-16,12:00,2024-12-13,Completed,INS,Video Call
+60,261,9,2024-09-27,14:15,,completed,Cash,In-Person
+61,231,13,2025-01-02,11:45,,completed,CASH,In-Person
+62,204,4,2024-11-09,09:30,,Completed,cash,In-Person
+63,141,2,2024-12-22,10:00,,cancelled,Card,In-Person
+64,137,14,2025-04-19,14:15,,cancelled,Ins Claim,In-Person
+65,284,18,2024-11-13,10:00,,NoShow,Card,In-Person
+66,147,16,2024-08-26,17:15,,completed,CASH,In-Person
+67,134,13,2025-07-02,12:30,2025-07-25,COMPLETED,Cash,In-Person
+68,255,18,2024-11-21,16:30,,Scheduled,Card,In-Person
+69,90,11,2025-05-12,10:30,,completed,Insurance Claim,Video Call
+70,212,13,2025-02-28,17:15,,completed,INS,In-Person
+71,65,22,2025-04-15,17:15,,Completed,cash,In-Person
+72,12,5,2024-08-17,15:45,,Scheduled,CASH,Video Call
+73,271,15,2025-03-18,12:00,,Completed,Card,Video Call
+74,235,3,2025-05-10,09:00,,Cancelled,Card,In-Person
+75,156,5,2025-06-17,13:45,,Completed,CASH,In-Person
+76,199,9,2024-11-23,09:00,,completed,CASH,In-Person
+77,244,17,2024-11-29,17:15,2024-12-27,completed,INS,In-Person
+78,216,3,2024-12-10,12:45,,NO-SHOW,Card,In-Person
+79,186,22,2025-02-19,12:00,,CANCELLED,Insurance Claim,In-Person
+80,103,10,2024-11-08,12:45,2024-11-22,completed,cash,In-Person
+81,249,14,2025-07-07,09:15,,No-Show,cash,In-Person
+82,27,23,2024-08-31,11:45,2024-09-12,COMPLETED,Ins Claim,In-Person
+83,169,7,2024-11-03,17:45,,COMPLETED,INS,Video Call
+84,56,1,2024-09-10,13:00,,Completed,Card,In-Person
+85,159,26,2025-03-10,10:00,,Completed,CASH,In-Person
+86,243,1,2025-06-20,15:15,,cancelled,Cash,In-Person
+87,32,9,2024-11-08,10:30,,completed,Ins Claim,In-Person
+88,163,9,2024-12-31,09:00,,Completed,cash,Video Call
+89,198,26,2024-12-07,15:45,,completed,cash,In-Person
+90,78,20,2024-11-29,14:30,2024-12-19,COMPLETED,Cash,In-Person
+91,34,21,2024-08-18,16:30,2024-08-28,completed,Insurance Claim,In-Person
+92,216,16,2025-07-30,16:15,,completed,Card,In-Person
+93,63,25,2024-12-29,13:30,2025-01-12,completed,CASH,In-Person
+94,121,5,2024-12-23,12:30,,completed,Ins Claim,In-Person
+95,52,21,2025-03-26,09:00,2025-04-05,Completed,INS,In-Person
+96,26,7,2025-06-04,12:00,,Completed,Card,In-Person
+97,4,4,2025-06-23,14:15,2025-07-23,completed,Cash,Video Call
+98,105,1,2025-01-15,15:30,,completed,Cash,In-Person
+99,33,14,2024-09-21,15:15,,Completed,Card,In-Person
+100,146,22,2025-01-05,15:00,,COMPLETED,INS,In-Person
+101,187,21,2024-11-09,15:45,,Completed,Card,In-Person
+102,208,19,2025-02-03,16:15,,Completed,Card,In-Person
+103,190,24,2025-04-16,11:15,,Completed,Card,In-Person
+104,102,10,2024-10-04,09:45,,COMPLETED,INS,In-Person
+105,83,21,2024-11-22,15:15,,Cancelled,Card,In-Person
+106,266,6,2025-02-13,14:00,,COMPLETED,Insurance Claim,In-Person
+107,20,22,2025-01-13,10:45,,COMPLETED,INS,In-Person
+108,128,14,2025-02-16,14:45,,Completed,cash,Video Call
+109,229,25,2025-06-13,16:15,,cancelled,Cash,In-Person
+110,188,3,2025-03-15,17:00,,Completed,cash,In-Person
+111,41,2,2025-04-16,15:15,2025-04-27,Completed,Ins Claim,In-Person
+112,252,10,2024-10-24,12:00,,CANCELLED,Insurance Claim,In-Person
+113,141,15,2024-10-13,13:45,2024-10-25,completed,Card,In-Person
+114,207,6,2025-06-22,13:30,,NO-SHOW,INS,In-Person
+115,272,2,2025-06-22,14:45,,COMPLETED,Card,In-Person
+116,202,24,2025-02-07,13:45,,Scheduled,Cash,In-Person
+117,91,20,2024-08-25,13:30,,COMPLETED,INS,In-Person
+118,114,5,2024-12-27,15:45,2025-01-04,Completed,Cash,In-Person
+119,2,19,2025-01-29,13:00,2025-02-16,COMPLETED,cash,In-Person
+120,244,6,2024-10-08,09:15,,completed,cash,In-Person
+121,139,13,2024-12-14,09:00,,COMPLETED,Ins Claim,In-Person
+122,266,24,2025-04-10,12:15,,No-Show,Cash,In-Person
+123,122,6,2024-08-30,10:00,,COMPLETED,Insurance Claim,In-Person
+124,260,21,2025-06-25,15:15,,Completed,Cash,Video Call
+125,245,23,2025-05-03,09:45,,NoShow,cash,In-Person
+126,116,4,2024-12-12,12:00,2025-01-05,COMPLETED,INS,In-Person
+127,224,22,2025-04-25,13:30,2025-05-09,Completed,cash,In-Person
+128,104,6,2025-01-15,12:45,,Completed,cash,Video Call
+129,275,16,2025-03-30,17:00,,NoShow,Insurance Claim,In-Person
+130,158,26,2024-11-17,15:00,,Completed,Cash,In-Person
+131,83,12,2024-10-12,09:00,,COMPLETED,Card,In-Person
+132,34,19,2025-02-03,12:00,,NoShow,Cash,In-Person
+133,18,2,2025-06-21,10:30,,Completed,cash,In-Person
+134,217,9,2024-08-11,14:30,,No-Show,INS,Video Call
+135,258,16,2024-12-26,09:45,2025-01-20,COMPLETED,INS,In-Person
+136,111,23,2024-09-16,13:15,,COMPLETED,Cash,In-Person
+137,252,23,2024-11-03,16:30,,Scheduled,Card,In-Person
+138,110,23,2024-11-27,16:15,,COMPLETED,INS,In-Person
+139,54,21,2025-01-15,14:00,,completed,Ins Claim,In-Person
+140,13,12,2024-11-14,13:30,,COMPLETED,Card,Video Call
+141,236,5,2025-04-30,09:30,,COMPLETED,CASH,In-Person
+142,87,15,2025-03-13,13:15,2025-04-11,completed,Card,In-Person
+143,80,24,2024-10-19,12:30,2024-11-18,completed,CASH,Video Call
+144,53,6,2025-07-03,10:15,2025-07-13,Completed,Ins Claim,In-Person
+145,55,9,2024-11-14,15:45,,completed,INS,In-Person
+146,152,15,2024-08-12,11:30,,completed,Cash,Video Call
+147,294,19,2025-06-28,15:15,,COMPLETED,Ins Claim,In-Person
+148,93,21,2024-10-03,16:45,,COMPLETED,INS,In-Person
+149,81,9,2025-03-05,16:45,,completed,Card,Video Call
+150,6,13,2025-04-08,10:00,2025-05-03,Completed,Cash,In-Person
+151,234,18,2024-11-13,16:00,,completed,Card,In-Person
+152,95,13,2025-04-21,10:30,2025-05-11,completed,CASH,In-Person
+153,181,19,2024-12-14,10:15,,completed,Ins Claim,Video Call
+154,201,15,2024-11-17,11:15,,No-Show,Ins Claim,In-Person
+155,288,24,2024-11-24,11:30,,completed,Card,In-Person
+156,241,12,2024-11-26,13:45,,completed,Card,In-Person
+157,144,12,2024-12-04,13:30,,completed,Card,In-Person
+158,156,13,2024-08-30,10:30,,Cancelled,Card,In-Person
+159,8,22,2024-08-06,12:00,2024-08-27,completed,Card,Video Call
+160,178,26,2024-10-18,12:45,,Cancelled,Card,In-Person
+161,281,26,2025-06-22,13:15,2025-07-02,Completed,Card,In-Person
+162,136,14,2024-11-28,11:45,2024-12-10,Completed,Card,In-Person
+163,277,20,2024-08-04,11:30,,COMPLETED,Card,Video Call
+164,215,22,2024-09-08,11:30,,Completed,Cash,In-Person
+165,170,26,2024-09-18,17:45,2024-09-28,Completed,cash,In-Person
+166,188,11,2025-03-31,17:15,2025-04-22,completed,Card,Video Call
+167,207,11,2025-04-15,13:30,,Scheduled,INS,In-Person
+168,154,5,2025-05-28,10:00,,COMPLETED,Ins Claim,In-Person
+169,56,1,2024-08-24,12:45,,COMPLETED,cash,Video Call
+170,76,21,2025-07-11,10:15,2025-07-19,COMPLETED,Card,In-Person
+171,216,25,2024-09-21,09:30,,NO-SHOW,Ins Claim,In-Person
+172,155,6,2025-03-04,09:30,,COMPLETED,Card,In-Person
+173,61,25,2025-03-04,15:45,,COMPLETED,cash,Video Call
+174,80,16,2025-02-28,17:00,,completed,Cash,In-Person
+175,5,22,2025-07-09,10:00,,Completed,Cash,In-Person
+176,231,24,2024-11-04,09:30,,CANCELLED,Card,In-Person
+177,44,10,2025-06-18,17:45,2025-06-25,completed,Insurance Claim,In-Person
+178,41,13,2025-01-07,13:15,,Scheduled,Card,In-Person
+179,295,24,2025-03-13,16:15,,Completed,cash,In-Person
+180,245,13,2025-03-20,13:30,,Completed,Card,Video Call
+181,8,5,2025-06-04,13:45,,Scheduled,cash,In-Person
+182,120,26,2025-03-20,13:00,2025-04-14,completed,Card,In-Person
+183,76,9,2025-05-08,16:30,,COMPLETED,Card,In-Person
+184,120,10,2025-06-07,09:45,,Completed,Ins Claim,In-Person
+185,236,18,2024-09-14,17:30,,Cancelled,cash,Video Call
+186,268,11,2025-04-02,17:15,,Completed,cash,In-Person
+187,184,13,2025-04-22,11:15,,completed,Cash,In-Person
+188,42,5,2025-01-09,09:30,,COMPLETED,Cash,In-Person
+189,290,16,2025-05-28,12:30,,no-show,Card,In-Person
+190,68,9,2024-08-20,14:15,,Scheduled,Cash,In-Person
+191,190,23,2025-03-23,16:00,,NoShow,Ins Claim,Video Call
+192,132,11,2025-05-17,12:00,,Scheduled,Cash,In-Person
+193,121,24,2024-11-22,11:00,,Scheduled,cash,Video Call
+194,25,9,2025-04-20,16:00,2025-05-15,completed,Insurance Claim,In-Person
+195,226,25,2025-07-01,10:45,2025-07-15,completed,CASH,In-Person
+196,74,22,2024-08-07,16:15,,Cancelled,Insurance Claim,In-Person
+197,192,24,2024-10-11,16:00,,NoShow,Ins Claim,In-Person
+198,174,11,2024-11-28,16:00,,Completed,cash,In-Person
+199,284,5,2025-03-13,11:30,2025-03-25,Completed,CASH,In-Person
+200,134,16,2024-09-25,14:45,,No-Show,cash,In-Person
+201,109,18,2025-04-02,13:00,,Completed,INS,Video Call
+202,122,4,2025-02-16,13:45,,No-Show,INS,In-Person
+203,9,15,2025-04-17,14:15,,COMPLETED,CASH,In-Person
+204,112,9,2025-05-20,11:15,,NO-SHOW,Insurance Claim,In-Person
+205,45,20,2025-04-11,13:15,2025-04-20,COMPLETED,Card,In-Person
+206,267,14,2024-08-29,17:30,,COMPLETED,INS,In-Person
+207,245,5,2025-07-07,13:15,,completed,cash,In-Person
+208,3,12,2025-04-24,16:00,,COMPLETED,CASH,In-Person
+209,296,25,2024-09-01,13:00,,Scheduled,Card,In-Person
+210,276,5,2024-08-11,12:00,,Completed,CASH,In-Person
+211,16,1,2024-09-19,12:30,,COMPLETED,Card,In-Person
+212,53,12,2024-09-18,11:00,2024-09-29,completed,Card,In-Person
+213,278,19,2024-11-25,12:15,2024-12-22,completed,Insurance Claim,Video Call
+214,200,23,2025-03-04,17:00,,Completed,INS,In-Person
+215,224,19,2025-01-12,15:00,,Completed,INS,In-Person
+216,6,12,2024-09-25,17:15,2024-10-14,completed,cash,In-Person
+217,233,21,2024-08-24,09:00,,no-show,Ins Claim,In-Person
+218,278,26,2024-08-19,10:30,,Completed,Card,In-Person
+219,86,4,2024-08-31,17:30,,COMPLETED,Card,In-Person
+220,151,14,2025-05-23,13:30,,Completed,INS,Video Call
+221,292,8,2025-06-29,15:15,,completed,Card,In-Person
+222,159,1,2024-12-03,14:15,,COMPLETED,cash,In-Person
+223,84,8,2025-01-13,17:30,,completed,Insurance Claim,In-Person
+224,82,18,2024-09-04,14:45,,COMPLETED,CASH,In-Person
+225,267,8,2025-07-13,11:45,,completed,Cash,In-Person
+226,266,4,2025-04-01,13:15,,Completed,cash,In-Person
+227,293,5,2025-03-02,13:00,2025-03-21,completed,Card,In-Person
+228,270,18,2025-06-01,15:30,,COMPLETED,INS,In-Person
+229,275,10,2024-10-14,15:45,,Completed,INS,In-Person
+230,125,11,2024-11-13,15:00,,completed,Card,In-Person
+231,160,18,2025-06-14,15:45,,completed,cash,In-Person
+232,35,17,2024-11-26,10:45,,completed,Card,Video Call
+233,250,13,2025-03-14,14:00,,completed,Cash,Video Call
+234,57,21,2024-12-29,14:45,,COMPLETED,cash,In-Person
+235,212,6,2024-08-31,10:30,2024-09-07,COMPLETED,Card,In-Person
+236,158,23,2025-07-20,17:00,,NoShow,Ins Claim,In-Person
+237,16,7,2024-10-29,16:30,,NO-SHOW,Card,In-Person
+238,75,6,2025-04-23,17:00,,Completed,cash,In-Person
+239,221,26,2024-09-01,09:30,,Completed,Cash,In-Person
+240,299,3,2025-01-26,12:45,,Completed,CASH,In-Person
+241,226,2,2025-06-14,12:15,,Completed,Insurance Claim,In-Person
+242,234,10,2025-03-03,13:45,,Scheduled,CASH,In-Person
+243,300,8,2025-02-28,13:45,,NoShow,Cash,In-Person
+244,88,12,2025-02-11,11:00,,Scheduled,CASH,In-Person
+245,274,13,2025-01-19,15:00,,Scheduled,INS,In-Person
+246,199,7,2025-03-28,13:30,2025-04-26,Completed,Cash,In-Person
+247,67,3,2024-11-09,13:15,,completed,Insurance Claim,In-Person
+248,208,13,2025-06-19,12:30,,Scheduled,CASH,In-Person
+249,134,20,2025-03-14,14:15,2025-03-29,COMPLETED,Cash,In-Person
+250,198,1,2025-07-03,11:30,2025-07-16,COMPLETED,Cash,In-Person
+251,56,3,2025-05-15,14:30,,COMPLETED,Cash,In-Person
+252,205,10,2025-01-30,15:45,,CANCELLED,Insurance Claim,Video Call
+253,91,1,2025-02-04,14:45,,COMPLETED,Card,Video Call
+254,51,6,2024-12-28,10:30,,NO-SHOW,Insurance Claim,In-Person
+255,83,14,2024-11-10,13:15,2024-12-02,Completed,Card,In-Person
+256,267,9,2025-03-11,14:00,,COMPLETED,Cash,Video Call
+257,25,8,2025-07-15,10:00,,Cancelled,INS,In-Person
+258,45,14,2025-07-22,15:15,,Completed,CASH,In-Person
+259,258,24,2025-07-19,16:00,,Completed,Card,In-Person
+260,287,9,2024-10-29,17:15,,Scheduled,Card,Video Call
+261,87,12,2025-01-25,15:00,,completed,cash,In-Person
+262,122,23,2024-12-02,09:45,,COMPLETED,CASH,In-Person
+263,289,8,2025-01-18,10:45,,Cancelled,Card,In-Person
+264,237,25,2025-02-24,12:00,,Completed,Cash,In-Person
+265,156,7,2024-09-26,13:45,,Scheduled,CASH,In-Person
+266,149,6,2025-05-13,10:00,,completed,cash,In-Person
+267,136,4,2025-06-27,16:45,,COMPLETED,CASH,Video Call
+268,129,21,2024-12-04,10:15,,Cancelled,Insurance Claim,In-Person
+269,96,21,2025-04-27,11:00,,cancelled,INS,In-Person
+270,183,11,2024-11-26,14:15,2024-12-21,completed,INS,In-Person
+271,207,2,2024-11-19,16:45,2024-12-18,Completed,Ins Claim,In-Person
+272,117,6,2024-10-10,16:45,,Completed,INS,In-Person
+273,2,2,2025-06-09,17:45,2025-06-16,Completed,Card,Video Call
+274,91,24,2024-10-24,15:30,,COMPLETED,Card,In-Person
+275,265,15,2025-03-08,17:15,,Scheduled,Insurance Claim,In-Person
+276,170,20,2025-07-04,13:45,,Scheduled,Card,In-Person
+277,176,17,2025-06-21,09:15,,COMPLETED,Card,In-Person
+278,285,19,2025-03-02,14:15,,completed,Cash,In-Person
+279,281,24,2024-09-27,12:30,2024-10-18,Completed,Card,In-Person
+280,116,18,2025-05-21,10:00,,No-Show,Insurance Claim,Video Call
+281,282,17,2024-09-28,17:00,2024-10-20,COMPLETED,Cash,Video Call
+282,48,5,2025-02-08,09:45,2025-02-24,completed,cash,In-Person
+283,62,23,2024-10-09,15:00,,Completed,Card,In-Person
+284,175,26,2025-07-15,09:30,,completed,Card,In-Person
+285,181,4,2025-01-30,17:30,,Cancelled,cash,In-Person
+286,182,7,2025-07-22,16:00,,CANCELLED,Card,In-Person
+287,38,26,2024-12-11,11:15,2024-12-26,completed,Ins Claim,In-Person
+288,276,23,2024-12-16,16:00,,Completed,Card,Video Call
+289,19,3,2024-11-02,15:45,,Scheduled,cash,In-Person
+290,185,11,2025-04-28,12:30,,No-Show,CASH,In-Person
+291,170,19,2025-03-28,15:30,2025-04-23,completed,Card,In-Person
+292,24,21,2024-10-14,11:30,,Completed,Card,In-Person
+293,300,5,2025-07-24,09:00,,NoShow,Card,In-Person
+294,145,26,2024-11-30,11:00,2024-12-24,completed,Ins Claim,Video Call
+295,208,11,2024-08-31,14:30,,NoShow,Card,Video Call
+296,179,5,2024-10-09,12:00,,NoShow,Card,In-Person
+297,155,6,2025-05-28,10:15,,completed,cash,In-Person
+298,175,3,2024-11-06,10:15,,completed,INS,Video Call
+299,35,16,2025-01-11,11:30,,No-Show,Ins Claim,In-Person
+300,11,7,2024-08-25,15:45,2024-09-24,COMPLETED,cash,In-Person
+301,30,5,2025-06-04,09:00,2025-07-01,COMPLETED,Cash,In-Person
+302,8,21,2025-01-13,09:15,,COMPLETED,CASH,In-Person
+303,173,6,2024-08-30,15:00,,COMPLETED,CASH,Video Call
+304,238,1,2024-08-14,14:30,2024-08-27,COMPLETED,INS,In-Person
+305,74,17,2024-09-16,14:30,,COMPLETED,Card,In-Person
+306,170,8,2025-06-13,13:45,,CANCELLED,cash,Video Call
+307,233,18,2024-12-21,14:30,,Completed,Card,In-Person
+308,186,5,2025-06-18,12:45,,Cancelled,Ins Claim,In-Person
+309,31,18,2025-04-14,12:15,,COMPLETED,Cash,Video Call
+310,83,17,2024-08-15,14:15,,completed,CASH,Video Call
+311,109,11,2024-08-14,10:00,2024-09-08,COMPLETED,Ins Claim,Video Call
+312,193,14,2025-02-09,12:00,2025-03-01,completed,Insurance Claim,In-Person
+313,143,10,2025-04-13,12:15,2025-04-30,completed,Insurance Claim,Video Call
+314,3,16,2024-12-06,11:30,,COMPLETED,Insurance Claim,In-Person
+315,108,24,2025-02-01,09:45,,Completed,INS,In-Person
+316,78,1,2024-10-08,13:15,,completed,Cash,In-Person
+317,213,11,2025-06-25,15:30,,Scheduled,Card,In-Person
+318,8,2,2024-10-09,17:15,,COMPLETED,Cash,In-Person
+319,34,4,2024-10-01,16:15,,Completed,cash,In-Person
+320,280,17,2024-09-27,17:30,,Cancelled,Cash,Video Call
+321,115,24,2024-09-07,13:15,2024-10-01,completed,Cash,In-Person
+322,186,9,2024-08-06,14:00,,COMPLETED,CASH,In-Person
+323,138,13,2025-03-05,14:45,,Completed,CASH,Video Call
+324,3,8,2025-06-08,17:30,,COMPLETED,Cash,Video Call
+325,45,20,2024-08-18,09:45,,completed,Card,In-Person
+326,296,1,2025-03-31,16:30,,completed,cash,In-Person
+327,182,23,2024-09-02,15:30,,COMPLETED,Insurance Claim,In-Person
+328,115,20,2024-12-14,13:45,,no-show,Card,In-Person
+329,73,3,2025-04-28,14:15,,completed,Cash,In-Person
+330,91,21,2025-06-30,09:30,,completed,Cash,In-Person
+331,187,12,2025-07-06,17:30,,Completed,CASH,Video Call
+332,231,21,2025-04-02,11:15,,Completed,cash,In-Person
+333,268,11,2025-02-12,13:00,,Completed,Card,In-Person
+334,279,9,2025-01-13,13:15,2025-01-24,completed,cash,In-Person
+335,217,26,2024-12-27,14:00,,completed,cash,In-Person
+336,221,21,2025-06-08,13:30,,COMPLETED,cash,In-Person
+337,298,12,2024-09-02,12:30,,No-Show,INS,In-Person
+338,213,16,2025-06-26,09:00,,completed,Ins Claim,Video Call
+339,243,6,2024-09-03,16:45,,COMPLETED,Insurance Claim,In-Person
+340,206,18,2024-08-21,13:30,,cancelled,Cash,Video Call
+341,293,1,2024-09-22,16:00,,NO-SHOW,Card,Video Call
+342,103,23,2025-01-19,16:00,,COMPLETED,Card,Video Call
+343,75,11,2025-01-19,12:00,,COMPLETED,CASH,In-Person
+344,153,18,2025-02-19,17:45,,completed,CASH,Video Call
+345,132,10,2024-11-12,11:00,,COMPLETED,CASH,In-Person
+346,73,12,2025-01-22,12:45,,No-Show,Insurance Claim,In-Person
+347,210,19,2025-01-13,09:30,,completed,cash,In-Person
+348,233,13,2025-03-16,12:15,,completed,Insurance Claim,In-Person
+349,37,20,2025-04-12,11:00,,NO-SHOW,Card,Video Call
+350,274,6,2024-10-14,12:00,,Completed,Insurance Claim,In-Person
+351,132,23,2025-03-15,15:15,,NO-SHOW,CASH,In-Person
+352,120,19,2025-01-11,17:15,,completed,Cash,In-Person
+353,119,13,2024-08-17,14:45,2024-08-28,completed,cash,In-Person
+354,95,14,2025-01-18,15:00,,completed,Cash,Video Call
+355,270,3,2024-12-27,16:30,2025-01-12,completed,Insurance Claim,In-Person
+356,299,18,2024-09-15,12:15,,Completed,Card,In-Person
+357,1,12,2024-11-08,11:30,,completed,CASH,In-Person
+358,92,4,2024-12-31,10:45,,COMPLETED,Cash,In-Person
+359,18,2,2025-04-20,10:45,,Completed,Card,In-Person
+360,84,12,2024-10-26,10:30,2024-11-05,COMPLETED,INS,In-Person
+361,123,4,2024-10-18,16:30,,Completed,Cash,In-Person
+362,260,9,2025-02-04,12:30,,Completed,Insurance Claim,In-Person
+363,123,4,2024-08-08,10:00,2024-08-23,COMPLETED,Card,In-Person
+364,16,14,2025-02-18,17:00,2025-03-13,Completed,cash,In-Person
+365,32,8,2024-09-07,14:00,,COMPLETED,Insurance Claim,Video Call
+366,237,19,2024-11-02,09:30,,Scheduled,Insurance Claim,In-Person
+367,126,5,2025-04-19,11:15,,Cancelled,Cash,In-Person
+368,35,1,2025-04-03,09:45,2025-04-30,completed,Ins Claim,In-Person
+369,26,12,2025-02-27,10:30,,completed,Card,In-Person
+370,156,2,2025-03-27,11:45,,COMPLETED,Ins Claim,In-Person
+371,273,21,2025-06-20,10:00,,Scheduled,Insurance Claim,In-Person
+372,235,18,2024-11-30,16:00,,completed,Ins Claim,In-Person
+373,195,13,2024-09-14,12:30,,completed,Insurance Claim,In-Person
+374,57,26,2025-04-01,15:45,,completed,cash,In-Person
+375,239,20,2024-08-17,13:30,,completed,CASH,In-Person
+376,124,4,2024-11-19,09:45,,Cancelled,CASH,Video Call
+377,186,6,2024-11-23,14:45,,completed,Ins Claim,In-Person
+378,84,13,2025-04-27,09:00,,No-Show,INS,In-Person
+379,129,24,2025-01-28,10:45,,completed,Card,In-Person
+380,137,10,2025-02-02,13:45,,No-Show,INS,In-Person
+381,10,2,2025-07-16,10:45,,COMPLETED,Ins Claim,In-Person
+382,167,16,2024-10-10,09:30,,COMPLETED,Ins Claim,In-Person
+383,144,21,2024-12-02,13:00,,completed,Card,In-Person
+384,185,23,2024-12-21,14:15,,cancelled,Ins Claim,In-Person
+385,72,7,2025-04-22,09:15,,COMPLETED,CASH,Video Call
+386,197,25,2025-02-01,11:30,,completed,CASH,Video Call
+387,134,12,2025-02-18,14:45,,cancelled,Cash,Video Call
+388,231,17,2025-02-26,11:30,,completed,INS,In-Person
+389,211,25,2024-09-09,13:45,2024-09-30,completed,Card,Video Call
+390,7,2,2025-04-30,13:30,,completed,Cash,Video Call
+391,50,25,2025-06-05,15:00,,NO-SHOW,Card,In-Person
+392,202,26,2025-01-22,15:45,2025-02-21,completed,Cash,In-Person
+393,267,14,2025-07-09,13:15,,COMPLETED,CASH,In-Person
+394,121,19,2025-03-10,15:15,,completed,Ins Claim,In-Person
+395,78,8,2025-07-10,12:00,,No-Show,Ins Claim,In-Person
+396,148,5,2025-06-28,15:30,,COMPLETED,Card,In-Person
+397,159,4,2025-02-01,10:30,,COMPLETED,CASH,In-Person
+398,72,15,2024-12-19,17:00,,Scheduled,CASH,In-Person
+399,115,10,2025-06-19,14:30,,Completed,Cash,In-Person
+400,296,18,2024-08-16,12:15,,COMPLETED,CASH,In-Person
+401,46,19,2024-09-27,15:45,,COMPLETED,Card,Video Call
+402,169,22,2024-12-07,10:45,,completed,Card,In-Person
+403,58,13,2024-10-24,13:15,,COMPLETED,Cash,In-Person
+404,136,7,2025-05-14,13:00,,No-Show,Cash,In-Person
+405,276,9,2025-05-13,14:15,,completed,INS,In-Person
+406,182,14,2024-08-16,16:00,2024-09-02,Completed,CASH,In-Person
+407,164,16,2024-10-05,10:30,,Completed,cash,In-Person
+408,143,17,2025-03-12,15:15,,cancelled,Cash,In-Person
+409,300,18,2025-02-11,09:00,,Cancelled,Card,In-Person
+410,294,18,2024-09-06,14:30,2024-09-24,completed,Card,In-Person
+411,196,4,2024-09-20,11:15,,COMPLETED,Card,In-Person
+412,28,16,2024-10-26,15:15,2024-11-17,completed,Card,In-Person
+413,196,3,2025-07-25,12:15,,COMPLETED,Insurance Claim,In-Person
+414,20,8,2024-09-18,12:00,2024-10-12,Completed,Card,In-Person
+415,296,14,2024-12-13,09:15,,completed,Insurance Claim,In-Person
+416,50,6,2024-10-13,17:15,2024-10-20,completed,CASH,Video Call
+417,285,21,2024-09-13,17:00,,COMPLETED,Card,In-Person
+418,287,24,2024-11-15,09:15,,cancelled,cash,In-Person
+419,107,22,2025-03-08,10:00,,completed,Card,In-Person
+420,52,3,2025-02-05,13:30,,completed,cash,In-Person
+421,99,1,2024-09-10,10:00,,COMPLETED,Insurance Claim,In-Person
+422,209,20,2025-05-22,12:00,,No-Show,Insurance Claim,In-Person
+423,70,14,2024-08-29,11:30,2024-09-17,COMPLETED,CASH,Video Call
+424,49,6,2025-03-15,11:45,,cancelled,Cash,In-Person
+425,276,1,2025-01-22,12:30,,no-show,Cash,Video Call
+426,41,18,2024-10-22,10:00,,cancelled,Card,In-Person
+427,276,4,2025-03-23,11:15,,COMPLETED,Card,Video Call
+428,266,23,2025-06-20,10:15,,Completed,INS,In-Person
+429,91,20,2025-03-13,11:30,,Cancelled,Cash,In-Person
+430,108,21,2024-12-11,11:00,2024-12-18,COMPLETED,Cash,In-Person
+431,38,12,2024-09-08,11:00,,CANCELLED,Ins Claim,Video Call
+432,231,6,2024-09-21,13:30,,COMPLETED,Card,Video Call
+433,236,11,2025-01-13,12:00,,Completed,Cash,Video Call
+434,143,20,2024-08-06,12:00,,NO-SHOW,Ins Claim,In-Person
+435,135,6,2024-08-24,11:45,,Completed,cash,In-Person
+436,32,3,2024-12-30,09:30,,NO-SHOW,INS,In-Person
+437,91,5,2025-02-06,13:30,2025-02-25,COMPLETED,Card,Video Call
+438,16,8,2025-06-29,12:15,,cancelled,CASH,In-Person
+439,4,2,2024-09-20,15:30,,Completed,Card,In-Person
+440,252,3,2025-02-24,10:45,2025-03-05,Completed,INS,In-Person
+441,137,12,2025-03-16,16:15,,No-Show,Cash,In-Person
+442,111,19,2025-06-09,15:00,,completed,Card,In-Person
+443,162,7,2024-09-21,10:45,,completed,Insurance Claim,In-Person
+444,163,4,2024-11-14,13:30,,COMPLETED,INS,In-Person
+445,264,1,2025-06-26,16:00,,Completed,Ins Claim,In-Person
+446,75,13,2025-01-12,09:30,,COMPLETED,Cash,In-Person
+447,42,15,2024-11-20,09:30,,Completed,INS,In-Person
+448,34,13,2024-08-13,11:00,,completed,CASH,In-Person
+449,252,22,2024-11-17,12:15,,Cancelled,CASH,In-Person
+450,165,2,2025-02-25,11:30,2025-03-04,COMPLETED,CASH,In-Person
+451,80,20,2024-12-11,16:45,2024-12-31,COMPLETED,CASH,In-Person
+452,77,5,2025-04-25,11:30,,No-Show,CASH,In-Person
+453,300,15,2025-02-26,13:15,,no-show,Ins Claim,In-Person
+454,27,14,2024-09-23,09:30,,Completed,INS,In-Person
+455,154,26,2025-07-06,17:00,,completed,Card,Video Call
+456,99,14,2024-09-08,13:45,,COMPLETED,Ins Claim,In-Person
+457,269,9,2025-07-13,10:00,,completed,CASH,In-Person
+458,175,22,2025-07-30,11:45,,Scheduled,Insurance Claim,Video Call
+459,107,18,2025-02-26,15:15,,NO-SHOW,cash,In-Person
+460,254,25,2025-02-03,11:15,,completed,cash,In-Person
+461,216,21,2024-09-09,16:45,,Scheduled,CASH,In-Person
+462,247,23,2024-08-10,11:45,,COMPLETED,Ins Claim,In-Person
+463,101,12,2025-01-02,13:15,,CANCELLED,Card,In-Person
+464,8,20,2025-05-01,15:30,2025-05-15,Completed,Insurance Claim,In-Person
+465,90,9,2025-07-31,12:00,,Completed,Insurance Claim,In-Person
+466,268,12,2025-01-11,13:45,,cancelled,Cash,In-Person
+467,136,3,2024-09-02,09:30,2024-09-26,COMPLETED,cash,In-Person
+468,27,25,2024-10-18,15:45,2024-11-12,Completed,Cash,Video Call
+469,78,7,2025-07-29,16:45,,Cancelled,Card,In-Person
+470,71,1,2024-11-07,12:00,,cancelled,CASH,In-Person
+471,268,18,2025-01-17,09:00,,Completed,CASH,In-Person
+472,233,20,2024-11-07,11:15,,Scheduled,Cash,In-Person
+473,174,23,2025-07-15,13:45,,COMPLETED,cash,In-Person
+474,264,8,2024-10-17,11:15,,Completed,cash,In-Person
+475,244,17,2025-01-07,10:00,,COMPLETED,CASH,In-Person
+476,263,8,2025-03-19,14:45,,NoShow,INS,In-Person
+477,162,20,2024-08-27,10:45,,completed,cash,In-Person
+478,18,10,2025-07-03,10:30,,Completed,cash,In-Person
+479,27,2,2024-12-26,11:00,,completed,cash,In-Person
+480,123,6,2025-02-15,15:30,,Completed,Card,In-Person
+481,198,16,2024-11-24,11:30,,cancelled,Ins Claim,In-Person
+482,100,16,2024-09-24,17:30,,Cancelled,CASH,Video Call
+483,77,20,2025-01-12,14:15,,cancelled,Card,In-Person
+484,1,8,2025-05-22,14:00,,cancelled,Card,Video Call
+485,168,8,2025-01-10,13:30,,COMPLETED,CASH,In-Person
+486,7,22,2025-02-27,12:00,,Scheduled,INS,In-Person
+487,167,13,2025-03-12,13:15,,COMPLETED,Cash,In-Person
+488,164,25,2024-10-11,17:00,,CANCELLED,INS,In-Person
+489,237,26,2024-11-18,14:30,2024-12-06,Completed,Cash,Video Call
+490,37,20,2024-09-04,16:00,,completed,Card,Video Call
+491,159,21,2025-06-20,16:30,,no-show,INS,In-Person
+492,55,20,2025-05-28,17:00,2025-06-21,completed,cash,In-Person
+493,186,22,2025-07-23,10:00,,COMPLETED,Card,In-Person
+494,149,17,2025-01-30,10:15,,CANCELLED,Insurance Claim,In-Person
+495,222,6,2025-02-11,10:45,2025-03-07,completed,Ins Claim,In-Person
+496,257,1,2025-07-09,11:45,,Scheduled,cash,In-Person
+497,58,19,2025-02-02,09:00,,Completed,Ins Claim,Video Call
+498,262,15,2024-10-19,17:15,,COMPLETED,Card,In-Person
+499,133,20,2024-12-20,12:45,,COMPLETED,Card,In-Person
+500,85,24,2024-11-30,17:30,2024-12-25,Completed,Cash,Video Call
+501,57,24,2025-03-25,12:30,,cancelled,Insurance Claim,In-Person
+502,1,15,2024-09-14,10:45,,completed,Cash,Video Call
+503,126,7,2024-11-25,11:45,,completed,Cash,In-Person
+504,73,7,2025-05-29,14:00,,Completed,Card,In-Person
+505,243,9,2025-03-30,17:15,,COMPLETED,Cash,In-Person
+506,197,3,2025-02-23,10:30,,cancelled,cash,Video Call
+507,78,15,2025-05-21,17:00,,COMPLETED,Card,Video Call
+508,81,18,2025-07-01,09:15,,COMPLETED,INS,In-Person
+509,175,26,2024-10-20,17:45,,completed,Cash,In-Person
+510,226,16,2024-12-19,14:00,,COMPLETED,INS,In-Person
+511,171,9,2025-02-15,13:00,2025-03-04,completed,cash,In-Person
+512,148,16,2024-10-22,15:00,2024-10-30,Completed,Cash,In-Person
+513,224,9,2024-10-02,10:15,2024-11-01,Completed,Insurance Claim,In-Person
+514,255,24,2025-02-14,15:00,,COMPLETED,Ins Claim,In-Person
+515,44,2,2024-10-22,10:00,2024-11-03,COMPLETED,Card,In-Person
+516,102,20,2025-01-31,12:30,2025-02-07,completed,CASH,In-Person
+517,90,6,2024-11-01,11:30,,COMPLETED,cash,In-Person
+518,226,18,2025-05-22,09:45,,Completed,Card,In-Person
+519,76,2,2025-05-15,17:15,,COMPLETED,cash,In-Person
+520,264,1,2025-02-02,15:15,,COMPLETED,Card,Video Call
+521,83,11,2025-02-09,12:30,,Scheduled,Ins Claim,Video Call
+522,297,23,2025-01-15,14:30,,cancelled,cash,In-Person
+523,141,3,2025-04-09,09:15,,Completed,Card,In-Person
+524,3,3,2025-05-29,11:00,,Completed,Card,In-Person
+525,132,3,2025-03-18,14:00,2025-04-05,COMPLETED,Cash,In-Person
+526,106,17,2025-04-14,17:45,,CANCELLED,INS,In-Person
+527,163,13,2025-07-16,16:00,,Completed,INS,In-Person
+528,277,24,2024-10-07,14:45,,no-show,Insurance Claim,In-Person
+529,14,3,2024-09-11,09:15,,completed,Insurance Claim,In-Person
+530,95,5,2025-06-27,10:15,,cancelled,Cash,Video Call
+531,115,16,2024-11-23,13:30,,NO-SHOW,cash,In-Person
+532,33,21,2025-02-13,17:45,,completed,INS,In-Person
+533,119,21,2025-03-26,16:15,,NO-SHOW,Card,In-Person
+534,208,6,2024-10-10,16:45,,completed,Card,In-Person
+535,169,6,2025-01-23,10:30,2025-02-09,Completed,Insurance Claim,In-Person
+536,198,19,2025-05-08,11:30,,cancelled,Cash,Video Call
+537,234,21,2025-02-06,14:45,,Scheduled,Card,In-Person
+538,98,10,2024-12-29,12:00,,Completed,Card,In-Person
+539,122,22,2024-09-26,13:00,,Scheduled,CASH,In-Person
+540,144,11,2025-05-19,09:45,2025-05-31,COMPLETED,Card,In-Person
+541,115,4,2024-11-16,10:30,,COMPLETED,Card,In-Person
+542,14,3,2025-06-02,15:00,,cancelled,Card,In-Person
+543,12,1,2024-08-28,15:45,,COMPLETED,Cash,In-Person
+544,131,18,2024-10-12,11:15,,Completed,Card,In-Person
+545,295,4,2025-05-14,16:45,2025-05-21,Completed,Insurance Claim,In-Person
+546,124,12,2024-12-02,10:45,,completed,Cash,In-Person
+547,26,15,2025-04-15,12:00,,Completed,CASH,In-Person
+548,46,11,2025-06-29,10:45,,Cancelled,Card,In-Person
+549,80,6,2025-01-04,15:30,,No-Show,INS,Video Call
+550,24,16,2024-10-02,11:00,,Completed,Cash,In-Person
+551,98,17,2025-02-24,11:15,,completed,CASH,In-Person
+552,2,23,2024-11-23,15:00,,Completed,Card,Video Call
+553,137,22,2025-07-10,14:15,2025-07-18,completed,Card,In-Person
+554,279,7,2024-12-13,10:45,,completed,Cash,In-Person
+555,230,10,2024-09-02,16:15,,completed,Card,In-Person
+556,24,26,2024-09-08,10:30,,Completed,Card,In-Person
+557,188,14,2025-07-31,13:15,,Scheduled,Cash,In-Person
+558,221,8,2025-06-23,11:30,2025-07-01,Completed,Insurance Claim,In-Person
+559,182,3,2025-01-04,14:45,,Scheduled,Cash,In-Person
+560,173,5,2025-02-08,14:15,,COMPLETED,Card,In-Person
+561,95,2,2025-04-30,13:30,2025-05-23,COMPLETED,INS,In-Person
+562,278,13,2025-05-06,13:30,,COMPLETED,CASH,In-Person
+563,110,24,2025-03-20,14:30,,Completed,Ins Claim,In-Person
+564,222,21,2025-07-13,13:30,,completed,Card,In-Person
+565,269,22,2025-01-04,12:30,,Completed,Ins Claim,In-Person
+566,190,7,2024-12-17,16:00,2024-12-28,completed,INS,In-Person
+567,94,23,2024-10-20,14:30,2024-10-28,COMPLETED,INS,In-Person
+568,219,14,2024-11-07,11:30,,Completed,INS,In-Person
+569,131,1,2025-02-17,15:15,,Completed,Insurance Claim,In-Person
+570,18,20,2024-11-05,12:00,,COMPLETED,Card,In-Person
+571,124,8,2025-03-30,14:00,2025-04-12,completed,Card,In-Person
+572,226,10,2025-03-02,14:00,,No-Show,CASH,In-Person
+573,217,8,2025-01-18,12:45,,COMPLETED,INS,In-Person
+574,246,15,2024-08-07,09:45,,COMPLETED,Card,In-Person
+575,54,9,2025-03-14,10:30,2025-04-01,Completed,Card,In-Person
+576,3,14,2025-02-27,17:45,2025-03-22,COMPLETED,CASH,Video Call
+577,271,16,2024-09-28,14:30,,NO-SHOW,CASH,In-Person
+578,172,20,2025-06-11,17:30,,Completed,Card,Video Call
+579,273,21,2025-01-15,11:30,,Completed,CASH,In-Person
+580,114,13,2024-08-02,11:15,,completed,CASH,In-Person
+581,235,6,2025-02-08,09:00,,completed,Card,In-Person
+582,102,18,2024-10-28,10:15,,completed,Ins Claim,In-Person
+583,88,22,2025-04-18,14:30,2025-05-04,Completed,Ins Claim,In-Person
+584,155,22,2024-11-11,17:15,,COMPLETED,Ins Claim,In-Person
+585,253,15,2025-05-09,11:00,,Completed,cash,In-Person
+586,263,24,2024-10-15,13:00,,COMPLETED,cash,Video Call
+587,233,18,2024-12-01,11:15,,COMPLETED,Cash,In-Person
+588,37,1,2025-06-16,10:00,,completed,Card,Video Call
+589,105,15,2025-06-05,13:00,,CANCELLED,CASH,In-Person
+590,283,16,2025-06-10,11:45,,completed,CASH,Video Call
+591,113,9,2024-12-17,17:15,,completed,Cash,In-Person
+592,189,15,2025-04-19,14:45,2025-05-07,COMPLETED,Ins Claim,In-Person
+593,255,24,2025-07-03,15:15,,Completed,Card,In-Person
+594,102,21,2024-12-06,14:00,,completed,Card,In-Person
+595,112,11,2025-03-12,09:30,2025-04-09,Completed,Card,In-Person
+596,49,26,2025-07-14,15:45,,COMPLETED,INS,In-Person
+597,89,17,2024-10-16,14:15,,completed,Cash,In-Person
+598,98,6,2025-04-01,17:15,,COMPLETED,Card,In-Person
+599,103,15,2024-08-20,10:45,2024-09-07,completed,Card,Video Call
+600,191,4,2025-04-03,10:15,2025-04-28,Completed,cash,Video Call
+601,26,7,2024-12-06,12:00,,Completed,Cash,In-Person
+602,237,8,2025-02-07,12:45,2025-03-08,Completed,Insurance Claim,In-Person
+603,252,25,2024-08-12,12:15,,completed,INS,In-Person
+604,115,10,2025-03-02,10:45,,COMPLETED,INS,In-Person
+605,209,7,2025-07-05,09:15,,COMPLETED,Ins Claim,In-Person
+606,189,14,2024-08-05,09:30,2024-08-21,COMPLETED,Cash,In-Person
+607,223,23,2025-06-22,12:15,,COMPLETED,CASH,In-Person
+608,167,17,2025-06-02,12:30,2025-06-26,Completed,Card,In-Person
+609,84,4,2024-09-16,10:30,,COMPLETED,Ins Claim,In-Person
+610,257,24,2025-03-01,10:00,,completed,Card,In-Person
+611,117,13,2024-11-11,14:45,2024-11-19,completed,cash,In-Person
+612,230,9,2024-11-12,11:45,2024-11-23,COMPLETED,Cash,In-Person
+613,140,8,2024-10-02,17:00,,Completed,Card,Video Call
+614,33,4,2024-09-25,15:30,,Completed,INS,In-Person
+615,9,1,2024-10-17,17:15,,Completed,Card,In-Person
+616,214,15,2024-12-07,12:30,,Cancelled,Card,In-Person
+617,210,10,2025-06-02,09:00,,Completed,Card,In-Person
+618,143,22,2025-04-12,13:15,,Completed,cash,In-Person
+619,261,3,2024-09-18,17:45,2024-10-04,completed,cash,Video Call
+620,192,8,2025-02-28,17:30,2025-03-26,COMPLETED,INS,Video Call
+621,105,5,2025-05-08,11:00,,COMPLETED,CASH,In-Person
+622,205,15,2024-10-29,10:30,,Completed,cash,In-Person
+623,23,7,2025-02-17,15:45,,COMPLETED,Card,In-Person
+624,264,13,2024-11-05,15:15,,Scheduled,INS,In-Person
+625,42,8,2025-07-16,10:15,,cancelled,INS,In-Person
+626,160,20,2025-02-05,11:15,,Completed,Ins Claim,In-Person
+627,53,17,2024-10-19,11:15,,Scheduled,INS,In-Person
+628,137,7,2025-02-19,09:45,2025-03-05,completed,cash,In-Person
+629,207,9,2024-12-02,09:00,2024-12-10,completed,Card,In-Person
+630,191,19,2024-08-17,10:00,2024-09-05,COMPLETED,Ins Claim,In-Person
+631,80,18,2025-03-25,13:30,,Completed,cash,In-Person
+632,172,20,2025-03-11,12:30,2025-03-28,completed,cash,In-Person
+633,131,23,2025-06-27,13:30,,NoShow,Card,In-Person
+634,163,4,2025-07-19,11:00,,COMPLETED,Card,In-Person
+635,172,7,2025-01-18,16:45,,CANCELLED,Insurance Claim,In-Person
+636,39,3,2025-03-20,09:00,,NoShow,Card,In-Person
+637,71,25,2024-08-26,15:15,,COMPLETED,Card,In-Person
+638,5,11,2024-08-20,15:15,,Completed,Cash,Video Call
+639,251,23,2025-04-10,14:00,,COMPLETED,CASH,In-Person
+640,34,16,2025-05-05,17:45,,Completed,Card,In-Person
+641,259,20,2024-08-13,10:45,,no-show,CASH,In-Person
+642,142,22,2024-08-02,16:15,,completed,CASH,In-Person
+643,27,11,2025-01-05,17:15,,NoShow,Ins Claim,In-Person
+644,15,14,2025-03-24,17:15,2025-04-21,completed,cash,In-Person
+645,8,5,2025-01-12,09:15,,COMPLETED,CASH,In-Person
+646,116,24,2025-07-27,17:30,,Completed,Insurance Claim,In-Person
+647,198,12,2024-10-18,16:15,,no-show,Insurance Claim,In-Person
+648,253,2,2024-10-02,11:00,2024-10-21,COMPLETED,Card,In-Person
+649,69,10,2025-05-05,09:00,,NoShow,Card,In-Person
+650,62,7,2024-10-18,13:15,,No-Show,INS,In-Person
+651,94,25,2025-03-13,17:30,,Scheduled,INS,In-Person
+652,202,22,2024-10-14,16:30,,CANCELLED,Card,In-Person
+653,191,5,2024-12-03,09:00,,completed,INS,In-Person
+654,239,26,2025-05-04,11:45,2025-05-11,completed,Card,In-Person
+655,47,22,2025-02-22,10:15,2025-03-13,COMPLETED,CASH,In-Person
+656,175,7,2024-12-02,15:30,,CANCELLED,Cash,Video Call
+657,35,10,2025-03-03,13:30,,Cancelled,Card,In-Person
+658,247,10,2025-02-11,10:00,2025-02-21,COMPLETED,Card,In-Person
+659,119,17,2025-07-25,11:45,,Completed,Card,Video Call
+660,176,13,2025-06-25,10:00,,NO-SHOW,cash,In-Person
+661,167,15,2025-03-28,13:45,,COMPLETED,CASH,In-Person
+662,212,23,2024-08-13,13:45,,Completed,Card,In-Person
+663,101,23,2025-07-16,10:00,,Completed,Cash,In-Person
+664,233,21,2025-03-10,14:45,,Completed,Cash,In-Person
+665,212,22,2025-01-27,15:15,,COMPLETED,Card,In-Person
+666,253,24,2025-03-17,09:45,2025-03-26,Completed,Card,In-Person
+667,111,8,2025-04-13,13:45,,NoShow,Card,In-Person
+668,89,22,2024-11-15,10:45,2024-12-02,COMPLETED,INS,In-Person
+669,220,8,2024-10-03,09:00,2024-10-24,Completed,INS,In-Person
+670,120,9,2024-11-04,16:15,2024-12-03,completed,INS,In-Person
+671,202,25,2025-05-15,10:15,2025-06-01,completed,Card,In-Person
+672,197,8,2025-06-14,14:00,,COMPLETED,Ins Claim,In-Person
+673,119,19,2025-07-27,12:30,,COMPLETED,CASH,In-Person
+674,194,3,2024-08-06,09:45,,COMPLETED,Cash,In-Person
+675,108,16,2024-08-19,16:15,,Completed,Card,In-Person
+676,227,26,2025-06-16,12:30,,COMPLETED,Cash,Video Call
+677,12,4,2024-12-30,14:15,,Completed,Card,In-Person
+678,76,4,2025-01-03,13:45,,completed,INS,In-Person
+679,288,11,2024-12-09,09:15,,completed,INS,In-Person
+680,159,10,2024-08-07,17:30,,completed,CASH,In-Person
+681,219,9,2024-09-14,16:45,,COMPLETED,Card,In-Person
+682,135,18,2024-11-01,16:45,2024-11-15,Completed,CASH,In-Person
+683,127,2,2024-11-09,17:15,,COMPLETED,INS,Video Call
+684,30,7,2025-07-07,12:45,2025-07-25,completed,cash,In-Person
+685,61,16,2024-10-16,17:15,,Scheduled,Card,Video Call
+686,65,10,2024-11-20,14:45,,completed,CASH,In-Person
+687,11,16,2025-04-08,12:15,,Completed,Card,In-Person
+688,52,11,2024-10-16,10:15,,CANCELLED,Card,In-Person
+689,211,4,2025-05-04,09:30,,NoShow,INS,In-Person
+690,176,10,2025-05-07,09:15,,Completed,CASH,In-Person
+691,33,22,2024-09-12,17:00,,Completed,Card,In-Person
+692,130,9,2024-08-15,15:30,2024-08-26,completed,Cash,In-Person
+693,15,21,2025-07-07,13:15,,completed,Insurance Claim,In-Person
+694,260,4,2025-04-13,09:45,,completed,Insurance Claim,In-Person
+695,68,17,2025-03-04,13:30,,Completed,Card,In-Person
+696,262,18,2025-04-20,11:15,2025-05-02,Completed,CASH,In-Person
+697,18,3,2025-04-02,16:15,,cancelled,Ins Claim,In-Person
+698,285,22,2025-06-01,16:45,,completed,Card,Video Call
+699,61,24,2024-11-16,16:00,,COMPLETED,Ins Claim,In-Person
+700,297,18,2024-10-15,09:30,2024-11-04,completed,Card,In-Person
+701,216,3,2025-03-10,12:30,,Completed,Card,In-Person
+702,226,1,2025-01-13,10:45,,Completed,Card,In-Person
+703,78,2,2025-07-30,13:45,,Completed,Insurance Claim,Video Call
+704,241,15,2025-02-15,10:15,,completed,cash,Video Call
+705,236,5,2024-08-31,15:15,,completed,Card,In-Person
+706,67,4,2025-07-23,09:45,,COMPLETED,Ins Claim,Video Call
+707,226,11,2024-11-20,14:00,,Completed,Ins Claim,In-Person
+708,34,11,2025-06-07,09:00,2025-06-17,COMPLETED,cash,In-Person
+709,165,18,2024-11-14,11:30,,Completed,Ins Claim,In-Person
+710,142,15,2024-10-19,13:30,,Completed,Insurance Claim,In-Person
+711,110,24,2025-01-18,11:45,,cancelled,Card,Video Call
+712,80,25,2025-02-03,09:45,,CANCELLED,cash,In-Person
+713,106,13,2024-12-18,11:15,,no-show,INS,In-Person
+714,106,5,2024-10-30,14:30,2024-11-12,COMPLETED,Insurance Claim,In-Person
+715,56,10,2025-05-09,16:30,,completed,INS,In-Person
+716,28,23,2025-05-17,10:00,,COMPLETED,cash,In-Person
+717,221,7,2024-12-02,16:30,,completed,Cash,In-Person
+718,284,10,2025-07-30,10:15,,Scheduled,CASH,In-Person
+719,120,25,2024-08-23,10:45,2024-09-04,Completed,Card,Video Call
+720,265,17,2024-12-30,11:00,2025-01-29,Completed,cash,In-Person
+721,215,19,2025-03-28,11:00,2025-04-05,Completed,CASH,Video Call
+722,95,5,2025-01-03,13:00,,Completed,INS,In-Person
+723,152,11,2024-10-29,11:45,,completed,CASH,In-Person
+724,283,8,2025-02-23,14:00,,COMPLETED,Ins Claim,Video Call
+725,275,18,2025-06-18,10:30,2025-06-28,Completed,INS,Video Call
+726,52,6,2025-07-28,15:30,,Completed,INS,In-Person
+727,176,21,2024-10-18,16:45,2024-11-04,Completed,CASH,In-Person
+728,29,12,2025-07-31,17:45,,completed,Ins Claim,In-Person
+729,71,3,2025-01-04,10:15,,completed,cash,In-Person
+730,93,14,2025-05-13,17:00,,Completed,Cash,Video Call
+731,1,8,2024-08-27,12:00,,Cancelled,Cash,In-Person
+732,271,25,2025-05-22,15:45,,Cancelled,Insurance Claim,In-Person
+733,156,18,2025-04-07,09:30,,Completed,Card,In-Person
+734,271,11,2025-06-30,09:45,,COMPLETED,CASH,In-Person
+735,204,12,2025-05-18,09:45,,Completed,Card,In-Person
+736,134,21,2025-03-18,10:45,,NoShow,Card,In-Person
+737,112,14,2024-09-08,15:00,,COMPLETED,CASH,Video Call
+738,107,8,2024-11-22,12:15,,completed,Cash,In-Person
+739,288,13,2025-06-02,13:15,,completed,INS,In-Person
+740,166,6,2025-06-22,17:00,,NoShow,Insurance Claim,In-Person
+741,57,11,2024-08-04,14:30,,Completed,INS,In-Person
+742,157,5,2024-10-30,09:00,2024-11-17,COMPLETED,Cash,Video Call
+743,111,14,2025-05-01,13:30,,Completed,cash,In-Person
+744,185,3,2025-05-23,17:45,,no-show,Insurance Claim,In-Person
+745,13,10,2024-12-09,09:30,,Completed,cash,In-Person
+746,174,3,2025-04-30,13:30,2025-05-12,Completed,INS,In-Person
+747,273,26,2024-12-19,17:30,,Scheduled,Card,In-Person
+748,287,19,2024-11-10,10:00,,COMPLETED,CASH,In-Person
+749,152,14,2024-11-07,09:00,,CANCELLED,CASH,In-Person
+750,90,23,2024-08-03,09:30,2024-08-24,Completed,Card,In-Person
+751,108,3,2025-06-24,12:00,,Completed,Card,In-Person
+752,244,6,2025-02-22,16:15,2025-03-18,completed,Cash,In-Person
+753,253,4,2024-09-07,12:30,,No-Show,Card,In-Person
+754,242,13,2025-07-18,11:45,,completed,Cash,Video Call
+755,286,6,2025-01-16,14:15,,COMPLETED,CASH,In-Person
+756,201,17,2025-04-11,15:15,,completed,INS,In-Person
+757,244,6,2025-03-25,16:00,,COMPLETED,CASH,In-Person
+758,65,7,2025-01-24,15:30,,Scheduled,Card,In-Person
+759,135,7,2024-08-03,12:30,,CANCELLED,cash,In-Person
+760,56,1,2025-02-16,17:45,,cancelled,Insurance Claim,Video Call
+761,232,5,2025-05-28,09:15,,CANCELLED,INS,In-Person
+762,137,25,2025-04-30,16:00,,completed,Cash,Video Call
+763,3,17,2025-03-02,10:45,,Cancelled,Insurance Claim,In-Person
+764,200,3,2025-04-30,17:15,,Completed,CASH,In-Person
+765,266,14,2025-07-22,11:00,,Completed,CASH,Video Call
+766,31,12,2025-03-11,11:45,,completed,Card,In-Person
+767,231,23,2024-11-27,13:00,,NoShow,Card,Video Call
+768,198,3,2024-09-16,10:00,,Completed,Card,In-Person
+769,106,2,2024-10-04,17:15,,completed,CASH,In-Person
+770,174,21,2025-03-23,11:45,2025-04-08,COMPLETED,Card,In-Person
+771,296,22,2025-06-23,17:30,2025-07-07,COMPLETED,Ins Claim,In-Person
+772,68,1,2024-10-22,16:15,,completed,Cash,In-Person
+773,125,11,2024-10-09,15:30,,completed,cash,Video Call
+774,253,22,2024-08-02,12:00,,NoShow,Card,Video Call
+775,63,17,2025-03-21,17:00,,Completed,Card,In-Person
+776,194,17,2024-09-05,09:15,,cancelled,Cash,In-Person
+777,178,4,2024-11-11,15:30,,no-show,Card,In-Person
+778,120,9,2025-02-12,15:00,2025-03-12,COMPLETED,Cash,Video Call
+779,73,17,2025-07-23,12:45,,Completed,Cash,In-Person
+780,164,21,2025-07-05,10:15,,COMPLETED,cash,In-Person
+781,42,4,2025-02-06,12:45,,completed,cash,In-Person
+782,277,23,2024-10-23,17:00,,Scheduled,cash,In-Person
+783,119,14,2025-03-29,12:00,,completed,Card,In-Person
+784,224,26,2024-12-14,16:00,,completed,Card,In-Person
+785,153,4,2025-04-08,16:00,2025-04-25,Completed,Card,In-Person
+786,199,20,2024-10-08,16:00,,Completed,INS,In-Person
+787,165,24,2025-02-28,16:00,,Completed,Insurance Claim,In-Person
+788,289,15,2025-05-27,17:00,2025-06-07,COMPLETED,Insurance Claim,In-Person
+789,274,19,2025-05-17,10:30,,COMPLETED,Card,Video Call
+790,142,17,2024-11-28,12:45,2024-12-07,completed,Ins Claim,In-Person
+791,213,17,2025-07-20,13:00,,Completed,Cash,In-Person
+792,245,12,2024-12-10,11:45,,Completed,Card,In-Person
+793,78,8,2025-04-03,13:45,,completed,cash,In-Person
+794,146,4,2024-12-28,09:30,,NO-SHOW,Ins Claim,In-Person
+795,263,19,2025-03-24,11:45,2025-04-01,Completed,Ins Claim,In-Person
+796,163,15,2024-09-05,12:45,2024-09-19,Completed,cash,Video Call
+797,260,7,2025-03-19,11:00,2025-04-07,completed,Card,In-Person
+798,7,25,2025-06-09,16:00,,Completed,Card,In-Person
+799,117,8,2024-08-25,14:00,,completed,Ins Claim,In-Person
+800,18,17,2024-10-04,17:00,,COMPLETED,Card,In-Person
+801,45,4,2025-02-21,10:30,,completed,Card,Video Call
+802,64,21,2025-03-31,12:45,,Completed,Card,In-Person
+803,6,1,2024-09-09,11:30,,Completed,Insurance Claim,In-Person
+804,123,18,2025-06-08,09:15,2025-07-05,COMPLETED,Card,In-Person
+805,26,3,2024-09-24,13:30,,cancelled,Card,In-Person
+806,17,19,2024-12-01,10:45,,no-show,Card,In-Person
+807,217,6,2024-08-27,14:45,,Completed,cash,In-Person
+808,256,15,2025-06-19,10:30,,Completed,Card,In-Person
+809,123,12,2025-01-16,13:15,,CANCELLED,Insurance Claim,In-Person
+810,13,1,2025-07-14,13:30,2025-07-23,completed,Card,In-Person
+811,236,19,2024-09-22,10:15,,Completed,cash,In-Person
+812,284,23,2025-03-04,16:00,,completed,Cash,Video Call
+813,2,11,2025-01-29,12:00,,COMPLETED,Card,Video Call
+814,45,13,2024-08-16,14:45,,COMPLETED,Card,In-Person
+815,10,20,2024-10-15,09:30,,Completed,Card,In-Person
+816,45,9,2025-03-26,15:30,2025-04-19,Completed,Ins Claim,In-Person
+817,226,4,2025-06-08,14:15,,Cancelled,Ins Claim,In-Person
+818,111,5,2024-09-23,10:45,,NoShow,INS,In-Person
+819,89,26,2025-05-04,11:45,2025-05-24,completed,Card,In-Person
+820,158,23,2025-05-04,12:15,2025-05-12,completed,CASH,In-Person
+821,137,25,2025-06-22,13:00,,completed,CASH,In-Person
+822,220,16,2025-07-07,12:15,2025-07-30,completed,CASH,In-Person
+823,239,16,2024-10-05,15:00,,completed,cash,Video Call
+824,82,16,2024-12-02,13:45,,CANCELLED,cash,In-Person
+825,151,18,2024-11-23,13:00,,completed,Card,In-Person
+826,231,3,2024-08-28,14:00,2024-09-25,COMPLETED,cash,In-Person
+827,32,11,2024-08-12,14:30,,Completed,CASH,In-Person
+828,63,15,2024-12-03,14:30,,No-Show,Ins Claim,Video Call
+829,36,22,2025-07-21,12:45,,Scheduled,Card,Video Call
+830,168,7,2024-08-05,17:00,,Completed,INS,In-Person
+831,8,7,2025-05-23,12:00,,COMPLETED,Insurance Claim,In-Person
+832,190,26,2024-10-09,14:15,,COMPLETED,Ins Claim,In-Person
+833,167,16,2024-11-11,13:45,,Scheduled,CASH,In-Person
+834,40,19,2024-10-29,14:45,,Completed,Card,In-Person
+835,284,9,2025-07-01,17:45,,Scheduled,cash,In-Person
+836,208,14,2024-08-23,09:45,,NO-SHOW,Ins Claim,In-Person
+837,282,5,2024-12-12,17:45,,completed,Card,In-Person
+838,144,2,2025-04-20,12:15,,cancelled,CASH,In-Person
+839,187,6,2025-01-01,15:15,,COMPLETED,cash,In-Person
+840,170,10,2024-11-23,16:30,2024-12-04,COMPLETED,INS,In-Person
+841,179,6,2025-06-10,11:30,,Completed,Insurance Claim,In-Person
+842,297,25,2024-12-07,10:00,,completed,Ins Claim,In-Person
+843,187,16,2025-02-08,10:00,,Completed,INS,In-Person
+844,130,1,2024-11-16,11:00,,COMPLETED,CASH,Video Call
+845,86,14,2024-08-13,11:15,,Scheduled,Card,In-Person
+846,218,19,2024-10-14,17:45,,Completed,CASH,In-Person
+847,151,19,2025-06-30,13:00,,Cancelled,Insurance Claim,In-Person
+848,167,2,2024-09-10,11:45,,NO-SHOW,cash,In-Person
+849,25,8,2024-11-20,11:00,,COMPLETED,Card,In-Person
+850,201,23,2025-05-13,09:45,,COMPLETED,cash,In-Person
+851,146,6,2025-07-03,15:00,2025-07-28,Completed,Card,In-Person
+852,259,1,2025-02-16,09:15,,COMPLETED,cash,In-Person
+853,7,14,2025-04-08,09:15,,cancelled,Cash,In-Person
+854,39,19,2025-05-25,16:15,2025-06-14,completed,cash,In-Person
+855,295,10,2025-03-28,09:45,2025-04-05,COMPLETED,Ins Claim,In-Person
+856,61,5,2025-01-21,17:00,2025-02-10,COMPLETED,INS,Video Call
+857,277,20,2024-11-19,09:00,,COMPLETED,Cash,In-Person
+858,116,3,2024-10-08,14:45,,Cancelled,Card,In-Person
+859,237,6,2025-02-27,11:00,,cancelled,Insurance Claim,In-Person
+860,181,12,2024-09-19,10:15,,completed,INS,In-Person
+861,106,11,2025-06-09,17:15,,completed,INS,In-Person
+862,115,16,2025-03-11,16:30,,NoShow,Insurance Claim,Video Call
+863,148,26,2025-05-07,13:15,,Completed,CASH,In-Person
+864,265,5,2024-08-22,13:30,,completed,CASH,In-Person
+865,57,4,2025-07-05,17:00,,Completed,INS,In-Person
+866,93,25,2025-06-07,17:15,,Completed,Insurance Claim,In-Person
+867,145,15,2025-04-19,17:00,,cancelled,CASH,In-Person
+868,39,17,2025-07-29,11:15,,Completed,cash,Video Call
+869,188,18,2024-08-20,11:15,2024-09-18,COMPLETED,Insurance Claim,In-Person
+870,64,7,2025-01-31,14:00,,Completed,cash,In-Person
+871,262,3,2024-10-27,16:00,,NO-SHOW,CASH,In-Person
+872,101,11,2025-06-11,09:30,,completed,Card,In-Person
+873,260,12,2025-06-20,12:45,,COMPLETED,Cash,In-Person
+874,9,5,2025-06-20,17:30,,completed,cash,In-Person
+875,38,17,2024-10-19,13:30,,Completed,cash,In-Person
+876,138,9,2025-05-11,09:00,,completed,Card,In-Person
+877,229,3,2024-10-27,16:15,2024-11-11,COMPLETED,CASH,Video Call
+878,128,2,2025-05-04,12:45,,completed,Card,In-Person
+879,276,7,2024-12-12,16:15,,no-show,Card,In-Person
+880,4,15,2024-12-30,15:15,2025-01-15,Completed,CASH,In-Person
+881,211,5,2024-12-10,17:45,2024-12-17,completed,Card,In-Person
+882,136,14,2024-09-24,10:15,,COMPLETED,Card,In-Person
+883,270,3,2024-08-22,10:15,,completed,CASH,Video Call
+884,91,5,2024-09-17,12:45,2024-10-17,COMPLETED,CASH,In-Person
+885,66,12,2025-01-09,17:00,,completed,Card,In-Person
+886,216,11,2025-06-30,10:15,,COMPLETED,Card,In-Person
+887,183,22,2024-09-02,10:45,,NoShow,Cash,In-Person
+888,228,10,2024-12-23,13:15,,COMPLETED,Insurance Claim,In-Person
+889,275,11,2024-12-26,13:45,,Completed,Cash,In-Person
+890,289,22,2024-10-19,10:30,,NO-SHOW,Cash,Video Call
+891,22,20,2025-04-10,12:30,,completed,Cash,In-Person
+892,65,26,2025-07-26,09:00,,Completed,INS,In-Person
+893,109,13,2025-06-19,11:00,,COMPLETED,Ins Claim,In-Person
+894,283,18,2024-12-14,13:15,,Completed,Card,In-Person
+895,77,7,2025-04-28,17:00,,COMPLETED,INS,Video Call
+896,23,22,2025-03-08,10:30,,completed,CASH,Video Call
+897,126,24,2025-01-07,14:30,2025-01-24,COMPLETED,CASH,In-Person
+898,74,16,2025-06-04,15:45,,completed,INS,Video Call
+899,185,6,2025-02-06,11:00,,completed,Cash,In-Person
+900,211,8,2024-12-05,14:00,,Completed,Insurance Claim,In-Person
+901,151,9,2024-12-06,15:15,2024-12-26,COMPLETED,Cash,In-Person
+902,75,20,2025-05-30,10:15,,CANCELLED,Cash,In-Person
+903,21,18,2024-09-11,12:15,,No-Show,Insurance Claim,In-Person
+904,35,6,2025-07-07,11:00,,completed,Cash,In-Person
+905,173,24,2024-08-22,09:00,,Completed,Card,In-Person
+906,59,5,2024-10-04,09:45,,Cancelled,Ins Claim,Video Call
+907,13,7,2024-12-08,09:45,,COMPLETED,Card,Video Call
+908,185,17,2024-10-06,15:45,,cancelled,Insurance Claim,In-Person
+909,212,7,2025-01-19,15:00,,completed,Insurance Claim,Video Call
+910,264,5,2024-09-13,17:15,,cancelled,Card,In-Person
+911,178,4,2024-08-16,11:45,,no-show,Card,Video Call
+912,75,19,2025-05-20,11:15,,no-show,Ins Claim,In-Person
+913,131,16,2025-01-03,15:00,,Completed,cash,In-Person
+914,145,14,2025-07-09,10:00,,No-Show,Card,In-Person
+915,75,6,2024-11-21,15:15,,COMPLETED,CASH,In-Person
+916,1,3,2025-03-03,09:00,,Completed,CASH,In-Person
+917,123,1,2025-04-24,10:15,,completed,cash,In-Person
+918,25,20,2024-11-01,10:00,,COMPLETED,INS,In-Person
+919,184,9,2025-07-28,09:45,,completed,cash,In-Person
+920,47,14,2024-10-07,10:45,,CANCELLED,INS,In-Person
+921,196,2,2025-07-31,12:15,,Completed,Card,In-Person
+922,61,1,2024-09-16,10:30,,Scheduled,INS,Video Call
+923,15,2,2024-11-05,14:30,,Completed,CASH,In-Person
+924,92,19,2025-01-26,12:30,,completed,Ins Claim,Video Call
+925,240,20,2024-10-03,12:00,,Completed,INS,In-Person
+926,289,23,2025-07-31,16:45,,COMPLETED,Insurance Claim,Video Call
+927,174,9,2025-03-04,17:15,,Scheduled,Card,In-Person
+928,289,12,2024-11-10,16:30,,cancelled,Card,In-Person
+929,68,19,2025-03-24,09:00,,completed,INS,In-Person
+930,132,8,2025-05-30,12:15,,Completed,Card,In-Person
+931,6,23,2025-01-28,15:45,,completed,Card,Video Call
+932,252,12,2025-04-13,10:45,,Completed,Card,In-Person
+933,208,18,2025-04-11,10:00,,completed,Card,In-Person
+934,224,7,2024-12-18,16:30,,Scheduled,INS,In-Person
+935,169,1,2024-11-30,10:30,,completed,cash,In-Person
+936,127,26,2024-08-26,16:45,,Completed,Card,In-Person
+937,67,4,2024-12-25,11:00,,cancelled,Cash,Video Call
+938,106,23,2024-12-09,12:30,,COMPLETED,Insurance Claim,In-Person
+939,3,2,2025-04-06,10:15,,Completed,Card,In-Person
+940,297,20,2025-04-10,14:30,,completed,cash,Video Call
+941,263,20,2024-11-30,09:30,2024-12-24,Completed,Card,In-Person
+942,58,9,2025-03-19,13:30,,NoShow,cash,In-Person
+943,184,11,2024-09-01,15:30,,CANCELLED,Cash,In-Person
+944,142,25,2024-10-19,14:45,,Scheduled,Card,In-Person
+945,67,14,2024-12-19,15:15,,completed,cash,In-Person
+946,48,13,2025-03-18,09:15,2025-04-10,Completed,CASH,In-Person
+947,243,1,2025-04-07,09:45,,Scheduled,cash,In-Person
+948,276,8,2025-06-25,11:45,,Completed,CASH,In-Person
+949,201,2,2025-04-26,12:00,,COMPLETED,Card,In-Person
+950,163,13,2025-01-01,09:30,,COMPLETED,Card,In-Person
+951,242,5,2025-01-23,12:00,,cancelled,INS,In-Person
+952,293,3,2024-12-28,12:45,2025-01-11,Completed,CASH,Video Call
+953,249,5,2024-12-17,14:30,,completed,Card,In-Person
+954,276,25,2025-01-06,15:30,,Completed,cash,In-Person
+955,85,15,2025-05-28,16:45,,Scheduled,cash,In-Person
+956,170,2,2024-12-29,13:45,,no-show,Card,In-Person
+957,191,19,2024-10-20,15:15,,completed,CASH,Video Call
+958,271,3,2025-07-14,09:00,,completed,Card,In-Person
+959,37,14,2025-07-25,11:45,,Completed,Insurance Claim,Video Call
+960,22,25,2024-09-04,13:00,2024-09-13,completed,INS,In-Person
+961,152,12,2025-05-28,14:15,,cancelled,Cash,In-Person
+962,219,19,2025-03-15,16:30,,Cancelled,INS,In-Person
+963,49,13,2024-12-13,15:30,,CANCELLED,Insurance Claim,Video Call
+964,273,13,2024-11-01,09:30,,completed,Insurance Claim,Video Call
+965,149,1,2025-07-28,14:00,,COMPLETED,Cash,In-Person
+966,245,25,2025-05-15,11:45,,completed,Card,In-Person
+967,193,22,2025-07-11,15:00,,No-Show,CASH,Video Call
+968,293,2,2025-05-07,13:00,,NO-SHOW,Ins Claim,In-Person
+969,23,25,2025-03-18,15:00,,COMPLETED,Ins Claim,Video Call
+970,237,17,2025-02-03,16:45,2025-03-01,completed,Card,In-Person
+971,289,21,2025-01-15,13:15,2025-01-22,completed,Card,In-Person
+972,269,3,2025-06-27,12:45,2025-07-17,completed,cash,Video Call
+973,148,12,2025-01-23,11:45,,COMPLETED,Cash,In-Person
+974,285,10,2024-10-09,15:45,,cancelled,cash,In-Person
+975,229,24,2025-06-24,11:00,,CANCELLED,Card,In-Person
+976,27,11,2024-12-13,14:15,,cancelled,cash,Video Call
+977,283,23,2025-05-24,15:45,2025-06-13,completed,Card,In-Person
+978,90,1,2025-06-16,11:45,,Scheduled,Card,In-Person
+979,129,4,2024-08-20,10:30,2024-09-07,COMPLETED,Ins Claim,In-Person
+980,39,21,2025-01-10,14:15,2025-02-07,completed,Card,In-Person
+981,172,3,2024-12-19,11:00,,completed,Insurance Claim,Video Call
+982,18,25,2025-06-23,16:30,,COMPLETED,INS,Video Call
+983,208,19,2025-07-14,17:30,,completed,Insurance Claim,In-Person
+984,97,21,2025-04-02,12:30,,COMPLETED,Insurance Claim,In-Person
+985,123,21,2025-06-21,12:45,,completed,INS,In-Person
+986,104,24,2025-03-24,16:00,,CANCELLED,cash,In-Person
+987,250,19,2024-08-27,12:45,,CANCELLED,Card,In-Person
+988,146,20,2024-08-26,12:45,,No-Show,Insurance Claim,In-Person
+989,51,22,2025-03-29,16:45,,Scheduled,INS,In-Person
+990,46,15,2025-07-28,10:30,,Completed,Card,In-Person
+991,47,4,2025-05-12,10:15,,COMPLETED,CASH,Video Call
+992,196,8,2024-08-15,10:15,,no-show,Card,In-Person
+993,271,25,2024-12-08,14:00,,Cancelled,CASH,Video Call
+994,238,26,2024-10-23,10:30,,Completed,cash,In-Person
+995,76,20,2025-05-11,10:30,,NoShow,CASH,Video Call
+996,195,2,2024-12-09,10:00,,COMPLETED,Cash,In-Person
+997,118,23,2024-09-13,15:00,,cancelled,Cash,In-Person
+998,258,9,2025-06-02,09:30,,Completed,Card,In-Person
+999,61,11,2025-05-13,13:00,,NoShow,Card,In-Person
+1000,12,23,2025-02-20,11:15,,cancelled,cash,Video Call
+1001,162,13,2025-03-01,12:45,,completed,Ins Claim,Video Call
+1002,167,2,2024-08-12,13:00,,Completed,Card,In-Person
+1003,49,11,2024-10-26,10:30,,no-show,Card,Video Call
+1004,156,26,2025-04-02,13:15,,CANCELLED,Insurance Claim,In-Person
+1005,218,4,2024-10-17,14:15,,completed,Ins Claim,In-Person
+1006,60,22,2025-06-08,10:00,,CANCELLED,Card,In-Person
+1007,234,22,2024-09-27,11:15,,no-show,Card,In-Person
+1008,43,17,2025-02-07,15:15,,Completed,Card,In-Person
+1009,171,24,2024-08-21,12:45,,No-Show,cash,In-Person
+1010,102,25,2025-06-18,17:45,,Completed,Card,Video Call
+1011,125,26,2025-01-19,15:00,,COMPLETED,Card,Video Call
+1012,233,23,2024-12-28,15:45,2025-01-14,completed,CASH,In-Person
+1013,73,3,2024-12-11,14:30,,COMPLETED,Card,Video Call
+1014,23,19,2024-10-08,16:15,,Completed,Card,In-Person
+1015,156,4,2024-08-07,14:00,2024-08-28,COMPLETED,CASH,In-Person
+1016,132,6,2024-10-14,14:00,,COMPLETED,Card,Video Call
+1017,216,25,2025-05-24,16:45,,NO-SHOW,Insurance Claim,In-Person
+1018,77,26,2024-12-15,14:00,,Scheduled,CASH,In-Person
+1019,214,5,2024-11-02,12:45,2024-11-27,Completed,Insurance Claim,In-Person
+1020,249,13,2025-06-25,17:00,2025-07-21,Completed,Ins Claim,Video Call
+1021,76,13,2025-01-24,16:00,,Scheduled,CASH,In-Person
+1022,143,25,2025-01-16,17:30,,COMPLETED,Card,In-Person
+1023,208,23,2025-03-16,16:00,,COMPLETED,Cash,In-Person
+1024,74,3,2025-02-24,10:15,,Cancelled,Card,In-Person
+1025,295,10,2024-11-18,13:45,,completed,Card,In-Person
+1026,258,23,2024-11-30,15:30,,CANCELLED,Cash,In-Person
+1027,292,2,2024-11-27,15:45,2024-12-11,completed,cash,Video Call
+1028,49,26,2025-05-11,17:15,2025-05-24,COMPLETED,cash,In-Person
+1029,38,20,2025-07-03,14:45,2025-07-20,COMPLETED,Card,Video Call
+1030,239,17,2025-03-21,10:30,,Completed,Cash,In-Person
+1031,205,23,2025-04-03,15:45,,completed,INS,In-Person
+1032,227,15,2024-08-16,12:00,,cancelled,cash,In-Person
+1033,287,1,2025-01-04,15:45,,Completed,cash,Video Call
+1034,239,10,2025-03-14,11:45,2025-03-28,COMPLETED,Insurance Claim,Video Call
+1035,6,10,2024-08-02,14:45,,no-show,cash,In-Person
+1036,132,18,2025-01-29,10:45,2025-02-12,COMPLETED,INS,In-Person
+1037,145,14,2025-02-17,10:00,,Cancelled,Card,In-Person
+1038,167,9,2024-08-22,17:30,,COMPLETED,Card,In-Person
+1039,227,11,2024-10-26,16:30,,COMPLETED,cash,In-Person
+1040,229,9,2025-02-04,17:15,,completed,Cash,Video Call
+1041,115,19,2025-02-19,11:15,,COMPLETED,Card,In-Person
+1042,270,23,2025-01-12,14:00,,CANCELLED,CASH,Video Call
+1043,209,22,2025-07-13,15:30,,Completed,Ins Claim,In-Person
+1044,69,1,2025-03-31,15:30,,COMPLETED,cash,In-Person
+1045,2,4,2024-10-05,09:45,,cancelled,Card,In-Person
+1046,53,23,2024-08-01,16:00,2024-08-15,COMPLETED,Card,In-Person
+1047,221,3,2024-12-30,10:45,2025-01-29,Completed,Ins Claim,Video Call
+1048,241,6,2024-08-13,09:45,,COMPLETED,Card,Video Call
+1049,181,11,2025-04-11,16:15,,No-Show,Ins Claim,In-Person
+1050,91,13,2025-02-28,16:15,,cancelled,Card,In-Person
+1051,9,23,2024-11-01,11:00,,COMPLETED,Card,In-Person
+1052,95,24,2025-05-06,15:15,2025-05-17,COMPLETED,CASH,In-Person
+1053,186,11,2024-11-22,11:30,2024-12-22,COMPLETED,Card,In-Person
+1054,35,5,2024-11-22,09:00,,Completed,CASH,In-Person
+1055,198,21,2025-04-17,12:30,,completed,Ins Claim,In-Person
+1056,57,15,2025-01-24,15:00,2025-02-15,COMPLETED,Ins Claim,In-Person
+1057,89,16,2025-02-15,13:30,2025-03-17,Completed,CASH,Video Call
+1058,141,17,2025-02-26,14:45,,Scheduled,INS,Video Call
+1059,82,15,2024-08-14,16:15,,completed,Card,In-Person
+1060,178,11,2024-11-03,17:45,,No-Show,Card,In-Person
+1061,259,14,2025-04-22,16:15,,completed,Insurance Claim,In-Person
+1062,172,5,2025-06-19,14:45,,COMPLETED,Card,In-Person
+1063,229,11,2025-07-29,09:45,,CANCELLED,Insurance Claim,In-Person
+1064,35,18,2024-10-04,17:00,,cancelled,Card,Video Call
+1065,209,14,2025-01-23,17:45,,Completed,Card,In-Person
+1066,276,16,2025-05-25,12:45,,COMPLETED,Card,In-Person
+1067,125,25,2024-11-28,13:30,2024-12-24,COMPLETED,Insurance Claim,In-Person
+1068,126,10,2025-01-05,17:15,,Cancelled,Card,In-Person
+1069,179,13,2024-09-15,13:30,,Completed,cash,In-Person
+1070,123,5,2024-08-07,17:15,,NoShow,cash,In-Person
+1071,194,4,2025-07-21,17:15,,completed,Card,Video Call
+1072,98,18,2024-12-03,11:45,,completed,cash,In-Person
+1073,110,14,2025-07-30,15:30,,completed,Cash,In-Person
+1074,152,14,2025-02-06,15:15,,completed,Ins Claim,Video Call
+1075,119,7,2024-08-27,12:15,2024-09-20,COMPLETED,Card,In-Person
+1076,231,14,2024-08-28,11:15,2024-09-23,Completed,INS,Video Call
+1077,72,11,2025-07-23,16:30,,Completed,CASH,In-Person
+1078,222,21,2024-10-18,09:15,2024-10-30,Completed,cash,In-Person
+1079,281,14,2025-03-04,15:30,,completed,Card,In-Person
+1080,72,14,2024-10-31,13:30,2024-11-27,Completed,Card,In-Person
+1081,130,6,2024-08-29,16:30,2024-09-26,Completed,Card,In-Person
+1082,287,13,2024-12-17,16:15,,completed,INS,In-Person
+1083,239,19,2024-08-21,13:00,2024-09-14,Completed,INS,In-Person
+1084,254,19,2025-06-17,13:30,,completed,cash,Video Call
+1085,135,18,2025-01-04,15:15,,Completed,INS,Video Call
+1086,179,12,2025-07-20,09:45,,completed,Insurance Claim,In-Person
+1087,98,22,2024-11-02,14:15,,COMPLETED,Insurance Claim,Video Call
+1088,215,5,2024-12-05,15:15,,NO-SHOW,INS,In-Person
+1089,180,21,2025-02-19,15:30,,COMPLETED,Card,In-Person
+1090,131,16,2025-01-01,09:15,,COMPLETED,cash,In-Person
+1091,173,24,2025-05-09,09:00,2025-05-29,completed,Ins Claim,In-Person
+1092,244,3,2025-01-06,16:00,,No-Show,cash,In-Person
+1093,230,24,2025-04-27,14:30,,COMPLETED,INS,In-Person
+1094,110,13,2025-03-24,14:45,2025-04-05,completed,CASH,In-Person
+1095,38,19,2025-03-10,13:30,,Completed,Card,Video Call
+1096,144,19,2025-03-14,17:30,,completed,Ins Claim,In-Person
+1097,174,6,2024-09-22,13:15,,Scheduled,Cash,Video Call
+1098,189,18,2024-08-02,09:00,2024-08-24,completed,CASH,In-Person
+1099,111,16,2025-03-23,11:00,,NoShow,cash,In-Person
+1100,44,6,2025-07-16,12:30,,COMPLETED,CASH,In-Person
+1101,50,25,2025-04-23,12:30,,COMPLETED,Cash,Video Call
+1102,174,26,2025-06-29,14:30,,COMPLETED,Cash,In-Person
+1103,120,17,2024-09-21,10:00,,completed,Cash,In-Person
+1104,256,17,2025-05-09,15:00,,COMPLETED,Card,In-Person
+1105,68,3,2024-09-05,13:00,,completed,Cash,In-Person
+1106,149,20,2024-08-12,15:30,,Completed,INS,In-Person
+1107,115,12,2024-08-18,16:00,,CANCELLED,Insurance Claim,Video Call
+1108,156,14,2025-01-10,12:45,2025-02-05,Completed,CASH,In-Person
+1109,75,6,2024-09-20,12:30,,COMPLETED,Card,In-Person
+1110,30,26,2025-04-15,09:30,,completed,Card,In-Person
+1111,223,7,2025-01-21,10:30,,COMPLETED,Card,In-Person
+1112,253,22,2025-06-04,12:30,,COMPLETED,Insurance Claim,In-Person
+1113,92,21,2025-03-01,15:15,2025-03-29,completed,Ins Claim,In-Person
+1114,100,25,2024-12-06,09:00,2024-12-14,Completed,Card,In-Person
+1115,71,2,2025-04-17,14:45,,completed,cash,In-Person
+1116,172,3,2025-01-17,13:15,2025-01-30,Completed,Card,In-Person
+1117,200,18,2025-07-28,12:00,,completed,INS,In-Person
+1118,272,13,2024-12-14,11:00,,COMPLETED,Ins Claim,In-Person
+1119,262,22,2025-07-07,09:15,2025-07-24,COMPLETED,Ins Claim,In-Person
+1120,154,9,2025-03-29,11:00,,Completed,Insurance Claim,Video Call
+1121,260,7,2025-01-12,15:30,,Scheduled,Ins Claim,Video Call
+1122,251,17,2025-07-05,17:45,,completed,INS,In-Person
+1123,85,7,2024-12-10,12:00,,completed,INS,In-Person
+1124,226,16,2025-04-24,17:15,2025-05-14,completed,cash,In-Person
+1125,299,26,2024-09-06,11:15,,Completed,Insurance Claim,Video Call
+1126,6,17,2024-12-03,15:45,2024-12-23,Completed,Card,In-Person
+1127,155,14,2025-04-22,11:45,,Completed,Insurance Claim,In-Person
+1128,293,24,2025-07-25,10:00,,cancelled,CASH,In-Person
+1129,184,10,2025-03-06,11:00,,CANCELLED,CASH,In-Person
+1130,238,15,2025-05-30,13:15,,COMPLETED,INS,In-Person
+1131,203,26,2025-07-28,12:00,,cancelled,Card,Video Call
+1132,170,14,2024-08-13,15:15,,completed,Insurance Claim,In-Person
+1133,193,20,2024-10-22,12:15,,COMPLETED,Card,In-Person
+1134,46,11,2024-10-02,15:15,,completed,Card,In-Person
+1135,214,20,2025-02-18,15:15,,completed,Card,In-Person
+1136,232,9,2025-02-21,15:45,2025-03-21,completed,INS,Video Call
+1137,79,15,2025-03-30,12:00,,Scheduled,cash,In-Person
+1138,133,22,2024-09-14,15:30,2024-10-04,Completed,Card,Video Call
+1139,226,12,2025-03-06,17:30,,COMPLETED,Card,In-Person
+1140,7,16,2025-02-19,13:15,,COMPLETED,Ins Claim,Video Call
+1141,216,25,2024-11-18,12:00,,COMPLETED,Card,In-Person
+1142,125,3,2025-01-22,09:30,,completed,Card,In-Person
+1143,145,11,2025-02-10,13:30,,Completed,cash,In-Person
+1144,153,2,2025-04-17,10:00,,NO-SHOW,Card,In-Person
+1145,62,13,2024-09-15,16:30,,cancelled,CASH,Video Call
+1146,156,10,2025-02-11,17:00,,CANCELLED,Card,In-Person
+1147,79,21,2024-08-16,09:45,,Completed,Card,Video Call
+1148,176,11,2025-05-30,09:15,,completed,Ins Claim,In-Person
+1149,221,8,2024-08-26,12:45,2024-09-21,completed,CASH,In-Person
+1150,231,13,2025-01-03,17:00,2025-01-31,completed,INS,In-Person
+1151,96,10,2024-08-29,11:00,2024-09-21,completed,Card,In-Person
+1152,166,11,2024-11-15,15:00,,No-Show,Insurance Claim,In-Person
+1153,134,7,2025-04-22,16:00,,COMPLETED,Cash,Video Call
+1154,234,18,2025-03-10,14:30,,NoShow,Insurance Claim,In-Person
+1155,199,11,2024-10-04,16:30,,Completed,Card,In-Person
+1156,51,3,2024-11-29,10:45,,No-Show,cash,In-Person
+1157,223,20,2025-05-28,15:15,,COMPLETED,INS,In-Person
+1158,66,6,2025-02-26,12:00,,Completed,cash,In-Person
+1159,64,20,2025-07-24,13:45,,completed,CASH,In-Person
+1160,120,22,2024-12-16,11:45,,Cancelled,Insurance Claim,In-Person
+1161,116,8,2024-12-09,14:00,,Completed,Insurance Claim,In-Person
+1162,157,10,2024-10-06,15:15,,COMPLETED,Insurance Claim,In-Person
+1163,125,7,2025-03-07,11:30,2025-03-29,completed,Card,In-Person
+1164,95,24,2024-08-05,10:00,2024-08-12,Completed,Card,In-Person
+1165,189,12,2025-07-19,10:00,,Completed,Ins Claim,In-Person
+1166,150,16,2025-05-04,17:45,,completed,cash,In-Person
+1167,62,11,2025-03-26,16:30,,CANCELLED,Ins Claim,In-Person
+1168,8,3,2025-03-01,16:15,,Completed,Cash,In-Person
+1169,83,23,2025-03-05,13:00,,Scheduled,CASH,In-Person
+1170,245,3,2025-01-17,12:45,,COMPLETED,cash,In-Person
+1171,158,4,2025-01-19,14:15,2025-02-15,COMPLETED,CASH,In-Person
+1172,255,3,2024-09-12,11:00,,completed,CASH,In-Person
+1173,99,5,2024-11-20,11:45,2024-12-19,Completed,CASH,In-Person
+1174,73,16,2025-01-12,11:45,2025-01-27,COMPLETED,INS,In-Person
+1175,283,20,2025-02-17,11:15,,Scheduled,Insurance Claim,In-Person
+1176,298,17,2025-07-28,14:15,,COMPLETED,CASH,In-Person
+1177,65,20,2024-10-24,09:00,,completed,Card,In-Person
+1178,21,1,2024-09-16,17:45,2024-09-29,completed,CASH,In-Person
+1179,107,15,2025-03-19,13:00,,Completed,Card,In-Person
+1180,12,18,2025-03-02,10:45,,Completed,Card,In-Person
+1181,114,17,2024-10-17,17:00,,COMPLETED,Cash,In-Person
+1182,147,16,2025-02-17,17:30,,Scheduled,CASH,In-Person
+1183,74,10,2024-11-01,14:00,,COMPLETED,Insurance Claim,In-Person
+1184,133,12,2024-08-22,14:30,,COMPLETED,Insurance Claim,In-Person
+1185,175,25,2025-01-20,11:30,,completed,cash,Video Call
+1186,169,18,2025-07-09,09:15,,no-show,Ins Claim,In-Person
+1187,264,24,2025-03-16,15:15,,COMPLETED,Cash,In-Person
+1188,31,8,2024-12-24,09:15,,COMPLETED,CASH,In-Person
+1189,84,21,2025-04-11,14:15,,NO-SHOW,Cash,In-Person
+1190,21,11,2025-05-14,13:00,,CANCELLED,INS,In-Person
+1191,212,13,2025-07-19,15:15,,Completed,Card,In-Person
+1192,282,6,2025-01-18,09:00,,completed,Insurance Claim,Video Call
+1193,67,19,2024-10-10,17:45,,COMPLETED,Insurance Claim,Video Call
+1194,79,11,2024-09-06,14:15,2024-09-17,COMPLETED,CASH,In-Person
+1195,89,7,2025-05-23,10:15,,No-Show,Ins Claim,In-Person
+1196,134,22,2025-01-18,12:45,,COMPLETED,cash,In-Person
+1197,25,26,2024-09-24,11:00,,CANCELLED,Insurance Claim,In-Person
+1198,145,19,2025-06-01,17:15,,COMPLETED,Cash,In-Person
+1199,289,14,2025-01-05,13:30,2025-01-18,COMPLETED,CASH,In-Person
+1200,4,16,2024-08-14,14:00,2024-08-27,Completed,INS,In-Person

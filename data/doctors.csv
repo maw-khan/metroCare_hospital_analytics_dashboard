@@ -1,0 +1,27 @@
+doctor_id,doctor_name,department_id,specialization,qualification,joining_date,consultation_fee
+1,Dr. Allison Hill,1,Interventional Cardiologist,"MBBS, FCPS",2017-02-13,3500
+2,Dr. Megan Mcclain,1,Interventional Cardiologist,"MBBS, MD",,2500
+3,Dr. Allen Robinson,1,General Cardiologist,"MBBS, FCPS",2019-10-19,2000
+4,Dr. Cristian Santos,1,General Cardiologist,"MBBS, FCPS, MRCP",2020-03-04,1500
+5,Dr. Kevin Pacheco,2,Joint Replacement Surgeon,"MBBS, MD",2015-01-23,3000
+6,Dr. Melissa Peterson,2,Spine Surgeon,"MBBS, DM",2016-06-23,1500
+7,Dr. Gabrielle Davis,3,General Pediatrician,"MBBS, DM",2015-12-02,1800
+8,Dr. Lindsey Roman,3,General Pediatrician,"MBBS, FCPS, MRCP",,3500
+9,Dr. Valerie Gray,3,General Pediatrician,"MBBS, MD",2020-03-29,1800
+10,Dr. Lisa Hensley,3,Neonatologist,"MBBS, MS",2020-06-25,2500
+11,Dr. Amber Perez,4,Medical Dermatologist,"MBBS, FCPS",2017-09-30,2000
+12,Dr. David Garcia,4,Medical Dermatologist,"MBBS, FCPS",2017-08-22,4000
+13,Dr. Holly Wood,5,Epileptologist,"MBBS, MS",2016-12-27,1500
+14,Dr. Timothy Wong,5,Epileptologist,"MBBS, FCPS, MRCP",2020-10-13,2000
+15,Dr. Nicholas Martin,5,Stroke Specialist,"MBBS, FCPS",2018-08-08,3500
+16,Dr. Margaret Hawkins DDS,6,Family Physician,"MBBS, DM",2023-01-02,3000
+17,Dr. Crystal Johnson,6,Internal Medicine,"MBBS, FCPS",2017-12-29,3000
+18,Dr. Daniel Hahn,6,Family Physician,"MBBS, FCPS",2023-04-28,3000
+19,Dr. Matthew Foster,6,Internal Medicine,"MBBS, FCPS, MRCP",2023-09-07,3500
+20,Dr. Derek Wright,7,Audiologist,"MBBS, MD",2020-04-30,4000
+21,Dr. Kevin Hurst,7,Audiologist,"MBBS, MD",2018-10-17,3500
+22,Dr. Zachary Hicks,7,ENT Surgeon,"MBBS, DM",2015-11-12,2500
+23,Dr. Brian Burton,8,Fertility Specialist,"MBBS, MD",2022-07-09,2500
+24,Dr. Arthur James,8,Gynecologic Oncologist,"MBBS, FCPS, MRCP",2024-06-16,3500
+25,Dr. Tricia Valencia,8,Fertility Specialist,"MBBS, DM",2015-02-09,3000
+26,Dr. Melanie Herrera,8,Fertility Specialist,"MBBS, MS",2017-07-14,1500

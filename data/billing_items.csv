@@ -1,0 +1,2316 @@
+bill_item_id,appointment_id,item_type,quantity,unit_price,discount_pct
+1,370,Medicine,1,2644,0
+2,784,Medicine,1,1502,10
+3,1173,Medicine,2,2179,0
+4,309,Procedure,1,5406,15
+5,103,Consultation Fee,1,3443,15
+6,959,Procedure,1,11608,0
+7,1191,Procedure,1,4487,20
+8,626,Consultation Fee,1,3009,5
+9,396,Procedure,1,7215,0
+10,966,Medicine,2,3769,20
+11,37,Lab Test,1,4916,0
+12,1183,Medicine,1,3110,10
+13,946,Procedure,1,12558,10
+14,69,Procedure,1,14413,20
+15,49,Procedure,-1,9524,10
+16,497,Room Charge,1,5278,0
+17,84,Lab Test,1,2927,0
+18,291,Consultation Fee,1,3896,0
+19,1155,Room Charge,1,5186,0
+20,701,Room Charge,1,4180,20
+21,1122,Room Charge,1,3697,0
+22,515,Room Charge,1,3162,0
+23,591,Consultation Fee,1,1791,0
+24,264,Procedure,1,13008,0
+25,679,Room Charge,1,7133,15
+26,45,Medicine,1,2332,0
+27,261,Room Charge,1,2614,0
+28,270,Medicine,1,5890,0
+29,375,Room Charge,1,7591,0
+30,414,Procedure,1,9849,0
+31,301,Room Charge,1,4352,0
+32,478,Room Charge,1,4350,15
+33,1162,Medicine,1,3335,0
+34,564,Lab Test,2,2063,10
+35,952,Procedure,1,12362,0
+36,144,Procedure,1,3153,0
+37,931,Consultation Fee,1,2439,20
+38,1073,Consultation Fee,1,1960,0
+39,670,Medicine,2,4203,0
+40,372,Room Charge,1,7389,0
+41,180,Medicine,1,5628,0
+42,1111,Procedure,1,3037,0
+43,926,Lab Test,2,4094,0
+44,1184,Consultation Fee,1,2795,0
+45,154,Consultation Fee,1,3151,0
+46,118,Procedure,1,12637,20
+47,730,Procedure,1,9823,0
+48,826,Procedure,1,7940,0
+49,144,Lab Test,1,1622,0
+50,716,Procedure,1,10283,0
+51,1084,Lab Test,1,1039,5
+52,360,Medicine,2,2627,0
+53,605,Lab Test,1,4317,0
+54,121,Room Charge,1,3934,20
+55,6,Medicine,1,2855,0
+56,321,Lab Test,2,1483,0
+57,1117,Consultation Fee,1,3092,15
+58,379,Procedure,1,3605,0
+59,223,Procedure,1,14790,0
+60,298,Medicine,1,2270,5
+61,1001,Room Charge,1,3206,5
+62,75,Consultation Fee,1,2691,10
+63,603,Lab Test,1,1456,15
+64,896,Room Charge,1,5109,0
+65,981,Medicine,1,4884,0
+66,1079,Room Charge,1,7242,0
+67,362,Consultation Fee,1,3670,0
+68,77,Medicine,1,4618,0
+69,771,Medicine,1,2472,0
+70,1195,Consultation Fee,1,2320,5
+71,939,Medicine,2,1004,5
+72,606,Lab Test,2,4604,5
+73,1041,Procedure,1,10507,5
+74,393,Room Charge,1,6013,0
+75,508,Consultation Fee,1,2176,0
+76,435,Room Charge,1,3829,10
+77,771,Room Charge,1,7826,0
+78,890,Consultation Fee,1,2501,20
+79,630,Medicine,1,5961,10
+80,433,Lab Test,1,3889,5
+81,578,Procedure,1,14492,15
+82,954,Procedure,1,7749,15
+83,323,Medicine,1,2484,10
+84,531,Consultation Fee,1,2148,0
+85,620,Consultation Fee,1,3618,20
+86,1057,Procedure,1,11025,0
+87,247,Room Charge,1,5724,15
+88,407,Room Charge,1,7937,0
+89,226,Lab Test,1,1465,0
+90,1104,Room Charge,1,2527,5
+91,1183,Procedure,1,8681,0
+92,846,Consultation Fee,1,3306,0
+93,702,Room Charge,1,6044,0
+94,941,Procedure,1,4374,0
+95,26,Lab Test,1,4639,0
+96,663,Lab Test,1,3946,0
+97,772,Lab Test,1,1910,0
+98,399,Procedure,1,12850,0
+99,169,Consultation Fee,1,1548,5
+100,96,Procedure,1,14320,0
+101,1078,Lab Test,1,3089,10
+102,831,Lab Test,1,1602,0
+103,689,Consultation Fee,1,2258,10
+104,672,Procedure,1,10012,0
+105,1163,Consultation Fee,1,2771,0
+106,1025,Room Charge,1,7648,0
+107,1082,Medicine,1,1185,15
+108,57,Medicine,1,1914,20
+109,1053,Lab Test,2,2856,0
+110,1103,Lab Test,1,2999,5
+111,588,Medicine,2,3601,0
+112,841,Lab Test,1,2690,0
+113,773,Room Charge,1,5754,0
+114,950,Medicine,1,3042,0
+115,842,Room Charge,1,7558,0
+116,609,Medicine,1,4516,0
+117,592,Consultation Fee,1,2344,0
+118,172,Lab Test,1,2890,10
+119,267,Room Charge,1,2154,0
+120,425,Consultation Fee,1,3100,0
+121,205,Consultation Fee,1,2747,0
+122,729,Procedure,1,3347,0
+123,422,Consultation Fee,1,1647,10
+124,238,Lab Test,1,3203,0
+125,704,Consultation Fee,1,3158,0
+126,498,Room Charge,1,2816,5
+127,350,Room Charge,1,7097,5
+128,337,Consultation Fee,1,3516,0
+129,580,Lab Test,1,2069,0
+130,541,Procedure,1,3186,0
+131,240,Medicine,2,1602,0
+132,133,Procedure,1,14927,0
+133,897,Medicine,1,4493,5
+134,914,Consultation Fee,1,1836,0
+135,721,Procedure,1,7112,10
+136,180,Consultation Fee,1,2585,0
+137,574,Medicine,1,4804,5
+138,648,Medicine,1,2295,0
+139,716,Medicine,1,4632,10
+140,1043,Procedure,1,8808,15
+141,964,Lab Test,1,3329,0
+142,518,Consultation Fee,1,1889,0
+143,523,Room Charge,1,6138,0
+144,227,Consultation Fee,1,2303,0
+145,446,Procedure,1,5701,0
+146,312,Lab Test,1,3187,5
+147,474,Lab Test,1,973,0
+148,139,Procedure,1,12730,0
+149,826,Medicine,1,2585,0
+150,611,Medicine,1,4077,5
+151,659,Lab Test,2,942,0
+152,335,Procedure,1,12751,0
+153,775,Medicine,1,1451,0
+154,954,Consultation Fee,1,3309,0
+155,301,Medicine,1,5062,0
+156,264,Medicine,1,1310,5
+157,515,Medicine,1,840,5
+158,177,Lab Test,1,2158,10
+159,155,Lab Test,1,3135,0
+160,957,Room Charge,1,7663,10
+161,315,Medicine,2,1403,0
+162,250,Medicine,2,4490,5
+163,1091,Procedure,1,11476,0
+164,926,Medicine,1,200,0
+165,792,Medicine,1,4881,0
+166,572,Consultation Fee,1,2736,5
+167,706,Lab Test,2,2724,0
+168,1029,Medicine,2,5526,10
+169,510,Lab Test,1,3953,20
+170,1095,Room Charge,1,4201,0
+171,587,Room Charge,1,7745,20
+172,655,Medicine,1,5385,0
+173,702,Consultation Fee,1,3320,10
+174,1083,Lab Test,1,1240,0
+175,585,Lab Test,1,1796,0
+176,848,Consultation Fee,1,2475,0
+177,1048,Medicine,2,344,15
+178,344,Procedure,1,14053,10
+179,379,Lab Test,1,2146,0
+180,1185,Room Charge,1,2676,0
+181,173,Room Charge,1,7403,0
+182,981,Consultation Fee,1,3958,0
+183,102,Lab Test,2,4147,0
+184,895,Medicine,1,2289,5
+185,654,Room Charge,1,5573,15
+186,396,Medicine,1,1151,15
+187,49,Room Charge,1,3114,0
+188,417,Room Charge,1,5190,10
+189,390,Procedure,1,13816,0
+190,226,Room Charge,1,2944,0
+191,854,Procedure,1,6052,0
+192,377,Lab Test,1,3670,10
+193,363,Lab Test,1,947,0
+194,293,Consultation Fee,1,2310,0
+195,959,Consultation Fee,1,3309,0
+196,211,Lab Test,2,840,5
+197,437,Consultation Fee,1,3025,5
+198,427,Procedure,1,10484,0
+199,262,Procedure,1,6802,0
+200,467,Procedure,1,10657,0
+201,828,Consultation Fee,1,3738,0
+202,952,Room Charge,1,3691,0
+203,365,Procedure,1,4751,10
+204,541,Room Charge,1,3639,15
+205,1118,Lab Test,1,906,10
+206,1172,Consultation Fee,1,3353,5
+207,1171,Consultation Fee,1,2099,10
+208,727,Consultation Fee,1,1785,10
+209,59,Procedure,1,9832,20
+210,777,Consultation Fee,1,3211,0
+211,1181,Consultation Fee,1,2929,10
+212,843,Consultation Fee,1,2796,0
+213,300,Consultation Fee,1,3471,5
+214,575,Medicine,2,1306,0
+215,1133,Room Charge,1,7389,20
+216,933,Consultation Fee,1,3628,10
+217,221,Procedure,1,9711,5
+218,106,Procedure,1,10202,10
+219,1193,Procedure,1,7030,10
+220,832,Medicine,1,1348,0
+221,232,Procedure,1,3600,15
+222,936,Consultation Fee,1,3762,10
+223,850,Consultation Fee,1,2589,5
+224,1062,Procedure,1,14814,20
+225,402,Procedure,1,11218,5
+226,283,Procedure,1,3402,10
+227,513,Procedure,1,8796,0
+228,198,Consultation Fee,1,2083,15
+229,467,Medicine,2,2545,5
+230,721,Consultation Fee,1,3100,0
+231,509,Room Charge,1,6258,15
+232,909,Room Charge,1,6525,0
+233,1174,Lab Test,1,2642,0
+234,768,Room Charge,1,5981,5
+235,283,Lab Test,2,1736,0
+236,232,Lab Test,1,1872,5
+237,224,Procedure,1,7374,0
+238,868,Lab Test,1,1068,5
+239,220,Lab Test,1,2914,0
+240,277,Lab Test,1,1595,20
+241,162,Room Charge,1,3336,5
+242,477,Lab Test,1,2463,15
+243,949,Lab Test,1,4706,10
+244,457,Lab Test,1,1565,5
+245,719,Room Charge,1,4258,0
+246,709,Lab Test,2,3164,0
+247,98,Consultation Fee,1,1543,0
+248,864,Room Charge,1,6628,0
+249,147,Room Charge,1,6937,0
+250,492,Lab Test,2,2559,0
+251,791,Medicine,1,3732,10
+252,35,Procedure,1,9646,5
+253,568,Consultation Fee,1,2929,0
+254,499,Consultation Fee,1,2403,0
+255,500,Room Charge,1,2917,20
+256,860,Lab Test,1,4046,5
+257,327,Lab Test,1,1673,0
+258,194,Procedure,1,4168,10
+259,439,Room Charge,1,4385,5
+260,953,Room Charge,1,6718,20
+261,706,Consultation Fee,1,1551,0
+262,100,Medicine,1,1727,0
+263,413,Medicine,1,653,0
+264,560,Medicine,1,3932,0
+265,331,Room Charge,1,2730,15
+266,673,Room Charge,1,3592,0
+267,877,Lab Test,1,3748,10
+268,169,Procedure,1,8703,0
+269,432,Consultation Fee,1,2033,0
+270,821,Lab Test,1,1984,0
+271,690,Procedure,1,4298,0
+272,216,Procedure,1,7994,10
+273,581,Consultation Fee,1,1899,0
+274,215,Consultation Fee,1,2961,0
+275,1162,Consultation Fee,1,2883,0
+276,754,Procedure,1,4285,0
+277,508,Lab Test,1,1016,15
+278,623,Room Charge,1,7336,5
+279,631,Lab Test,1,3644,15
+280,677,Room Charge,1,7623,15
+281,570,Procedure,1,12482,15
+282,216,Room Charge,1,7858,0
+283,1104,Lab Test,1,1072,0
+284,219,Medicine,2,3257,10
+285,219,Lab Test,1,3609,0
+286,1033,Medicine,2,672,0
+287,266,Lab Test,1,2671,0
+288,1002,Lab Test,1,1292,5
+289,609,Room Charge,1,5224,0
+290,233,Lab Test,1,2657,15
+291,990,Room Charge,1,7251,0
+292,413,Lab Test,1,2020,0
+293,555,Room Charge,1,2504,10
+294,374,Lab Test,1,1956,0
+295,925,Lab Test,1,1494,5
+296,535,Consultation Fee,1,3969,15
+297,1170,Medicine,1,3638,0
+298,879,Consultation Fee,1,1892,0
+299,447,Medicine,1,2623,10
+300,725,Consultation Fee,1,1550,0
+301,80,Medicine,1,825,10
+302,57,Lab Test,2,2480,5
+303,837,Room Charge,1,5938,0
+304,345,Lab Test,1,4060,15
+305,751,Lab Test,1,2565,0
+306,938,Room Charge,1,7194,0
+307,520,Procedure,1,5568,0
+308,930,Consultation Fee,1,2008,0
+309,600,Procedure,1,12003,10
+310,448,Lab Test,2,3682,15
+311,1183,Room Charge,1,6846,0
+312,87,Room Charge,1,6249,5
+313,823,Procedure,1,10853,0
+314,1149,Lab Test,2,1261,0
+315,514,Room Charge,1,4012,5
+316,1061,Consultation Fee,1,2230,0
+317,347,Procedure,1,14915,0
+318,174,Lab Test,1,3357,0
+319,411,Consultation Fee,1,2138,0
+320,1143,Consultation Fee,1,3621,5
+321,596,Medicine,2,4755,0
+322,765,Consultation Fee,1,3481,0
+323,1168,Room Charge,1,4037,15
+324,741,Room Charge,1,2525,0
+325,518,Procedure,1,12720,0
+326,502,Lab Test,1,4422,15
+327,1192,Consultation Fee,1,3551,5
+328,468,Lab Test,1,2161,0
+329,550,Medicine,2,5869,0
+330,1071,Room Charge,1,3556,5
+331,92,Room Charge,1,2293,15
+332,1130,Lab Test,1,4273,0
+333,840,Medicine,2,1241,5
+334,827,Procedure,1,10352,10
+335,598,Procedure,1,14380,0
+336,525,Lab Test,1,3001,0
+337,335,Consultation Fee,1,1685,10
+338,945,Procedure,1,14872,15
+339,1019,Lab Test,1,1646,20
+340,592,Procedure,1,13148,0
+341,1069,Lab Test,1,4774,0
+342,1080,Procedure,1,14157,0
+343,471,Consultation Fee,1,3071,0
+344,40,Lab Test,1,4850,5
+345,197,Consultation Fee,1,2305,0
+346,678,Procedure,1,9682,0
+347,692,Room Charge,1,5721,0
+348,104,Procedure,1,10146,5
+349,215,Procedure,1,10727,0
+350,393,Consultation Fee,1,1630,0
+351,1085,Procedure,1,10768,15
+352,841,Procedure,1,5241,0
+353,62,Room Charge,1,6528,0
+354,1091,Room Charge,1,5242,15
+355,256,Medicine,1,4317,5
+356,519,Procedure,1,8340,5
+357,719,Procedure,1,11914,20
+358,32,Room Charge,1,4506,0
+359,1110,Procedure,1,4864,0
+360,606,Procedure,1,3641,20
+361,517,Lab Test,1,2264,0
+362,454,Procedure,1,13855,5
+363,313,Consultation Fee,1,2522,0
+364,394,Consultation Fee,1,2619,0
+365,272,Lab Test,1,1094,5
+366,507,Procedure,1,6689,0
+367,124,Procedure,1,9497,0
+368,670,Procedure,1,12389,20
+369,877,Procedure,1,11173,15
+370,15,Lab Test,1,4837,5
+371,90,Consultation Fee,1,1729,15
+372,283,Medicine,1,392,5
+373,85,Procedure,1,9942,0
+374,386,Room Charge,1,7718,10
+375,803,Lab Test,1,3942,5
+376,883,Medicine,1,779,15
+377,723,Consultation Fee,1,2308,10
+378,924,Room Charge,1,5587,0
+379,81,Consultation Fee,1,2767,20
+380,149,Lab Test,1,3101,20
+381,1023,Lab Test,1,4088,0
+382,704,Lab Test,2,2729,0
+383,142,Consultation Fee,1,1523,0
+384,1003,Consultation Fee,1,3014,5
+385,1084,Procedure,1,3794,0
+386,76,Medicine,1,3009,0
+387,98,Room Charge,1,2699,20
+388,427,Consultation Fee,1,2896,0
+389,755,Room Charge,1,5411,0
+390,462,Consultation Fee,1,1850,0
+391,475,Room Charge,1,6005,0
+392,480,Medicine,1,1716,0
+393,604,Medicine,1,1542,5
+394,1118,Room Charge,1,5831,20
+395,611,Lab Test,1,3786,0
+396,534,Medicine,1,4801,0
+397,909,Lab Test,1,3957,0
+398,118,Room Charge,1,3938,0
+399,206,Procedure,1,14868,0
+400,415,Procedure,1,10846,15
+401,462,Room Charge,1,7565,10
+402,235,Lab Test,2,3819,15
+403,423,Room Charge,1,4833,10
+404,1159,Room Charge,1,2208,5
+405,84,Medicine,1,2299,0
+406,296,Consultation Fee,1,3298,0
+407,7,Procedure,1,8451,0
+408,1109,Consultation Fee,1,3973,0
+409,1019,Procedure,1,9375,0
+410,752,Medicine,1,1548,0
+411,430,Lab Test,1,1160,15
+412,857,Medicine,1,4223,0
+413,258,Consultation Fee,1,2606,10
+414,585,Consultation Fee,1,2585,10
+415,786,Lab Test,1,1419,0
+416,839,Consultation Fee,1,2425,10
+417,941,Room Charge,1,3360,0
+418,28,Medicine,1,4321,20
+419,179,Room Charge,1,6539,0
+420,553,Procedure,1,8202,5
+421,256,Procedure,1,14839,0
+422,743,Consultation Fee,1,3314,15
+423,863,Lab Test,1,1439,0
+424,141,Medicine,1,4032,5
+425,1191,Lab Test,1,4119,15
+426,47,Consultation Fee,1,2180,0
+427,757,Medicine,1,1048,0
+428,653,Consultation Fee,1,3479,5
+429,377,Procedure,1,7821,0
+430,598,Room Charge,1,5877,0
+431,745,Procedure,1,14394,10
+432,856,Lab Test,1,1722,5
+433,525,Procedure,1,14756,0
+434,563,Lab Test,1,1119,10
+435,173,Lab Test,1,4512,10
+436,621,Medicine,1,3390,0
+437,330,Medicine,1,1090,0
+438,877,Medicine,2,1208,0
+439,781,Consultation Fee,1,3675,0
+440,467,Room Charge,1,6112,0
+441,703,Consultation Fee,1,2857,20
+442,716,Lab Test,2,4356,0
+443,1028,Lab Test,1,1013,0
+444,61,Medicine,1,1691,0
+445,157,Consultation Fee,1,3788,10
+446,516,Procedure,1,6097,5
+447,339,Room Charge,1,5155,15
+448,502,Room Charge,1,3307,5
+449,1022,Medicine,1,880,0
+450,61,Room Charge,1,7259,0
+451,614,Consultation Fee,1,3970,10
+452,149,Room Charge,1,6220,0
+453,971,Consultation Fee,1,3062,0
+454,735,Procedure,1,14417,10
+455,1079,Medicine,1,4609,15
+456,919,Lab Test,1,909,5
+457,381,Procedure,1,11067,0
+458,1087,Medicine,1,5642,0
+459,1118,Consultation Fee,1,2591,0
+460,394,Room Charge,1,7303,15
+461,924,Medicine,1,482,0
+462,28,Procedure,1,13264,0
+463,237,Consultation Fee,0,1668,5
+464,139,Medicine,1,3777,0
+465,403,Consultation Fee,1,2798,5
+466,636,Consultation Fee,1,1935,0
+467,1036,Consultation Fee,1,3853,5
+468,960,Lab Test,2,1094,0
+469,561,Procedure,1,8112,5
+470,854,Room Charge,1,4409,10
+471,901,Consultation Fee,1,2315,5
+472,479,Lab Test,2,1586,5
+473,751,Medicine,1,4130,10
+474,972,Medicine,1,2671,5
+475,1029,Consultation Fee,1,1885,0
+476,540,Medicine,1,451,10
+477,599,Lab Test,1,4770,5
+478,523,Lab Test,1,4224,0
+479,620,Medicine,2,2065,5
+480,460,Procedure,1,9903,10
+481,277,Room Charge,1,3315,0
+482,1133,Medicine,2,5308,15
+483,869,Consultation Fee,1,3039,15
+484,1047,Procedure,1,6471,0
+485,940,Lab Test,1,3363,0
+486,898,Medicine,1,4107,20
+487,382,Consultation Fee,1,2119,20
+488,832,Procedure,1,14371,0
+489,728,Medicine,1,5332,0
+490,1181,Medicine,1,3258,0
+491,857,Procedure,1,3900,5
+492,406,Consultation Fee,1,2678,0
+493,797,Lab Test,2,3055,10
+494,950,Lab Test,2,2736,20
+495,893,Medicine,1,5223,5
+496,723,Room Charge,1,5937,15
+497,742,Medicine,1,1593,5
+498,1172,Procedure,1,14917,0
+499,1163,Room Charge,1,6789,5
+500,169,Lab Test,2,2741,15
+501,135,Room Charge,1,6777,15
+502,865,Consultation Fee,1,2759,5
+503,1172,Room Charge,1,4878,5
+504,708,Room Charge,1,3823,0
+505,735,Consultation Fee,1,2056,0
+506,933,Room Charge,1,3026,10
+507,150,Consultation Fee,1,2675,0
+508,876,Lab Test,1,3802,0
+509,355,Consultation Fee,1,3989,0
+510,8,Consultation Fee,1,2806,0
+511,1125,Consultation Fee,1,2636,15
+512,87,Procedure,1,13513,5
+513,87,Consultation Fee,1,2454,0
+514,401,Room Charge,1,5444,0
+515,1117,Medicine,1,1998,0
+516,307,Procedure,1,8400,10
+517,679,Consultation Fee,1,3564,0
+518,480,Consultation Fee,1,2472,10
+519,415,Lab Test,1,3324,5
+520,556,Consultation Fee,1,3958,0
+521,841,Medicine,1,5332,0
+522,695,Procedure,1,10222,0
+523,309,Consultation Fee,1,1613,10
+524,1066,Medicine,2,4146,0
+525,128,Consultation Fee,1,3235,10
+526,722,Consultation Fee,1,1935,0
+527,631,Room Charge,1,7997,15
+528,795,Lab Test,1,3540,0
+529,1116,Medicine,1,3747,0
+530,584,Medicine,1,937,0
+531,49,Procedure,1,9524,10
+532,1183,Lab Test,2,3669,10
+533,766,Procedure,1,13459,10
+534,740,Consultation Fee,1,3675,0
+535,421,Procedure,1,8017,20
+536,311,Consultation Fee,1,2893,0
+537,1088,Consultation Fee,1,3183,0
+538,1043,Room Charge,1,3850,0
+539,249,Lab Test,2,3922,0
+540,663,Procedure,1,13877,0
+541,915,Consultation Fee,1,3862,10
+542,1062,Room Charge,1,2984,5
+543,615,Medicine,2,3331,10
+544,901,Procedure,1,12303,15
+545,155,Procedure,1,5795,15
+546,863,Medicine,1,1779,5
+547,233,Medicine,1,2548,15
+548,1098,Lab Test,1,3985,0
+549,703,Procedure,1,13566,5
+550,442,Procedure,1,13363,0
+551,349,Consultation Fee,1,2975,0
+552,225,Room Charge,1,7823,0
+553,741,Consultation Fee,1,2092,0
+554,590,Consultation Fee,1,3500,20
+555,516,Consultation Fee,1,3024,0
+556,1022,Consultation Fee,1,1601,5
+557,771,Lab Test,2,3156,0
+558,1188,Room Charge,1,5368,0
+559,970,Medicine,1,5145,0
+560,95,Medicine,1,1632,5
+561,750,Room Charge,1,2028,0
+562,907,Lab Test,2,2774,5
+563,733,Consultation Fee,1,1832,0
+564,939,Consultation Fee,1,3371,10
+565,844,Consultation Fee,1,1996,15
+566,525,Consultation Fee,1,3479,0
+567,671,Consultation Fee,1,3645,5
+568,562,Room Charge,1,5592,0
+569,84,Room Charge,1,6848,0
+570,146,Medicine,1,2289,0
+571,359,Medicine,1,783,20
+572,53,Medicine,2,4213,0
+573,5,Medicine,1,4904,0
+574,524,Procedure,1,13597,0
+575,97,Procedure,1,7199,0
+576,29,Medicine,1,2946,0
+577,722,Lab Test,1,4807,0
+578,353,Lab Test,1,1064,0
+579,464,Room Charge,1,3880,0
+580,1092,Consultation Fee,1,2500,5
+581,549,Consultation Fee,1,2582,10
+582,1134,Lab Test,2,3267,0
+583,825,Lab Test,1,838,0
+584,396,Lab Test,1,880,10
+585,538,Room Charge,1,4664,0
+586,207,Medicine,1,5524,10
+587,846,Room Charge,1,2951,0
+588,352,Lab Test,1,1076,0
+589,639,Room Charge,1,6042,5
+590,628,Medicine,1,343,15
+591,1179,Consultation Fee,1,3146,0
+592,968,Consultation Fee,1,1727,10
+593,886,Consultation Fee,1,1841,0
+594,201,Medicine,1,1277,5
+595,1043,Lab Test,2,1033,0
+596,898,Room Charge,1,7382,0
+597,432,Medicine,2,1565,0
+598,654,Medicine,1,1008,5
+599,347,Lab Test,1,3167,15
+600,274,Procedure,1,5196,5
+601,873,Lab Test,1,4937,0
+602,764,Room Charge,1,5274,10
+603,883,Room Charge,1,2320,10
+604,1168,Consultation Fee,1,2166,0
+605,846,Medicine,1,5801,0
+606,338,Lab Test,1,4670,0
+607,814,Consultation Fee,1,2692,0
+608,144,Medicine,1,2718,0
+609,992,Consultation Fee,1,3618,0
+610,1148,Medicine,1,5787,0
+611,579,Medicine,1,4291,0
+612,738,Lab Test,2,2570,15
+613,1116,Consultation Fee,1,2468,0
+614,246,Consultation Fee,1,1959,5
+615,90,Lab Test,1,3033,10
+616,904,Lab Test,1,1230,5
+617,214,Procedure,1,3853,0
+618,1135,Room Charge,1,3811,0
+619,626,Procedure,1,14529,10
+620,1081,Consultation Fee,1,3719,0
+621,1173,Room Charge,1,6350,0
+622,775,Consultation Fee,1,3605,0
+623,1066,Procedure,1,14761,5
+624,186,Consultation Fee,1,3050,10
+625,365,Consultation Fee,1,3950,10
+626,1171,Room Charge,1,7332,0
+627,849,Room Charge,1,7151,10
+628,593,Lab Test,2,1855,0
+629,1200,Medicine,1,4025,0
+630,220,Room Charge,1,5083,0
+631,832,Lab Test,1,3363,0
+632,1112,Room Charge,1,7883,0
+633,1136,Room Charge,1,4015,10
+634,330,Consultation Fee,1,2270,15
+635,580,Medicine,1,3018,10
+636,1002,Medicine,1,2504,10
+637,1096,Lab Test,1,1875,0
+638,1139,Medicine,1,2879,5
+639,411,Medicine,1,3996,0
+640,476,Consultation Fee,1,3373,10
+641,328,Consultation Fee,1,3735,5
+642,1025,Consultation Fee,1,2358,15
+643,1034,Room Charge,1,3947,5
+644,186,Room Charge,1,4586,10
+645,1049,Consultation Fee,1,2699,10
+646,1126,Consultation Fee,1,1970,5
+647,502,Consultation Fee,1,3732,0
+648,789,Procedure,1,9019,0
+649,1022,Room Charge,1,6765,5
+650,407,Medicine,1,3406,10
+651,931,Medicine,2,1886,0
+652,415,Room Charge,1,2040,0
+653,665,Consultation Fee,1,1513,0
+654,822,Medicine,1,2473,0
+655,1028,Medicine,1,5255,5
+656,55,Consultation Fee,1,2667,0
+657,499,Room Charge,1,2633,15
+658,756,Lab Test,1,1617,5
+659,355,Room Charge,1,6500,0
+660,924,Lab Test,2,2376,5
+661,683,Procedure,1,13328,0
+662,188,Lab Test,1,1128,0
+663,43,Consultation Fee,1,3036,0
+664,729,Medicine,1,5048,15
+665,844,Room Charge,1,6196,0
+666,1013,Procedure,1,5715,15
+667,1161,Lab Test,2,3392,20
+668,47,Procedure,1,8039,15
+669,480,Room Charge,1,5872,10
+670,511,Medicine,1,3152,20
+671,671,Room Charge,1,7637,15
+672,578,Room Charge,1,6718,10
+673,826,Lab Test,1,4315,5
+674,1090,Lab Test,1,3197,0
+675,969,Room Charge,1,5307,20
+676,1161,Consultation Fee,1,1583,0
+677,114,Consultation Fee,1,2931,5
+678,33,Room Charge,1,2357,5
+679,839,Medicine,1,353,0
+680,751,Consultation Fee,1,3534,10
+681,338,Consultation Fee,1,2439,10
+682,581,Medicine,1,5589,15
+683,957,Lab Test,1,2191,5
+684,15,Medicine,1,2553,0
+685,1179,Room Charge,1,6517,0
+686,350,Medicine,2,5008,5
+687,473,Consultation Fee,1,2054,0
+688,1126,Medicine,1,872,0
+689,640,Consultation Fee,1,2029,5
+690,140,Consultation Fee,1,3690,0
+691,746,Room Charge,1,3993,0
+692,869,Medicine,1,2459,15
+693,699,Procedure,1,4229,0
+694,127,Room Charge,1,7623,10
+695,225,Lab Test,1,2838,0
+696,16,Consultation Fee,1,2112,10
+697,1041,Medicine,2,3029,0
+698,1111,Lab Test,1,929,15
+699,637,Room Charge,1,2249,0
+700,385,Medicine,1,2107,0
+701,695,Medicine,1,1376,0
+702,819,Consultation Fee,1,3585,0
+703,671,Medicine,1,5119,0
+704,1174,Medicine,1,5266,0
+705,362,Medicine,1,1110,0
+706,504,Room Charge,1,3391,0
+707,333,Consultation Fee,1,1834,0
+708,382,Medicine,2,1559,20
+709,489,Medicine,1,4326,0
+710,863,Procedure,1,13645,5
+711,622,Room Charge,1,2049,0
+712,1013,Lab Test,2,3073,5
+713,152,Room Charge,1,2199,20
+714,741,Medicine,1,556,10
+715,601,Lab Test,1,3090,0
+716,152,Procedure,1,10379,5
+717,801,Lab Test,1,1705,0
+718,520,Medicine,1,2401,15
+719,562,Lab Test,1,3911,0
+720,153,Medicine,1,1360,0
+721,417,Consultation Fee,1,2096,5
+722,663,Medicine,1,3787,0
+723,59,Medicine,1,286,15
+724,288,Consultation Fee,1,1661,0
+725,94,Room Charge,1,7321,10
+726,550,Consultation Fee,1,3275,0
+727,665,Procedure,1,8736,15
+728,842,Medicine,2,1207,0
+729,921,Lab Test,1,4784,10
+730,888,Procedure,1,11247,0
+731,175,Lab Test,1,4246,15
+732,844,Procedure,1,10643,5
+733,1163,Procedure,1,8238,20
+734,873,Consultation Fee,1,3325,0
+735,1079,Lab Test,1,1313,0
+736,124,Medicine,2,1124,0
+737,354,Room Charge,1,3820,0
+738,273,Lab Test,1,4246,0
+739,630,Room Charge,1,6236,0
+740,45,Procedure,1,6007,0
+741,765,Lab Test,1,4110,15
+742,182,Consultation Fee,1,3821,15
+743,713,Consultation Fee,1,2709,0
+744,592,Lab Test,1,1013,0
+745,800,Procedure,1,6686,5
+746,284,Room Charge,1,5566,0
+747,1184,Medicine,1,4435,10
+748,798,Procedure,1,14618,5
+749,1029,Lab Test,1,2697,15
+750,744,Consultation Fee,1,2748,0
+751,816,Medicine,1,1091,0
+752,456,Procedure,1,11147,0
+753,611,Room Charge,1,2017,0
+754,1134,Medicine,1,1435,5
+755,659,Medicine,1,3735,5
+756,273,Room Charge,1,4542,10
+757,329,Consultation Fee,1,3816,0
+758,696,Medicine,2,4560,0
+759,329,Medicine,-1,1297,10
+760,941,Lab Test,1,3870,20
+761,1113,Consultation Fee,1,2736,0
+762,1115,Consultation Fee,1,2631,10
+763,162,Lab Test,1,812,0
+764,441,Consultation Fee,1,3991,0
+765,100,Procedure,1,6910,0
+766,795,Room Charge,1,7594,20
+767,644,Room Charge,1,6569,5
+768,1164,Consultation Fee,1,2553,15
+769,503,Consultation Fee,1,1901,15
+770,490,Procedure,1,12780,0
+771,423,Lab Test,1,959,0
+772,596,Consultation Fee,1,3584,5
+773,492,Procedure,1,12116,0
+774,664,Medicine,1,3880,0
+775,123,Consultation Fee,1,2834,0
+776,876,Room Charge,1,3683,10
+777,44,Procedure,1,5179,0
+778,1141,Consultation Fee,1,2102,10
+779,593,Procedure,1,14813,0
+780,623,Lab Test,1,2967,0
+781,860,Room Charge,1,7281,0
+782,381,Medicine,2,3742,0
+783,554,Procedure,1,11126,0
+784,416,Lab Test,1,2727,0
+785,316,Medicine,1,1207,0
+786,162,Medicine,1,3014,0
+787,750,Medicine,1,1468,5
+788,628,Consultation Fee,1,2247,10
+789,477,Room Charge,1,6500,0
+790,464,Lab Test,1,921,10
+791,188,Consultation Fee,1,2114,0
+792,183,Procedure,1,3573,10
+793,693,Consultation Fee,1,3126,0
+794,547,Medicine,2,5532,0
+795,811,Room Charge,1,6066,0
+796,1086,Lab Test,2,1267,0
+797,543,Room Charge,1,3685,10
+798,686,Medicine,1,2063,0
+799,465,Procedure,1,7958,0
+800,607,Consultation Fee,1,2877,0
+801,326,Consultation Fee,1,1850,0
+802,321,Consultation Fee,1,1888,0
+803,816,Procedure,1,12281,0
+804,428,Medicine,1,2158,0
+805,607,Room Charge,1,4821,0
+806,519,Lab Test,2,4010,0
+807,58,Procedure,1,14010,0
+808,669,Procedure,1,8682,0
+809,991,Medicine,1,4423,0
+810,1051,Room Charge,1,7912,10
+811,390,Medicine,1,2400,0
+812,123,Medicine,2,5719,0
+813,219,Procedure,1,5430,0
+814,581,Lab Test,1,1526,0
+815,67,Consultation Fee,1,2381,10
+816,941,Medicine,1,4188,0
+817,83,Procedure,1,13501,20
+818,715,Room Charge,1,6769,0
+819,361,Medicine,1,5128,0
+820,420,Procedure,1,7861,20
+821,839,Room Charge,1,7328,0
+822,918,Consultation Fee,1,2873,0
+823,583,Consultation Fee,1,1776,5
+824,877,Room Charge,1,5581,20
+825,377,Consultation Fee,1,2551,0
+826,165,Room Charge,1,3072,0
+827,179,Medicine,1,5969,0
+828,351,Consultation Fee,1,3681,0
+829,547,Room Charge,1,7581,0
+830,882,Room Charge,1,3558,0
+831,929,Consultation Fee,1,3404,15
+832,52,Room Charge,1,7232,0
+833,43,Procedure,1,8754,15
+834,82,Room Charge,1,4567,0
+835,236,Consultation Fee,1,2413,0
+836,661,Room Charge,1,3003,5
+837,225,Consultation Fee,1,1915,0
+838,399,Room Charge,1,6179,10
+839,964,Room Charge,1,7478,5
+840,392,Consultation Fee,1,2153,0
+841,532,Procedure,1,13580,5
+842,365,Lab Test,2,3793,0
+843,659,Room Charge,1,4233,0
+844,790,Room Charge,1,4091,10
+845,1039,Consultation Fee,1,1523,5
+846,102,Procedure,1,7087,10
+847,303,Procedure,1,11890,0
+848,591,Procedure,1,7756,0
+849,899,Consultation Fee,1,3967,5
+850,485,Lab Test,2,1733,0
+851,120,Consultation Fee,1,3416,0
+852,609,Lab Test,1,2890,5
+853,984,Medicine,1,284,5
+854,919,Room Charge,1,3420,5
+855,872,Medicine,2,5126,20
+856,228,Lab Test,1,1076,0
+857,468,Procedure,1,14828,0
+858,1115,Procedure,1,12345,5
+859,750,Procedure,1,8773,15
+860,142,Medicine,1,3113,0
+861,883,Consultation Fee,1,2658,0
+862,1046,Procedure,1,10816,20
+863,309,Medicine,1,4549,10
+864,646,Room Charge,1,3395,0
+865,400,Room Charge,1,4571,0
+866,312,Medicine,1,1718,15
+867,271,Procedure,1,6588,0
+868,754,Lab Test,2,2839,0
+869,155,Medicine,2,731,5
+870,362,Lab Test,1,1158,0
+871,454,Lab Test,1,2187,10
+872,938,Procedure,1,7660,0
+873,282,Procedure,1,7701,15
+874,342,Consultation Fee,1,2071,20
+875,574,Procedure,1,4925,15
+876,1074,Procedure,1,6439,0
+877,796,Room Charge,1,5127,10
+878,1193,Room Charge,1,6652,0
+879,36,Room Charge,1,2846,0
+880,555,Medicine,1,1260,15
+881,447,Consultation Fee,1,2237,0
+882,1056,Consultation Fee,1,2312,15
+883,1119,Consultation Fee,1,2693,0
+884,454,Room Charge,1,5778,5
+885,994,Consultation Fee,1,2039,0
+886,520,Room Charge,1,6147,10
+887,648,Procedure,1,3138,15
+888,701,Procedure,1,11143,0
+889,168,Lab Test,1,862,15
+890,373,Medicine,2,1433,5
+891,1030,Procedure,1,11376,15
+892,261,Medicine,1,2864,0
+893,1138,Medicine,2,5172,0
+894,439,Procedure,1,4013,0
+895,723,Lab Test,2,1815,15
+896,808,Consultation Fee,1,2705,0
+897,852,Medicine,1,3829,0
+898,599,Medicine,1,724,20
+899,329,Lab Test,1,1697,0
+900,896,Medicine,2,3606,0
+901,182,Medicine,2,5807,0
+902,297,Lab Test,1,1730,10
+903,1084,Medicine,1,3508,5
+904,1199,Medicine,2,4230,0
+905,631,Procedure,1,12361,0
+906,215,Medicine,1,3837,5
+907,395,Consultation Fee,1,3288,0
+908,748,Room Charge,1,6512,20
+909,642,Procedure,1,3613,0
+910,694,Lab Test,1,4899,15
+911,734,Room Charge,1,5554,10
+912,630,Lab Test,1,2356,10
+913,674,Procedure,1,12111,10
+914,822,Procedure,1,5706,5
+915,638,Room Charge,1,7588,0
+916,566,Medicine,1,5575,0
+917,588,Room Charge,1,3895,5
+918,995,Consultation Fee,1,1835,10
+919,686,Lab Test,1,3247,0
+920,1149,Medicine,1,1428,5
+921,76,Consultation Fee,1,3618,0
+922,103,Procedure,1,12064,0
+923,119,Medicine,1,895,0
+924,899,Medicine,2,5457,10
+925,911,Consultation Fee,1,3922,10
+926,247,Lab Test,1,4158,0
+927,277,Consultation Fee,1,1825,0
+928,48,Lab Test,1,1670,0
+929,381,Room Charge,1,6344,10
+930,174,Procedure,1,5731,0
+931,738,Room Charge,1,3441,0
+932,53,Lab Test,2,4944,0
+933,378,Consultation Fee,1,1690,10
+934,43,Room Charge,1,6044,0
+935,917,Consultation Fee,1,1516,10
+936,785,Medicine,1,3258,10
+937,292,Procedure,1,7979,0
+938,11,Room Charge,1,6969,0
+939,675,Room Charge,1,3902,0
+940,271,Medicine,1,2951,5
+941,748,Lab Test,1,4780,15
+942,956,Consultation Fee,1,1912,5
+943,477,Procedure,1,14925,10
+944,580,Procedure,1,13737,5
+945,561,Lab Test,1,2552,10
+946,253,Lab Test,1,2557,0
+947,723,Medicine,2,595,0
+948,664,Room Charge,1,5577,0
+949,207,Consultation Fee,1,3550,0
+950,298,Consultation Fee,1,3220,10
+951,973,Procedure,1,11525,0
+952,207,Lab Test,2,3254,0
+953,21,Medicine,1,2089,0
+954,140,Room Charge,1,4273,0
+955,1112,Consultation Fee,1,2666,20
+956,6,Procedure,1,13085,5
+957,836,Consultation Fee,1,2464,5
+958,597,Lab Test,1,3278,5
+959,166,Room Charge,1,6246,20
+960,108,Medicine,2,4428,5
+961,706,Medicine,1,5639,10
+962,478,Consultation Fee,1,3528,15
+963,316,Procedure,1,13527,0
+964,1053,Medicine,1,2173,0
+965,353,Room Charge,1,4145,0
+966,919,Medicine,2,4546,10
+967,139,Consultation Fee,1,3571,0
+968,1123,Procedure,1,5915,10
+969,1040,Medicine,1,1844,5
+970,924,Procedure,1,5507,5
+971,586,Medicine,1,5024,0
+972,560,Lab Test,2,2549,0
+973,693,Room Charge,1,7523,0
+974,402,Lab Test,1,2090,10
+975,571,Medicine,1,956,0
+976,970,Consultation Fee,1,3623,0
+977,719,Consultation Fee,1,3720,5
+978,613,Consultation Fee,1,1984,5
+979,250,Consultation Fee,1,3958,0
+980,1095,Lab Test,1,3094,5
+981,844,Medicine,1,2093,15
+982,214,Lab Test,1,2062,0
+983,778,Medicine,1,3113,15
+984,571,Room Charge,1,3431,0
+985,232,Room Charge,1,7732,15
+986,1030,Lab Test,1,3567,0
+987,445,Lab Test,1,1854,10
+988,896,Procedure,1,5784,0
+989,511,Procedure,1,14848,5
+990,793,Consultation Fee,1,2010,0
+991,8,Procedure,1,14681,10
+992,1077,Procedure,1,5924,0
+993,57,Room Charge,1,3625,0
+994,1127,Room Charge,1,3336,0
+995,1023,Medicine,1,2089,0
+996,4,Lab Test,1,1004,0
+997,1123,Room Charge,1,4881,0
+998,714,Consultation Fee,1,3223,0
+999,1027,Medicine,2,3696,0
+1000,1187,Room Charge,1,3136,15
+1001,1075,Lab Test,1,3266,0
+1002,726,Lab Test,1,2711,5
+1003,1157,Consultation Fee,1,2691,0
+1004,780,Medicine,1,1851,0
+1005,579,Room Charge,1,4584,20
+1006,143,Consultation Fee,1,2080,15
+1007,788,Lab Test,1,4458,10
+1008,887,Consultation Fee,1,3369,0
+1009,457,Room Charge,1,5441,0
+1010,788,Medicine,1,1040,15
+1011,752,Consultation Fee,1,2461,0
+1012,857,Lab Test,2,1794,0
+1013,287,Lab Test,2,3073,0
+1014,958,Lab Test,2,4466,15
+1015,338,Room Charge,1,6023,10
+1016,676,Lab Test,1,4723,10
+1017,912,Consultation Fee,1,2150,0
+1018,889,Medicine,1,1644,20
+1019,281,Room Charge,1,6017,0
+1020,239,Procedure,1,13987,10
+1021,247,Medicine,1,540,0
+1022,1155,Lab Test,1,2866,10
+1023,239,Medicine,1,5398,0
+1024,1173,Procedure,1,14582,0
+1025,534,Consultation Fee,1,1714,15
+1026,778,Lab Test,1,2380,10
+1027,305,Procedure,1,13089,20
+1028,535,Room Charge,1,5529,0
+1029,1001,Procedure,1,13457,0
+1030,212,Consultation Fee,1,2762,0
+1031,187,Medicine,2,3581,0
+1032,165,Lab Test,1,2740,0
+1033,827,Medicine,1,4234,0
+1034,128,Lab Test,1,987,10
+1035,916,Medicine,1,1135,10
+1036,292,Room Charge,1,5496,20
+1037,950,Room Charge,1,4713,5
+1038,612,Consultation Fee,1,2469,0
+1039,884,Room Charge,1,2890,10
+1040,923,Medicine,1,1147,0
+1041,343,Consultation Fee,1,3675,0
+1042,222,Consultation Fee,1,2172,10
+1043,509,Procedure,1,7961,0
+1044,399,Consultation Fee,1,3713,0
+1045,446,Consultation Fee,1,2032,0
+1046,504,Consultation Fee,1,3233,5
+1047,1114,Room Charge,1,4535,0
+1048,567,Medicine,1,3800,0
+1049,87,Medicine,2,211,10
+1050,239,Lab Test,1,4145,15
+1051,1105,Consultation Fee,1,3241,10
+1052,1044,Medicine,1,3248,20
+1053,1048,Lab Test,1,4378,0
+1054,886,Room Charge,1,6602,0
+1055,480,Procedure,1,11828,0
+1056,855,Room Charge,1,4354,5
+1057,816,Consultation Fee,1,3835,10
+1058,919,Procedure,1,10024,0
+1059,580,Room Charge,1,3887,0
+1060,885,Room Charge,1,6199,0
+1061,576,Consultation Fee,1,2512,0
+1062,984,Consultation Fee,1,2176,5
+1063,240,Consultation Fee,1,1628,0
+1064,331,Consultation Fee,1,3279,5
+1065,261,Consultation Fee,1,2173,0
+1066,1020,Consultation Fee,1,2234,5
+1067,325,Consultation Fee,1,1996,10
+1068,53,Room Charge,1,5121,10
+1069,161,Consultation Fee,1,1872,10
+1070,1055,Room Charge,1,6712,0
+1071,562,Procedure,1,11165,0
+1072,1052,Lab Test,1,4389,0
+1073,225,Procedure,1,6588,10
+1074,661,Procedure,1,8566,15
+1075,690,Consultation Fee,1,2636,5
+1076,561,Consultation Fee,1,1776,5
+1077,207,Procedure,1,5873,0
+1078,123,Lab Test,1,1777,0
+1079,957,Medicine,1,1436,0
+1080,1039,Procedure,1,14734,0
+1081,324,Consultation Fee,1,1847,15
+1082,311,Procedure,1,7645,10
+1083,411,Procedure,1,4089,0
+1084,703,Medicine,1,3903,10
+1085,1149,Consultation Fee,1,2485,5
+1086,1155,Consultation Fee,1,2271,0
+1087,194,Room Charge,1,7232,10
+1088,294,Consultation Fee,1,2956,0
+1089,1133,Lab Test,1,4429,0
+1090,1148,Lab Test,1,3943,0
+1091,358,Room Charge,1,5028,20
+1092,6,Room Charge,1,5301,0
+1093,440,Room Charge,1,4974,5
+1094,900,Medicine,1,4838,0
+1095,206,Room Charge,1,2776,0
+1096,553,Room Charge,1,5353,20
+1097,444,Lab Test,1,2939,0
+1098,392,Room Charge,1,6397,0
+1099,757,Consultation Fee,1,3333,0
+1100,208,Lab Test,1,3768,5
+1101,1166,Consultation Fee,1,2020,5
+1102,683,Lab Test,1,1052,15
+1103,571,Lab Test,2,1267,5
+1104,218,Medicine,2,3020,15
+1105,1057,Lab Test,1,2965,10
+1106,691,Medicine,1,5065,0
+1107,459,Consultation Fee,1,3219,10
+1108,119,Procedure,1,6789,15
+1109,612,Procedure,1,3441,0
+1110,346,Consultation Fee,1,2987,0
+1111,1188,Lab Test,1,2800,15
+1112,854,Lab Test,1,3506,0
+1113,665,Lab Test,1,4930,5
+1114,771,Consultation Fee,1,1942,0
+1115,1047,Consultation Fee,1,3762,5
+1116,138,Procedure,1,9412,0
+1117,1161,Medicine,1,2362,0
+1118,279,Consultation Fee,1,1891,10
+1119,135,Consultation Fee,1,3904,0
+1120,661,Consultation Fee,1,2212,0
+1121,1118,Medicine,1,5000,0
+1122,336,Lab Test,2,4402,20
+1123,899,Lab Test,2,3546,10
+1124,1149,Room Charge,1,6212,5
+1125,592,Medicine,1,5088,0
+1126,495,Procedure,1,14588,0
+1127,1193,Lab Test,2,2576,15
+1128,489,Consultation Fee,1,1612,0
+1129,751,Room Charge,1,3010,0
+1130,825,Medicine,1,5416,20
+1131,607,Procedure,1,12805,0
+1132,617,Consultation Fee,1,3944,10
+1133,1071,Procedure,1,13530,10
+1134,173,Procedure,1,4068,0
+1135,791,Procedure,1,7899,15
+1136,211,Consultation Fee,1,2946,0
+1137,519,Room Charge,1,5225,0
+1138,1101,Medicine,1,2659,5
+1139,695,Room Charge,1,4016,10
+1140,694,Procedure,1,12228,5
+1141,781,Room Charge,1,4864,10
+1142,298,Procedure,1,5774,0
+1143,235,Medicine,2,476,0
+1144,773,Medicine,1,2700,0
+1145,752,Lab Test,1,1719,0
+1146,857,Consultation Fee,1,3665,0
+1147,606,Room Charge,1,2856,5
+1148,314,Procedure,1,6113,0
+1149,65,Consultation Fee,1,3892,0
+1150,61,Lab Test,1,1578,0
+1151,518,Medicine,1,4105,0
+1152,772,Room Charge,1,5834,5
+1153,304,Room Charge,1,4360,20
+1154,40,Room Charge,1,5183,20
+1155,869,Lab Test,1,3728,0
+1156,311,Room Charge,1,6935,0
+1157,1161,Procedure,1,10717,0
+1158,584,Lab Test,1,2514,10
+1159,344,Lab Test,2,2696,0
+1160,397,Medicine,1,3801,0
+1161,440,Procedure,1,12329,0
+1162,946,Medicine,1,2141,0
+1163,54,Consultation Fee,1,3760,5
+1164,442,Lab Test,1,2152,15
+1165,238,Room Charge,1,4337,0
+1166,582,Lab Test,1,1941,10
+1167,453,Consultation Fee,1,3572,0
+1168,14,Consultation Fee,1,3667,15
+1169,67,Lab Test,1,2995,0
+1170,892,Lab Test,1,4077,0
+1171,191,Consultation Fee,1,2611,5
+1172,1165,Lab Test,1,3753,15
+1173,477,Consultation Fee,1,3789,0
+1174,1117,Procedure,1,11930,5
+1175,1187,Lab Test,1,4799,0
+1176,1192,Procedure,1,12692,0
+1177,509,Consultation Fee,1,2124,0
+1178,146,Lab Test,1,4188,10
+1179,606,Consultation Fee,1,1989,0
+1180,948,Procedure,1,14230,0
+1181,889,Procedure,1,12753,10
+1182,608,Room Charge,1,4238,0
+1183,818,Consultation Fee,1,2975,0
+1184,255,Procedure,1,12457,5
+1185,801,Procedure,1,4111,15
+1186,253,Medicine,1,3732,10
+1187,27,Procedure,1,13752,5
+1188,1057,Medicine,1,1287,10
+1189,691,Lab Test,1,3647,0
+1190,141,Procedure,1,4346,0
+1191,1083,Procedure,1,9523,0
+1192,950,Procedure,1,7415,0
+1193,270,Lab Test,1,4169,0
+1194,673,Consultation Fee,1,2242,15
+1195,173,Medicine,1,794,0
+1196,686,Procedure,1,5412,15
+1197,490,Medicine,1,3500,0
+1198,563,Room Charge,1,7738,0
+1199,567,Procedure,1,7122,0
+1200,102,Medicine,1,2142,20
+1201,882,Procedure,1,7542,10
+1202,427,Medicine,1,5425,0
+1203,778,Consultation Fee,1,3316,5
+1204,1172,Lab Test,1,4749,0
+1205,1139,Lab Test,1,4566,0
+1206,693,Lab Test,1,1139,5
+1207,500,Consultation Fee,1,3186,0
+1208,707,Consultation Fee,1,3025,15
+1209,679,Lab Test,1,4470,0
+1210,631,Consultation Fee,1,2995,5
+1211,1134,Procedure,1,13807,15
+1212,391,Consultation Fee,1,3440,10
+1213,1090,Medicine,1,520,0
+1214,36,Consultation Fee,1,2915,0
+1215,1077,Consultation Fee,1,2758,0
+1216,982,Consultation Fee,1,3942,5
+1217,380,Consultation Fee,1,2993,20
+1218,42,Lab Test,1,1799,5
+1219,583,Medicine,1,4394,0
+1220,217,Consultation Fee,1,2065,5
+1221,240,Room Charge,1,6618,15
+1222,1176,Medicine,1,5809,10
+1223,241,Room Charge,1,6363,0
+1224,953,Medicine,1,4621,10
+1225,121,Lab Test,1,1605,5
+1226,226,Procedure,1,5199,10
+1227,491,Consultation Fee,1,2746,0
+1228,365,Room Charge,1,3408,0
+1229,1023,Consultation Fee,1,3828,0
+1230,199,Room Charge,1,4385,10
+1231,722,Room Charge,1,2072,10
+1232,49,Lab Test,1,4279,0
+1233,229,Procedure,1,10618,0
+1234,593,Medicine,2,5882,5
+1235,892,Medicine,1,3519,5
+1236,377,Room Charge,1,2427,10
+1237,1033,Consultation Fee,1,1549,0
+1238,43,Lab Test,1,1180,0
+1239,807,Consultation Fee,1,2137,5
+1240,251,Procedure,1,6945,10
+1241,310,Consultation Fee,1,2891,0
+1242,1103,Procedure,1,3024,0
+1243,321,Room Charge,1,7837,0
+1244,748,Procedure,1,10451,0
+1245,447,Lab Test,1,1080,15
+1246,1012,Room Charge,1,4841,5
+1247,414,Medicine,1,5191,0
+1248,719,Medicine,1,4218,10
+1249,62,Medicine,2,4519,5
+1250,1154,Consultation Fee,1,3730,0
+1251,591,Room Charge,1,4907,15
+1252,596,Procedure,1,10186,0
+1253,933,Procedure,1,11520,0
+1254,523,Consultation Fee,1,3561,0
+1255,1031,Lab Test,1,3270,20
+1256,555,Lab Test,1,1321,0
+1257,1030,Medicine,1,633,15
+1258,675,Procedure,1,3797,15
+1259,679,Procedure,1,15000,10
+1260,88,Consultation Fee,1,1840,0
+1261,1102,Medicine,1,4034,10
+1262,532,Consultation Fee,1,3327,0
+1263,621,Consultation Fee,1,2098,0
+1264,354,Lab Test,1,2244,5
+1265,218,Procedure,1,3406,15
+1266,164,Procedure,1,12162,0
+1267,339,Lab Test,2,950,10
+1268,957,Medicine,0,1436,0
+1269,716,Consultation Fee,1,2575,0
+1270,118,Medicine,1,2907,0
+1271,414,Lab Test,1,4432,0
+1272,878,Consultation Fee,1,3281,0
+1273,274,Consultation Fee,1,3629,0
+1274,666,Room Charge,1,3821,10
+1275,1193,Consultation Fee,1,2081,20
+1276,440,Medicine,2,733,0
+1277,436,Consultation Fee,1,2977,5
+1278,1198,Medicine,1,4568,20
+1279,534,Procedure,1,4339,0
+1280,1186,Consultation Fee,1,2324,0
+1281,184,Medicine,1,2913,0
+1282,645,Room Charge,1,4199,0
+1283,213,Lab Test,2,4686,0
+1284,374,Consultation Fee,1,3390,0
+1285,504,Medicine,1,2154,10
+1286,822,Consultation Fee,1,3642,0
+1287,511,Room Charge,1,5283,5
+1288,897,Procedure,1,8589,15
+1289,27,Medicine,2,4863,0
+1290,791,Lab Test,2,4665,10
+1291,983,Procedure,1,13384,10
+1292,1194,Procedure,1,11052,0
+1293,808,Medicine,1,5140,0
+1294,1116,Procedure,1,4547,0
+1295,1066,Lab Test,1,3578,10
+1296,851,Lab Test,2,2385,0
+1297,1039,Room Charge,1,7938,0
+1298,1142,Procedure,1,4574,15
+1299,330,Room Charge,1,7057,15
+1300,998,Medicine,1,945,0
+1301,1036,Procedure,1,6460,0
+1302,980,Procedure,1,14013,5
+1303,921,Room Charge,1,4692,15
+1304,42,Procedure,1,5878,0
+1305,368,Lab Test,2,1200,5
+1306,810,Procedure,1,5958,0
+1307,131,Consultation Fee,1,1539,15
+1308,304,Procedure,1,4754,5
+1309,768,Lab Test,1,1928,5
+1310,1040,Consultation Fee,1,3132,0
+1311,728,Room Charge,1,6025,0
+1312,571,Consultation Fee,1,3795,0
+1313,1035,Consultation Fee,1,2431,0
+1314,71,Lab Test,1,3793,20
+1315,4,Consultation Fee,1,2058,0
+1316,614,Room Charge,1,3770,5
+1317,1130,Room Charge,1,4687,0
+1318,400,Medicine,1,4800,10
+1319,2,Medicine,1,1071,0
+1320,78,Consultation Fee,1,3343,0
+1321,1117,Room Charge,1,5818,0
+1322,313,Medicine,1,776,0
+1323,1031,Room Charge,1,5027,5
+1324,386,Lab Test,1,1923,5
+1325,1010,Consultation Fee,1,1699,10
+1326,278,Medicine,1,3874,0
+1327,700,Room Charge,1,6321,5
+1328,618,Procedure,1,10587,0
+1329,1099,Consultation Fee,1,3410,0
+1330,375,Procedure,1,8373,0
+1331,1140,Lab Test,2,3383,15
+1332,219,Room Charge,1,5891,15
+1333,67,Medicine,1,5895,10
+1334,417,Lab Test,1,3465,0
+1335,497,Consultation Fee,1,3290,5
+1336,894,Consultation Fee,1,3427,5
+1337,208,Procedure,1,8453,0
+1338,889,Room Charge,-1,2410,0
+1339,1014,Lab Test,2,1776,0
+1340,794,Consultation Fee,1,1684,0
+1341,988,Consultation Fee,1,3375,0
+1342,392,Medicine,2,2631,10
+1343,370,Procedure,1,10492,0
+1344,787,Procedure,1,9582,5
+1345,208,Room Charge,1,2420,0
+1346,658,Lab Test,1,1370,10
+1347,255,Medicine,1,1290,0
+1348,1008,Lab Test,1,3262,15
+1349,505,Procedure,1,4099,0
+1350,722,Medicine,2,5598,10
+1351,880,Lab Test,1,3045,10
+1352,708,Lab Test,2,4710,15
+1353,1187,Procedure,1,4331,5
+1354,33,Medicine,2,3989,15
+1355,1013,Consultation Fee,1,3919,0
+1356,874,Lab Test,2,2516,0
+1357,148,Lab Test,1,2111,0
+1358,1090,Procedure,1,14209,5
+1359,1013,Medicine,2,2820,0
+1360,585,Room Charge,1,6603,5
+1361,1070,Consultation Fee,1,1719,10
+1362,407,Procedure,1,12564,0
+1363,406,Procedure,1,6992,5
+1364,1198,Lab Test,1,4287,0
+1365,739,Lab Test,1,2280,0
+1366,762,Medicine,1,4133,20
+1367,278,Procedure,1,14352,10
+1368,600,Room Charge,1,4206,0
+1369,700,Lab Test,2,1981,0
+1370,88,Lab Test,1,3054,5
+1371,362,Room Charge,1,5220,10
+1372,175,Room Charge,1,4486,10
+1373,490,Lab Test,1,1902,10
+1374,561,Room Charge,1,2792,0
+1375,30,Procedure,1,5971,10
+1376,1087,Consultation Fee,1,2742,0
+1377,389,Room Charge,1,3461,0
+1378,1065,Medicine,1,3860,15
+1379,599,Consultation Fee,1,3068,0
+1380,949,Room Charge,1,4168,5
+1381,214,Consultation Fee,1,3734,5
+1382,129,Consultation Fee,1,2545,0
+1383,904,Procedure,1,8176,0
+1384,1085,Room Charge,1,4791,0
+1385,517,Room Charge,1,5927,0
+1386,1150,Consultation Fee,1,2322,0
+1387,464,Procedure,1,3484,0
+1388,1046,Medicine,1,5927,0
+1389,1200,Lab Test,1,3011,0
+1390,664,Consultation Fee,1,2579,0
+1391,1055,Procedure,1,9648,0
+1392,799,Room Charge,1,6206,0
+1393,169,Room Charge,1,5254,15
+1394,5,Consultation Fee,1,2845,10
+1395,977,Medicine,1,5894,10
+1396,66,Lab Test,1,3080,0
+1397,75,Procedure,1,9617,5
+1398,473,Lab Test,2,4117,0
+1399,558,Lab Test,2,2648,0
+1400,507,Consultation Fee,1,2056,0
+1401,348,Medicine,2,3028,10
+1402,1085,Medicine,1,1454,0
+1403,717,Room Charge,1,4978,5
+1404,953,Procedure,1,3608,0
+1405,478,Lab Test,1,1991,0
+1406,305,Medicine,2,3078,5
+1407,905,Procedure,1,8925,10
+1408,95,Procedure,1,11486,5
+1409,977,Consultation Fee,1,2170,10
+1410,909,Procedure,1,7722,15
+1411,960,Consultation Fee,1,3116,10
+1412,1028,Consultation Fee,1,3322,10
+1413,574,Lab Test,1,1656,0
+1414,701,Medicine,1,1559,0
+1415,820,Lab Test,1,1953,0
+1416,210,Procedure,1,9856,15
+1417,415,Consultation Fee,1,2384,0
+1418,1114,Lab Test,2,4500,15
+1419,772,Procedure,1,11359,15
+1420,1007,Consultation Fee,1,1704,0
+1421,108,Room Charge,1,3029,0
+1422,1116,Room Charge,1,2471,5
+1423,601,Consultation Fee,1,3552,0
+1424,667,Consultation Fee,1,3161,15
+1425,925,Procedure,1,6075,0
+1426,708,Procedure,1,5954,0
+1427,117,Procedure,1,10752,0
+1428,39,Procedure,1,4772,10
+1429,965,Room Charge,1,4836,0
+1430,216,Lab Test,2,2231,5
+1431,253,Consultation Fee,1,3233,0
+1432,97,Medicine,1,4777,0
+1433,691,Consultation Fee,1,3975,15
+1434,1059,Lab Test,1,4933,0
+1435,223,Consultation Fee,1,2858,5
+1436,1080,Lab Test,2,1435,0
+1437,1054,Consultation Fee,1,3762,0
+1438,159,Lab Test,1,2656,20
+1439,127,Medicine,1,414,0
+1440,1046,Consultation Fee,1,1820,0
+1441,271,Room Charge,1,4689,0
+1442,333,Room Charge,1,4387,0
+1443,172,Consultation Fee,1,2171,0
+1444,870,Medicine,1,1970,0
+1445,789,Lab Test,1,1999,0
+1446,682,Medicine,2,1717,0
+1447,273,Consultation Fee,1,3883,0
+1448,918,Procedure,1,8805,5
+1449,274,Lab Test,1,3441,0
+1450,1031,Medicine,1,2545,0
+1451,970,Procedure,1,13008,0
+1452,693,Procedure,1,11797,0
+1453,281,Medicine,1,5509,5
+1454,164,Consultation Fee,1,1543,15
+1455,301,Lab Test,2,3066,0
+1456,1056,Procedure,1,8229,5
+1457,801,Medicine,2,2586,0
+1458,1120,Consultation Fee,1,2246,0
+1459,145,Medicine,2,2890,10
+1460,229,Medicine,1,1943,0
+1461,814,Medicine,2,3888,0
+1462,505,Medicine,1,2066,15
+1463,253,Procedure,1,14377,5
+1464,586,Room Charge,1,7594,0
+1465,292,Lab Test,1,2116,0
+1466,397,Procedure,1,12107,15
+1467,820,Room Charge,1,3529,0
+1468,1158,Procedure,1,7242,0
+1469,860,Procedure,1,3320,15
+1470,568,Room Charge,1,7872,10
+1471,1056,Room Charge,1,4967,0
+1472,629,Procedure,1,7314,0
+1473,287,Medicine,1,2715,0
+1474,1041,Consultation Fee,1,3128,0
+1475,628,Procedure,1,12123,0
+1476,28,Room Charge,1,3544,15
+1477,138,Consultation Fee,1,1634,0
+1478,578,Medicine,1,3841,10
+1479,411,Room Charge,1,4280,5
+1480,163,Medicine,1,5661,10
+1481,125,Consultation Fee,1,1878,0
+1482,528,Consultation Fee,1,3567,5
+1483,220,Consultation Fee,1,1903,0
+1484,404,Consultation Fee,1,3620,0
+1485,48,Consultation Fee,1,3032,0
+1486,333,Procedure,1,7450,10
+1487,897,Lab Test,1,3793,15
+1488,575,Procedure,1,5674,0
+1489,284,Medicine,1,1608,0
+1490,626,Medicine,2,5864,10
+1491,212,Lab Test,2,4463,5
+1492,1016,Lab Test,1,4473,15
+1493,1152,Consultation Fee,1,2778,15
+1494,220,Procedure,1,10162,20
+1495,938,Lab Test,1,1979,0
+1496,309,Room Charge,1,6632,0
+1497,452,Consultation Fee,1,2298,0
+1498,792,Room Charge,1,5685,5
+1499,262,Room Charge,1,5588,0
+1500,1124,Medicine,2,4147,0
+1501,602,Room Charge,1,5225,0
+1502,1102,Lab Test,1,4067,15
+1503,707,Lab Test,1,2432,0
+1504,258,Procedure,1,12061,0
+1505,834,Lab Test,1,3479,0
+1506,983,Room Charge,1,2511,0
+1507,299,Consultation Fee,1,2991,0
+1508,502,Procedure,1,12571,10
+1509,779,Room Charge,1,6600,0
+1510,46,Procedure,1,5978,0
+1511,964,Consultation Fee,1,3264,5
+1512,189,Consultation Fee,1,3463,0
+1513,1033,Lab Test,1,1958,0
+1514,843,Room Charge,1,5688,0
+1515,405,Consultation Fee,1,2865,5
+1516,1115,Lab Test,2,2897,0
+1517,1103,Consultation Fee,1,2172,10
+1518,984,Procedure,1,10396,0
+1519,959,Lab Test,1,2149,0
+1520,999,Consultation Fee,1,2316,0
+1521,45,Lab Test,1,1634,5
+1522,1164,Procedure,1,5509,0
+1523,664,Procedure,1,7929,10
+1524,773,Lab Test,1,4067,0
+1525,214,Room Charge,1,6705,0
+1526,106,Lab Test,1,4942,10
+1527,171,Consultation Fee,1,1823,10
+1528,144,Room Charge,1,4209,10
+1529,1159,Procedure,1,11958,0
+1530,460,Room Charge,1,6370,0
+1531,457,Consultation Fee,1,3414,15
+1532,597,Consultation Fee,1,2194,0
+1533,729,Consultation Fee,1,2640,0
+1534,980,Consultation Fee,1,3307,0
+1535,330,Procedure,1,7709,5
+1536,1199,Lab Test,1,1871,20
+1537,179,Procedure,1,8103,0
+1538,957,Procedure,1,9976,10
+1539,159,Room Charge,1,4893,0
+1540,939,Lab Test,1,4093,0
+1541,7,Consultation Fee,1,2888,10
+1542,56,Room Charge,1,2651,0
+1543,175,Medicine,1,1085,10
+1544,406,Medicine,1,5243,0
+1545,1055,Lab Test,1,4472,0
+1546,917,Procedure,1,8254,5
+1547,273,Medicine,1,4788,5
+1548,1115,Medicine,1,5086,0
+1549,773,Consultation Fee,1,2747,0
+1550,699,Room Charge,1,5012,0
+1551,335,Lab Test,1,2096,5
+1552,619,Lab Test,1,4140,0
+1553,972,Lab Test,1,4048,0
+1554,357,Medicine,1,4958,10
+1555,39,Consultation Fee,1,3155,0
+1556,164,Room Charge,1,4021,0
+1557,583,Procedure,1,12018,0
+1558,318,Consultation Fee,1,2147,0
+1559,990,Medicine,1,3713,0
+1560,626,Room Charge,1,3098,5
+1561,85,Lab Test,2,4212,0
+1562,1023,Medicine,0,2089,0
+1563,334,Procedure,1,12749,0
+1564,770,Procedure,1,11282,15
+1565,646,Medicine,2,3898,20
+1566,874,Procedure,1,3688,20
+1567,618,Lab Test,1,2174,0
+1568,69,Lab Test,1,999,0
+1569,33,Consultation Fee,1,1635,0
+1570,798,Consultation Fee,1,3197,15
+1571,745,Medicine,2,4078,0
+1572,267,Procedure,1,7487,0
+1573,228,Medicine,2,5415,0
+1574,325,Room Charge,1,4108,5
+1575,392,Procedure,1,13762,15
+1576,93,Consultation Fee,1,3085,0
+1577,1011,Room Charge,1,7522,0
+1578,1102,Procedure,1,13002,10
+1579,331,Medicine,1,5769,15
+1580,172,Room Charge,1,2327,0
+1581,952,Lab Test,2,4924,5
+1582,1109,Lab Test,1,1650,0
+1583,111,Lab Test,1,4976,5
+1584,435,Lab Test,1,4058,10
+1585,1110,Consultation Fee,1,1528,10
+1586,639,Procedure,1,6372,10
+1587,594,Lab Test,1,1788,5
+1588,579,Lab Test,2,971,20
+1589,715,Medicine,1,1702,10
+1590,725,Lab Test,1,4446,0
+1591,369,Lab Test,1,3837,0
+1592,1047,Medicine,2,5683,15
+1593,617,Procedure,1,4303,0
+1594,755,Medicine,1,383,0
+1595,1017,Consultation Fee,1,3952,0
+1596,1061,Room Charge,1,7600,0
+1597,335,Medicine,1,5084,5
+1598,356,Consultation Fee,1,3674,0
+1599,1196,Consultation Fee,1,3121,5
+1600,862,Consultation Fee,1,2211,0
+1601,517,Consultation Fee,1,3091,10
+1602,1150,Procedure,1,3056,0
+1603,1033,Procedure,1,12417,0
+1604,550,Lab Test,1,3561,0
+1605,140,Medicine,1,2786,0
+1606,603,Room Charge,1,6761,0
+1607,1093,Medicine,1,2121,20
+1608,904,Consultation Fee,1,3800,0
+1609,1189,Consultation Fee,1,3415,15
+1610,94,Procedure,1,10198,15
+1611,107,Consultation Fee,1,2642,15
+1612,700,Procedure,1,7971,20
+1613,1139,Consultation Fee,1,2247,0
+1614,948,Consultation Fee,1,1779,0
+1615,918,Room Charge,1,5671,15
+1616,619,Consultation Fee,1,1536,15
+1617,1085,Lab Test,1,3782,0
+1618,226,Consultation Fee,1,3967,0
+1619,692,Medicine,1,3616,0
+1620,1151,Room Charge,1,2447,0
+1621,930,Lab Test,1,1179,0
+1622,443,Medicine,1,3439,15
+1623,382,Room Charge,1,5010,0
+1624,1041,Room Charge,1,7733,10
+1625,147,Consultation Fee,1,2248,0
+1626,1047,Lab Test,1,2429,5
+1627,310,Procedure,1,6923,0
+1628,655,Room Charge,1,4990,0
+1629,894,Lab Test,1,1521,0
+1630,547,Lab Test,1,4148,0
+1631,188,Room Charge,1,7170,0
+1632,151,Procedure,1,5204,10
+1633,529,Lab Test,2,2546,15
+1634,686,Room Charge,1,4022,0
+1635,753,Consultation Fee,1,1750,0
+1636,516,Medicine,1,3425,0
+1637,261,Lab Test,1,4747,0
+1638,834,Medicine,1,4887,0
+1639,687,Procedure,1,4152,10
+1640,881,Consultation Fee,1,1714,0
+1641,312,Consultation Fee,1,2337,10
+1642,350,Procedure,1,11581,0
+1643,563,Consultation Fee,1,1503,0
+1644,24,Consultation Fee,1,1807,10
+1645,23,Lab Test,2,4653,15
+1646,1002,Procedure,1,7566,20
+1647,791,Room Charge,1,5398,20
+1648,77,Procedure,1,8378,15
+1649,302,Room Charge,1,2934,0
+1650,1127,Lab Test,2,3089,0
+1651,101,Lab Test,2,4838,0
+1652,904,Room Charge,1,3085,0
+1653,510,Medicine,2,3462,10
+1654,369,Room Charge,1,5505,0
+1655,1191,Medicine,2,408,0
+1656,779,Lab Test,1,3593,15
+1657,278,Consultation Fee,1,1583,0
+1658,1072,Room Charge,1,4692,0
+1659,369,Consultation Fee,1,3797,5
+1660,1057,Room Charge,1,6098,10
+1661,869,Consultation Fee,0,3039,15
+1662,135,Lab Test,2,4088,0
+1663,430,Room Charge,1,6555,5
+1664,145,Procedure,1,11768,0
+1665,1008,Medicine,1,1346,5
+1666,121,Procedure,1,10411,0
+1667,649,Consultation Fee,1,2866,10
+1668,699,Medicine,1,5572,0
+1669,27,Lab Test,1,2754,0
+1670,612,Lab Test,1,1021,10
+1671,756,Consultation Fee,1,3202,0
+1672,503,Lab Test,1,2360,0
+1673,393,Medicine,1,1758,0
+1674,690,Medicine,1,5504,0
+1675,800,Room Charge,1,6793,0
+1676,77,Consultation Fee,1,1831,5
+1677,755,Lab Test,1,1447,10
+1678,118,Consultation Fee,1,3259,0
+1679,177,Consultation Fee,1,2725,10
+1680,798,Lab Test,1,1561,0
+1681,869,Room Charge,1,5174,0
+1682,843,Medicine,2,4590,0
+1683,1065,Lab Test,1,1558,0
+1684,970,Room Charge,1,5329,5
+1685,765,Procedure,1,8445,0
+1686,92,Procedure,1,9712,15
+1687,757,Procedure,1,8147,0
+1688,680,Medicine,1,746,0
+1689,49,Medicine,1,5974,15
+1690,1156,Consultation Fee,1,2356,0
+1691,1148,Consultation Fee,1,2609,0
+1692,210,Consultation Fee,1,2782,0
+1693,698,Room Charge,1,4015,0
+1694,354,Medicine,1,845,5
+1695,120,Medicine,1,3688,15
+1696,1044,Consultation Fee,1,3381,0
+1697,201,Consultation Fee,1,2120,0
+1698,730,Lab Test,2,1311,0
+1699,10,Consultation Fee,1,1924,0
+1700,497,Procedure,1,5667,20
+1701,445,Medicine,1,4981,0
+1702,136,Consultation Fee,1,2247,5
+1703,1105,Lab Test,1,3128,10
+1704,750,Consultation Fee,1,1808,0
+1705,1151,Medicine,2,4658,0
+1706,195,Room Charge,1,3754,0
+1707,709,Medicine,1,3020,0
+1708,671,Lab Test,0,1160,0
+1709,322,Consultation Fee,1,1628,10
+1710,1120,Lab Test,1,987,15
+1711,1082,Lab Test,2,3674,10
+1712,517,Medicine,1,2304,10
+1713,210,Room Charge,1,5013,0
+1714,124,Room Charge,1,3126,0
+1715,865,Procedure,1,7059,10
+1716,940,Procedure,1,9287,0
+1717,1069,Consultation Fee,1,3886,0
+1718,13,Medicine,1,1145,10
+1719,674,Consultation Fee,1,3658,10
+1720,1080,Medicine,1,2971,0
+1721,305,Room Charge,1,3472,15
+1722,768,Consultation Fee,1,3234,10
+1723,71,Consultation Fee,1,3841,5
+1724,467,Lab Test,2,1918,0
+1725,579,Consultation Fee,1,2288,0
+1726,737,Lab Test,1,3708,10
+1727,9,Procedure,1,12877,5
+1728,842,Consultation Fee,1,3119,5
+1729,665,Medicine,1,453,5
+1730,770,Consultation Fee,1,3917,0
+1731,647,Consultation Fee,1,2429,0
+1732,543,Procedure,1,3995,0
+1733,889,Room Charge,1,2410,0
+1734,489,Procedure,1,14194,0
+1735,891,Room Charge,1,5692,15
+1736,450,Procedure,1,4474,0
+1737,255,Consultation Fee,1,3426,20
+1738,710,Room Charge,1,4715,10
+1739,598,Lab Test,1,3749,10
+1740,939,Procedure,1,14089,0
+1741,898,Lab Test,1,1085,10
+1742,379,Room Charge,1,7349,10
+1743,958,Procedure,1,8058,0
+1744,59,Consultation Fee,1,3825,0
+1745,141,Room Charge,1,6267,0
+1746,655,Consultation Fee,1,1653,10
+1747,338,Procedure,1,6103,0
+1748,1019,Consultation Fee,1,1990,10
+1749,1199,Procedure,1,8183,0
+1750,235,Room Charge,1,6088,0
+1751,767,Consultation Fee,1,3093,0
+1752,1100,Room Charge,1,4014,20
+1753,151,Lab Test,2,2838,0
+1754,623,Medicine,1,2577,20
+1755,10,Lab Test,1,4736,0
+1756,1176,Room Charge,1,7408,15
+1757,610,Room Charge,1,7919,0
+1758,250,Lab Test,2,1860,5
+1759,601,Medicine,2,1327,0
+1760,302,Lab Test,1,4730,5
+1761,735,Lab Test,2,1516,0
+1762,954,Lab Test,1,1775,0
+1763,399,Medicine,2,2832,5
+1764,527,Room Charge,1,5391,5
+1765,574,Room Charge,1,3830,0
+1766,804,Lab Test,1,4196,0
+1767,1075,Room Charge,1,3257,10
+1768,233,Procedure,1,9835,0
+1769,634,Medicine,1,2134,0
+1770,1168,Lab Test,1,1526,5
+1771,670,Lab Test,1,1329,15
+1772,56,Lab Test,1,1720,0
+1773,90,Room Charge,1,2770,0
+1774,243,Consultation Fee,1,2717,0
+1775,633,Consultation Fee,1,2952,10
+1776,610,Procedure,1,5197,20
+1777,611,Procedure,1,8550,0
+1778,726,Medicine,2,695,20
+1779,1181,Lab Test,2,4055,0
+1780,111,Medicine,1,2999,0
+1781,784,Consultation Fee,1,3284,0
+1782,668,Lab Test,1,2477,20
+1783,814,Room Charge,1,4666,15
+1784,221,Lab Test,1,3970,20
+1785,487,Room Charge,1,2846,0
+1786,1012,Lab Test,1,4762,5
+1787,687,Lab Test,1,3012,0
+1788,1153,Lab Test,2,3166,5
+1789,339,Consultation Fee,1,2193,5
+1790,1130,Consultation Fee,1,2790,0
+1791,1120,Room Charge,1,2811,0
+1792,183,Consultation Fee,1,3122,0
+1793,1127,Consultation Fee,1,2053,5
+1794,130,Procedure,1,11408,0
+1795,156,Medicine,1,3304,0
+1796,222,Medicine,1,3756,0
+1797,876,Procedure,1,13065,0
+1798,967,Consultation Fee,1,2088,15
+1799,1106,Room Charge,1,4699,0
+1800,126,Room Charge,1,7510,20
+1801,174,Medicine,1,5641,0
+1802,89,Lab Test,1,1475,10
+1803,674,Room Charge,1,6738,0
+1804,721,Room Charge,1,3454,20
+1805,985,Lab Test,2,1791,15
+1806,590,Procedure,1,14076,0
+1807,720,Lab Test,1,820,0
+1808,866,Medicine,1,3173,10
+1809,1076,Procedure,1,11136,15
+1810,10,Room Charge,1,2737,20
+1811,138,Room Charge,1,5527,0
+1812,123,Room Charge,1,4261,5
+1813,573,Procedure,1,9239,0
+1814,44,Lab Test,1,1639,0
+1815,369,Procedure,1,8317,0
+1816,769,Lab Test,2,3624,0
+1817,602,Consultation Fee,1,3159,5
+1818,439,Medicine,1,4373,10
+1819,83,Consultation Fee,1,2350,0
+1820,402,Room Charge,1,6104,10
+1821,177,Procedure,1,10117,0
+1822,598,Lab Test,-1,3749,10
+1823,839,Procedure,1,6172,0
+1824,27,Consultation Fee,1,2998,0
+1825,188,Medicine,2,3606,0
+1826,1151,Procedure,1,11279,10
+1827,573,Medicine,1,430,0
+1828,432,Room Charge,1,7303,20
+1829,865,Room Charge,1,7187,0
+1830,1020,Procedure,1,4573,0
+1831,440,Consultation Fee,1,1515,0
+1832,762,Lab Test,1,3882,10
+1833,527,Consultation Fee,1,1637,10
+1834,949,Procedure,1,13142,10
+1835,143,Procedure,1,8838,0
+1836,860,Consultation Fee,1,2488,5
+1837,368,Room Charge,1,2582,0
+1838,966,Room Charge,1,2641,0
+1839,1177,Room Charge,1,2397,0
+1840,507,Medicine,2,1947,20
+1841,419,Medicine,1,2521,20
+1842,157,Procedure,1,12176,10
+1843,266,Medicine,2,2056,0
+1844,382,Procedure,1,5422,5
+1845,525,Medicine,1,2596,10
+1846,909,Consultation Fee,1,1804,15
+1847,881,Medicine,1,1718,0
+1848,1008,Consultation Fee,1,3990,10
+1849,739,Consultation Fee,1,2256,0
+1850,412,Room Charge,1,5150,15
+1851,796,Consultation Fee,1,2891,10
+1852,509,Medicine,1,2954,15
+1853,106,Consultation Fee,1,2524,10
+1854,772,Consultation Fee,1,1913,0
+1855,628,Room Charge,1,2638,0
+1856,650,Consultation Fee,1,2087,0
+1857,135,Medicine,2,5521,5
+1858,949,Consultation Fee,1,1665,0
+1859,122,Consultation Fee,1,2819,0
+1860,237,Consultation Fee,1,1668,5
+1861,518,Room Charge,1,6186,0
+1862,136,Procedure,1,10904,0
+1863,520,Consultation Fee,1,2642,0
+1864,692,Consultation Fee,1,2407,0
+1865,677,Lab Test,1,2465,0
+1866,216,Procedure,-1,7994,10
+1867,533,Consultation Fee,1,2560,0
+1868,412,Medicine,2,1594,10
+1869,221,Room Charge,1,7027,0
+1870,1141,Lab Test,1,3827,5
+1871,216,Consultation Fee,1,2330,0
+1872,383,Medicine,1,762,10
+1873,57,Consultation Fee,1,2081,10
+1874,532,Room Charge,1,7309,15
+1875,983,Lab Test,1,3886,5
+1876,274,Room Charge,1,7149,10
+1877,312,Room Charge,1,4431,0
+1878,180,Procedure,1,5752,0
+1879,259,Procedure,1,13209,15
+1880,143,Room Charge,1,4478,0
+1881,544,Procedure,1,3543,0
+1882,734,Lab Test,1,2451,10
+1883,417,Procedure,1,7504,5
+1884,329,Medicine,1,1297,10
+1885,334,Lab Test,2,1664,0
+1886,807,Room Charge,1,6217,0
+1887,206,Consultation Fee,1,3539,0
+1888,873,Room Charge,1,6787,5
+1889,232,Consultation Fee,1,2708,0
+1890,889,Consultation Fee,1,2793,0
+1891,736,Consultation Fee,1,3786,0
+1892,421,Consultation Fee,1,1798,0
+1893,358,Procedure,1,9746,0
+1894,1036,Room Charge,1,2693,5
+1895,61,Consultation Fee,1,3254,10
+1896,725,Medicine,1,3530,0
+1897,774,Consultation Fee,1,1916,15
+1898,728,Procedure,1,13891,0
+1899,930,Room Charge,1,7450,5
+1900,91,Procedure,1,7419,15
+1901,996,Medicine,2,1876,0
+1902,495,Room Charge,1,6213,10
+1903,44,Medicine,2,2119,0
+1904,120,Lab Test,1,3331,5
+1905,965,Medicine,1,4010,10
+1906,882,Lab Test,2,4450,0
+1907,272,Consultation Fee,1,2795,0
+1908,319,Consultation Fee,1,2976,0
+1909,875,Room Charge,1,3237,0
+1910,347,Medicine,1,4701,5
+1911,783,Medicine,1,5170,0
+1912,1105,Room Charge,1,6651,5
+1913,547,Procedure,1,7545,15
+1914,675,Medicine,1,1004,0
+1915,903,Consultation Fee,1,3757,15
+1916,935,Lab Test,2,4936,0
+1917,1158,Lab Test,1,3336,5
+1918,793,Procedure,1,7512,5
+1919,595,Medicine,1,4200,20
+1920,583,Room Charge,1,3850,0
+1921,752,Room Charge,1,3511,5
+1922,430,Medicine,1,1143,0
+1923,569,Room Charge,1,2720,0
+1924,318,Lab Test,1,4916,0
+1925,766,Room Charge,1,4627,10
+1926,206,Medicine,1,1033,5
+1927,341,Consultation Fee,1,3782,20
+1928,204,Consultation Fee,1,2992,5
+1929,28,Consultation Fee,1,3481,0
+1930,234,Consultation Fee,1,2570,0
+1931,597,Medicine,1,3607,0
+1932,218,Room Charge,1,2774,0
+1933,1125,Medicine,1,1039,10
+1934,610,Lab Test,1,2006,0
+1935,981,Room Charge,1,5674,10
+1936,1114,Consultation Fee,1,2244,0
+1937,303,Consultation Fee,1,3302,20
+1938,544,Room Charge,1,6049,0
+1939,593,Consultation Fee,1,1671,0
+1940,870,Lab Test,1,3993,0
+1941,512,Procedure,1,13221,10
+1942,1012,Consultation Fee,1,2753,5
+1943,221,Medicine,1,3664,0
+1944,315,Procedure,1,7872,5
+1945,821,Medicine,1,3514,10
+1946,451,Medicine,1,3531,5
+1947,577,Consultation Fee,1,2885,0
+1948,510,Room Charge,1,5755,5
+1949,764,Procedure,1,9313,20
+1950,821,Room Charge,1,3134,10
+1951,280,Consultation Fee,1,3042,5
+1952,707,Medicine,1,3189,20
+1953,110,Procedure,1,4371,15
+1954,62,Procedure,1,9488,0
+1955,831,Procedure,1,13627,15
+1956,659,Consultation Fee,1,1596,0
+1957,497,Lab Test,2,2380,0
+1958,186,Medicine,2,390,5
+1959,281,Consultation Fee,1,3327,5
+1960,784,Lab Test,1,4707,0
+1961,1009,Consultation Fee,1,2133,5
+1962,290,Consultation Fee,1,1577,0
+1963,301,Procedure,1,11515,0
+1964,493,Procedure,1,3189,0
+1965,41,Consultation Fee,1,2861,5
+1966,982,Lab Test,1,2604,20
+1967,500,Procedure,1,6121,15
+1968,1155,Procedure,1,7403,0
+1969,1075,Medicine,1,1912,0
+1970,812,Medicine,1,1424,0
+1971,394,Procedure,1,12525,0
+1972,802,Room Charge,1,5979,10
+1973,515,Procedure,1,6138,0
+1974,892,Procedure,1,4989,0
+1975,861,Medicine,1,5424,5
+1976,591,Medicine,1,4954,20
+1977,151,Medicine,1,3619,0
+1978,735,Medicine,1,3790,0
+1979,1072,Procedure,1,12760,15
+1980,876,Consultation Fee,1,2590,0
+1981,434,Consultation Fee,1,1609,5
+1982,643,Consultation Fee,1,3372,0
+1983,979,Medicine,1,3215,20
+1984,584,Consultation Fee,1,2310,20
+1985,36,Procedure,1,12271,0
+1986,364,Consultation Fee,1,2842,0
+1987,21,Room Charge,1,5634,0
+1988,565,Lab Test,1,3130,0
+1989,915,Lab Test,1,4677,5
+1990,508,Room Charge,1,4361,0
+1991,101,Procedure,1,3940,15
+1992,785,Procedure,1,9736,0
+1993,1015,Medicine,1,671,0
+1994,1098,Consultation Fee,1,2307,0
+1995,632,Consultation Fee,1,2616,10
+1996,1144,Consultation Fee,1,3108,5
+1997,1083,Medicine,1,1022,20
+1998,1132,Procedure,1,5432,0
+1999,916,Consultation Fee,1,3493,10
+2000,654,Procedure,1,4808,15
+2001,554,Room Charge,1,7163,0
+2002,443,Procedure,1,4528,0
+2003,796,Medicine,1,3633,10
+2004,1108,Procedure,1,5622,0
+2005,386,Medicine,1,5853,15
+2006,830,Room Charge,1,2137,0
+2007,32,Lab Test,1,1522,0
+2008,900,Consultation Fee,1,2911,10
+2009,396,Room Charge,1,6591,0
+2010,706,Room Charge,1,5632,10
+2011,946,Consultation Fee,1,1541,5
+2012,295,Consultation Fee,1,2377,0
+2013,35,Medicine,1,5114,10
+2014,1089,Procedure,1,14852,0
+2015,837,Procedure,1,7129,0
+2016,254,Consultation Fee,1,2244,0
+2017,681,Medicine,1,5152,0
+2018,668,Medicine,1,2196,15
+2019,692,Lab Test,1,4518,15
+2020,586,Consultation Fee,1,3187,0
+2021,842,Lab Test,1,3249,15
+2022,755,Procedure,1,10978,5
+2023,917,Room Charge,1,7789,20
+2024,33,Lab Test,2,2874,0
+2025,39,Room Charge,1,2980,5
+2026,644,Procedure,1,12842,5
+2027,587,Lab Test,1,4013,0
+2028,555,Consultation Fee,1,2166,5
+2029,1181,Room Charge,1,5064,0
+2030,48,Room Charge,1,6775,5
+2031,92,Medicine,1,4130,15
+2032,233,Room Charge,1,5251,0
+2033,662,Consultation Fee,1,2254,0
+2034,1158,Room Charge,1,3839,5
+2035,153,Lab Test,1,4896,0
+2036,148,Medicine,2,4510,0
+2037,1005,Procedure,1,13909,20
+2038,45,Room Charge,1,3274,0
+2039,594,Room Charge,1,2987,0
+2040,969,Lab Test,1,4368,0
+2041,23,Procedure,1,5177,15
+2042,379,Medicine,1,2226,0
+2043,913,Procedure,1,10691,0
+2044,69,Medicine,2,3644,0
+2045,450,Lab Test,2,4650,10
+2046,660,Consultation Fee,1,2251,0
+2047,1094,Medicine,1,1508,5
+2048,621,Procedure,1,12507,0
+2049,1103,Medicine,1,909,5
+2050,897,Consultation Fee,1,1802,0
+2051,907,Procedure,1,13889,10
+2052,345,Room Charge,1,3701,0
+2053,325,Medicine,1,4394,0
+2054,1066,Consultation Fee,1,2346,0
+2055,448,Consultation Fee,1,1946,0
+2056,959,Medicine,2,4090,0
+2057,552,Room Charge,1,5156,0
+2058,35,Lab Test,1,4589,0
+2059,882,Consultation Fee,1,3667,10
+2060,361,Lab Test,1,2700,0
+2061,1158,Medicine,1,4624,0
+2062,1141,Procedure,1,8998,5
+2063,231,Medicine,1,2780,20
+2064,1002,Consultation Fee,1,2699,10
+2065,1028,Procedure,1,10270,0
+2066,800,Lab Test,2,4864,0
+2067,503,Room Charge,1,3156,5
+2068,806,Consultation Fee,1,3436,0
+2069,73,Medicine,1,1236,0
+2070,1030,Consultation Fee,1,2944,0
+2071,247,Consultation Fee,1,2502,5
+2072,785,Room Charge,1,5723,15
+2073,12,Medicine,1,2811,0
+2074,948,Room Charge,1,6593,5
+2075,388,Lab Test,2,2373,0
+2076,487,Consultation Fee,1,2867,0
+2077,117,Room Charge,1,5149,0
+2078,524,Medicine,1,756,5
+2079,932,Room Charge,1,4560,15
+2080,1180,Room Charge,1,3630,10
+2081,614,Lab Test,1,1958,0
+2082,599,Procedure,1,8376,0
+2083,410,Consultation Fee,1,2007,10
+2084,698,Medicine,1,1467,15
+2085,239,Consultation Fee,1,3141,5
+2086,1053,Consultation Fee,1,1776,5
+2087,117,Consultation Fee,1,2533,0
+2088,966,Lab Test,1,3526,0
+2089,361,Procedure,1,6924,0
+2090,619,Procedure,1,5586,15
+2091,1174,Room Charge,1,2601,0
+2092,159,Consultation Fee,1,3675,15
+2093,489,Lab Test,1,2248,10
+2094,352,Procedure,1,5509,0
+2095,585,Medicine,1,3402,0
+2096,562,Medicine,2,2011,0
+2097,658,Room Charge,1,6227,0
+2098,1151,Lab Test,1,3062,0
+2099,1090,Room Charge,1,2167,5
+2100,1108,Room Charge,1,5186,0
+2101,1198,Procedure,1,12531,15
+2102,230,Procedure,1,12983,0
+2103,390,Room Charge,1,5372,15
+2104,319,Lab Test,2,2225,0
+2105,642,Room Charge,1,3414,0
+2106,515,Consultation Fee,1,2800,5
+2107,130,Room Charge,1,6496,5
+2108,1046,Room Charge,1,3485,0
+2109,788,Room Charge,1,2379,0
+2110,813,Procedure,1,5515,5
+2111,880,Procedure,1,10635,0
+2112,581,Room Charge,1,7765,10
+2113,1101,Lab Test,2,2611,0
+2114,5,Room Charge,1,5423,0
+2115,532,Medicine,1,1371,20
+2116,345,Procedure,1,3973,0
+2117,313,Procedure,1,11804,0
+2118,671,Lab Test,1,1160,0
+2119,534,Room Charge,1,2726,0
+2120,551,Procedure,1,5946,10
+2121,92,Lab Test,1,2845,15
+2122,1135,Lab Test,1,1978,10
+2123,460,Medicine,1,574,5
+2124,1159,Lab Test,1,4275,0
+2125,499,Medicine,1,5382,20
+2126,1087,Procedure,1,8173,0
+2127,305,Consultation Fee,1,1654,0
+2128,499,Procedure,1,8016,20
+2129,347,Room Charge,1,7720,0
+2130,803,Room Charge,1,5265,0
+2131,807,Lab Test,2,3685,0
+2132,886,Lab Test,1,1493,0
+2133,503,Procedure,1,11694,15
+2134,202,Consultation Fee,1,1633,0
+2135,325,Procedure,1,9308,0
+2136,474,Consultation Fee,1,2542,0
+2137,80,Consultation Fee,1,3627,0
+2138,545,Lab Test,1,4684,0
+2139,52,Procedure,1,9087,15
+2140,739,Lab Test,-1,2280,0
+2141,437,Medicine,1,3251,0
+2142,56,Consultation Fee,1,2978,10
+2143,455,Medicine,2,2919,0
+2144,880,Room Charge,1,7541,10
+2145,931,Room Charge,1,4155,10
+2146,865,Lab Test,1,3621,0
+2147,168,Medicine,1,4120,0
+2148,505,Room Charge,1,7652,15
+2149,140,Lab Test,1,4488,0
+2150,790,Lab Test,2,2453,20
+2151,121,Medicine,1,813,0
+2152,126,Consultation Fee,1,2028,15
+2153,1101,Consultation Fee,1,2183,0
+2154,187,Consultation Fee,1,1813,5
+2155,653,Medicine,1,1749,0
+2156,821,Procedure,1,13665,0
+2157,203,Consultation Fee,1,1857,0
+2158,790,Procedure,1,14562,15
+2159,313,Lab Test,1,2003,0
+2160,354,Consultation Fee,1,2514,0
+2161,108,Lab Test,2,2939,15
+2162,929,Room Charge,1,7072,5
+2163,984,Lab Test,1,1452,0
+2164,277,Procedure,1,6426,15
+2165,99,Procedure,1,10626,0
+2166,152,Consultation Fee,1,2466,10
+2167,124,Lab Test,1,4033,0
+2168,96,Lab Test,1,4359,0
+2169,705,Medicine,1,3919,0
+2170,490,Consultation Fee,1,3085,0
+2171,475,Lab Test,1,2301,0
+2172,623,Procedure,1,9020,0
+2173,715,Procedure,1,14032,0
+2174,303,Room Charge,1,3780,0
+2175,921,Procedure,1,6120,0
+2176,781,Lab Test,1,1179,5
+2177,106,Medicine,1,4684,0
+2178,442,Room Charge,1,2518,0
+2179,1143,Lab Test,1,1967,0
+2180,825,Procedure,1,11477,0
+2181,302,Procedure,1,6051,20
+2182,1105,Medicine,1,683,5
+2183,676,Room Charge,1,5196,0
+2184,113,Consultation Fee,1,2089,20
+2185,841,Room Charge,1,2807,0
+2186,368,Procedure,1,14352,0
+2187,157,Medicine,1,1491,0
+2188,324,Lab Test,1,3745,5
+2189,1011,Procedure,1,3466,5
+2190,200,Consultation Fee,1,3298,10
+2191,1077,Lab Test,1,1541,5
+2192,554,Consultation Fee,1,3261,5
+2193,70,Procedure,1,5336,20
+2194,942,Consultation Fee,1,2033,0
+2195,473,Medicine,1,3521,0
+2196,586,Lab Test,1,3228,0
+2197,560,Procedure,1,4203,10
+2198,1091,Lab Test,1,1915,10
+2199,168,Room Charge,1,7352,0
+2200,602,Medicine,1,3126,0
+2201,1178,Lab Test,1,1000,0
+2202,615,Consultation Fee,1,1881,5
+2203,609,Procedure,1,14986,5
+2204,132,Consultation Fee,1,3244,10
+2205,264,Consultation Fee,1,2078,10
+2206,134,Consultation Fee,1,3317,10
+2207,737,Medicine,1,4249,0
+2208,5,Lab Test,1,4082,20
+2209,620,Procedure,1,5084,0
+2210,95,Lab Test,1,2970,10
+2211,1029,Room Charge,1,5552,0
+2212,680,Procedure,1,10437,20
+2213,1060,Consultation Fee,1,3639,0
+2214,622,Procedure,1,5786,15
+2215,843,Procedure,1,9444,0
+2216,115,Consultation Fee,1,3768,0
+2217,690,Lab Test,2,4476,0
+2218,1200,Procedure,1,14556,15
+2219,1192,Room Charge,1,3458,5
+2220,837,Lab Test,1,2984,0
+2221,1173,Lab Test,2,2738,0
+2222,374,Procedure,1,8712,0
+2223,235,Procedure,1,5338,5
+2224,187,Lab Test,2,3933,0
+2225,445,Room Charge,1,4998,10
+2226,756,Room Charge,1,5871,0
+2227,168,Consultation Fee,1,1662,10
+2228,120,Procedure,1,6727,0
+2229,1067,Room Charge,1,4124,0
+2230,363,Medicine,1,2595,10
+2231,368,Consultation Fee,1,2862,0
+2232,742,Lab Test,1,2559,5
+2233,948,Lab Test,1,4414,10
+2234,894,Room Charge,1,7251,0
+2235,873,Medicine,1,1986,5
+2236,684,Consultation Fee,1,2071,0
+2237,607,Medicine,1,1338,10
+2238,170,Room Charge,1,3762,0
+2239,565,Procedure,1,13566,0
+2240,10,Medicine,1,1513,10
+2241,641,Consultation Fee,1,1898,0
+2242,60,Medicine,1,4074,5
+2243,98,Procedure,1,11962,5
+2244,578,Consultation Fee,1,1520,5
+2245,783,Room Charge,1,4801,0
+2246,318,Procedure,1,12690,5
+2247,34,Consultation Fee,1,2205,0
+2248,240,Procedure,1,5056,15
+2249,332,Consultation Fee,1,2499,0
+2250,1111,Room Charge,1,6253,10
+2251,981,Lab Test,1,4234,15
+2252,1093,Room Charge,1,2670,5
+2253,331,Procedure,1,9405,10
+2254,314,Room Charge,1,2163,15
+2255,287,Room Charge,1,7559,0
+2256,1199,Consultation Fee,1,3542,0
+2257,493,Lab Test,1,2905,0
+2258,573,Lab Test,1,4676,0
+2259,88,Medicine,2,1872,0
+2260,618,Consultation Fee,1,3555,0
+2261,808,Lab Test,1,4421,5
+2262,182,Lab Test,1,3024,0
+2263,1127,Procedure,1,14116,20
+2264,133,Lab Test,1,4008,15
+2265,673,Lab Test,1,1115,10
+2266,916,Lab Test,1,4750,0
+2267,186,Lab Test,1,3531,0
+2268,802,Procedure,1,9868,5
+2269,177,Room Charge,1,4228,0
+2270,184,Room Charge,1,2772,0
+2271,1111,Medicine,1,4290,5
+2272,661,Lab Test,1,2592,0
+2273,318,Medicine,1,5635,0
+2274,834,Procedure,1,6889,20
+2275,504,Lab Test,1,2563,0
+2276,1027,Procedure,1,8125,0
+2277,768,Procedure,1,8095,0
+2278,156,Room Charge,1,7670,20
+2279,546,Lab Test,2,933,0
+2280,1087,Lab Test,1,2858,5
+2281,208,Consultation Fee,1,1648,0
+2282,44,Room Charge,1,5146,0
+2283,677,Consultation Fee,1,2272,20
+2284,507,Lab Test,2,3177,15
+2285,1038,Procedure,1,5369,0
+2286,918,Lab Test,2,1676,0
+2287,683,Room Charge,1,6759,0
+2288,60,Consultation Fee,1,3614,20
+2289,390,Lab Test,2,2512,10
+2290,815,Lab Test,1,1208,10
+2291,297,Medicine,1,4114,15
+2292,215,Room Charge,1,4794,5
+2293,487,Lab Test,2,1970,0
+2294,1147,Room Charge,1,3899,0
+2295,128,Room Charge,1,6817,5
+2296,724,Procedure,1,11240,15
+2297,983,Consultation Fee,1,2482,0
+2298,451,Room Charge,1,3964,10
+2299,172,Procedure,1,3630,5
+2300,673,Medicine,1,3135,15
+2301,819,Room Charge,1,7024,15
+2302,1080,Consultation Fee,1,2560,0
+2303,990,Consultation Fee,1,3249,15
+2304,495,Medicine,1,211,0
+2305,464,Medicine,2,2872,0
+2306,925,Medicine,2,2413,0
+2307,1141,Room Charge,1,3051,5
+2308,886,Medicine,2,2433,0
+2309,88,Procedure,1,5665,20
+2310,87,Consultation Fee,0,2454,0
+2311,916,Room Charge,1,7746,0
+2312,127,Consultation Fee,1,1764,0
+2313,437,Room Charge,1,7636,10
+2314,15,Room Charge,1,4946,0
+2315,871,Consultation Fee,1,1615,5
