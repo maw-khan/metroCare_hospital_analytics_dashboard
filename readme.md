@@ -96,7 +96,7 @@ The dashboard transforms the underlying transactional data into an interactive a
 
 ## 📄 Summary
 
-[Report](reports/report.png)
+![Report](reports/report.png)
 
 # 📸 Dashboard Preview
 
