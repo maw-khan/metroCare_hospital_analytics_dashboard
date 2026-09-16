@@ -1231,9 +1231,7 @@ Instead of analyzing six independent tables, users can interact with a unified m
 
 ### Executive Overview
 
-```text
-[ Add executive_overview.png here ]
-```
+screenshots/executive_overview.png
 
 ### Patient Insights
 
