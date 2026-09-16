@@ -96,7 +96,7 @@ The dashboard transforms the underlying transactional data into an interactive a
 
 ## 📄 Report
 
-[View the exported Power BI report](reports/1 Page Summary.pdf)
+[Report](reports/report.pdf)
 
 # 📸 Dashboard Preview
 
