@@ -1081,19 +1081,13 @@ MetroCare-Hospital-PowerBI-Analytics/
 │
 ├── screenshots/
 │   ├── executive_overview.png
-│   ├── patient_insights.png
-│   ├── doctor_department_performance.png
+│   ├── patients_insights.png
+│   ├── doctor&department_performance.png
 │   ├── appointment_details.png
 │   ├── data_model.png
 │   └── power_query.png
-│
-└── documentation/
-    ├── data_cleaning.md
-    ├── data_model.md
-    └── dax_measures.md
+│   └── doctor_details.png
 ```
-
-> **Note:** The structure above is the recommended portfolio structure. Files can be adjusted according to the actual artifacts included in the repository.
 
 ---
 
@@ -1235,19 +1229,27 @@ Instead of analyzing six independent tables, users can interact with a unified m
 
 ### Patient Insights
 
-![Executive Overview](screenshots/executive_overview.png)
+![Patients Insights](screenshots/patients_insights.png)
 
 ### Doctor & Department Performance
 
-![Executive Overview](screenshots/executive_overview.png)
+![Doctor & Department Performance](screenshots/doctor&department_performance.png)
 
 ### Appointment Details
 
-![Executive Overview](screenshots/executive_overview.png)
+![Appointment Details](screenshots/appointment_details.png)
+
+### Doctors Details 
+
+![Doctors Details](screenshots/doctor_details.png)
+
+### Power Query
+
+![Power Query](screenshots/power_query.png)
 
 ### Data Model
 
-![Executive Overview](screenshots/executive_overview.png)
+![Data Modeling](screenshots/data_modeling.png)
 
 ---
 
