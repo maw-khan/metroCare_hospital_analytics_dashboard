@@ -94,6 +94,44 @@ The dashboard transforms the underlying transactional data into an interactive a
 
 ---
 
+## 📄 Report
+
+[View the exported Power BI report](reports/1 Page Summary.pdf)
+
+# 📸 Dashboard Preview
+
+> Screenshots of the completed Power BI report can be added here.
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive_overview.png)
+
+### Patient Insights
+
+![Patients Insights](screenshots/patients_insights.png)
+
+### Doctor & Department Performance
+
+![Doctor & Department Performance](screenshots/doctor&department_performance.png)
+
+### Appointment Details
+
+![Appointment Details](screenshots/appointment_details.png)
+
+### Doctors Details 
+
+![Doctors Details](screenshots/doctor_details.png)
+
+### Power Query
+
+![Power Query](screenshots/power_query.png)
+
+### Data Model
+
+![Data Modeling](screenshots/data_modeling.png)
+
+---
+
 # 📂 Dataset & Database
 
 The project uses a PostgreSQL database named:
@@ -1216,40 +1254,6 @@ The dashboard converts raw transactional hospital data into a reporting layer th
 * Insurance vs. self-pay revenue
 
 Instead of analyzing six independent tables, users can interact with a unified model and dynamically filter the analysis across multiple dimensions.
-
----
-
-# 📸 Dashboard Preview
-
-> Screenshots of the completed Power BI report can be added here.
-
-### Executive Overview
-
-![Executive Overview](screenshots/executive_overview.png)
-
-### Patient Insights
-
-![Patients Insights](screenshots/patients_insights.png)
-
-### Doctor & Department Performance
-
-![Doctor & Department Performance](screenshots/doctor&department_performance.png)
-
-### Appointment Details
-
-![Appointment Details](screenshots/appointment_details.png)
-
-### Doctors Details 
-
-![Doctors Details](screenshots/doctor_details.png)
-
-### Power Query
-
-![Power Query](screenshots/power_query.png)
-
-### Data Model
-
-![Data Modeling](screenshots/data_modeling.png)
 
 ---
 
