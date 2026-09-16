@@ -100,8 +100,6 @@ The dashboard transforms the underlying transactional data into an interactive a
 
 # 📸 Dashboard Preview
 
-> Screenshots of the completed Power BI report can be added here.
-
 ### Executive Overview
 
 ![Executive Overview](screenshots/executive_overview.png)
