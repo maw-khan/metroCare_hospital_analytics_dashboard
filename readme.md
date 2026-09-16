@@ -1231,31 +1231,23 @@ Instead of analyzing six independent tables, users can interact with a unified m
 
 ### Executive Overview
 
-screenshots/executive_overview.png
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Patient Insights
 
-```text
-[ Add patient_insights.png here ]
-```
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Doctor & Department Performance
 
-```text
-[ Add doctor_department_performance.png here ]
-```
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Appointment Details
 
-```text
-[ Add appointment_details.png here ]
-```
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Data Model
 
-```text
-[ Add data_model.png here ]
-```
+![Executive Overview](screenshots/executive_overview.png)
 
 ---
 
