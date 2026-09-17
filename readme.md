@@ -7,6 +7,23 @@
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-0F6CBD?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Healthcare-2E8B57?style=for-the-badge)
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+
+</p>
+
+<p align="center">
+
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2C3E50?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-34495E?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-1F4E79?style=for-the-badge)
+
+</p>
 
 </p>
 
