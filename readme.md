@@ -1,11 +1,15 @@
 # 🏥 MetroCare Hospital — Patient & Appointment Analytics Dashboard
 
 
+<p align="center">
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-0F6CBD?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Healthcare-2E8B57?style=for-the-badge)
+
+</p>
 
 
 <p align="center">
