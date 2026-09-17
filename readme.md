@@ -104,18 +104,6 @@ The dashboard transforms the underlying transactional data into an interactive a
 
 ![Executive Overview](screenshots/executive_overview.png)
 
-### Patient Insights
-
-![Patients Insights](screenshots/patients_insights.png)
-
-### Doctor & Department Performance
-
-![Doctor & Department Performance](screenshots/doctor&department_performance.png)
-
-### Appointment Details
-
-![Appointment Details](screenshots/appointment_details.png)
-
 ### Doctors Details 
 
 ![Doctors Details](screenshots/doctor_details.png)
@@ -135,7 +123,7 @@ The dashboard transforms the underlying transactional data into an interactive a
 The project uses a PostgreSQL database named:
 
 ```text
-metrocare_hospital
+MetroCare_Hospital
 ```
 
 The database contains six tables representing hospital departments, insurance providers, doctors, patients, appointments, and billing transactions. The original assignment specifies the six-table schema and approximate row counts below.
@@ -150,29 +138,6 @@ The database contains six tables representing hospital departments, insurance pr
 | `patients`            | Dimension |           300 |
 | `appointments`        | Fact      |         1,200 |
 | `billing_items`       | Fact      |        ~2,315 |
-
-### Main Relationships
-
-```text
-departments
-     │
-     │ 1 → many
-     ▼
-  doctors
-     │
-     │ 1 → many
-     ▼
-appointments ───────────────► billing_items
-     ▲
-     │
-     │
-  patients
-     ▲
-     │
-insurance_providers
-
-DimDate ───────────────► appointments
-```
 
 ---
 
@@ -313,7 +278,7 @@ The first phase established the database and connected Power BI to PostgreSQL.
 
 ### Steps
 
-1. Created the `metrocare_hospital` database/schema in PostgreSQL.
+1. Created the `MetroCare_Hospital` database/schema in PostgreSQL.
 2. Executed the provided SQL setup script.
 3. Loaded the six hospital tables.
 4. Verified table row counts.
@@ -321,13 +286,11 @@ The first phase established the database and connected Power BI to PostgreSQL.
 6. Selected **Import** mode.
 7. Loaded the required tables into Power BI.
 
-The assignment specifically requires verification of all six table row counts before proceeding with the analytical model.
-
 ---
 
 # 🧹 Phase 2 — Power Query Data Cleaning
 
-The raw hospital data intentionally contains several data-quality issues. These were addressed inside **Power Query** rather than modifying the original database.
+The raw hospital data contains several data-quality issues. These were addressed inside **Power Query** rather than modifying the original database.
 
 This follows the project's intended ETL workflow: extract the data from PostgreSQL and perform reporting-specific transformations before loading it into the Power BI model.
 
@@ -457,8 +420,6 @@ quantity < 0
 
 were treated as data-entry errors and excluded from the analytical model.
 
-The assignment identifies these records as intentionally seeded data-quality issues that should be handled during Power Query transformation.
-
 ---
 
 # 👨‍⚕️ 2.5 Doctor Data Transformation
@@ -544,7 +505,7 @@ Total Quantity
 Total Revenue
 ```
 
-This creates a pre-aggregated view of revenue by service category. The solution guide specifically emphasizes calculating revenue from the line-level revenue rather than summing unit prices.
+This creates a pre-aggregated view of revenue by service category.
 
 ---
 
@@ -635,6 +596,10 @@ The relationships are:
 | DimDate             | Appointments  | 1 → Many    |
 
 The completed model places the fact tables centrally and the dimension tables around them, producing the intended star-shaped analytical model.
+
+### Data Model
+
+![Data Modeling](screenshots/data_modeling.png)
 
 ---
 
@@ -855,8 +820,6 @@ DIVIDE(
 
 Measures percentage change in revenue compared with the previous month.
 
-The project uses `SUMX`, `DISTINCTCOUNT`, `DIVIDE`, `CALCULATE`, `TOTALYTD`, and `DATEADD` to answer the eight core analytical questions specified by the assignment.
-
 ---
 
 # 📈 Phase 4 — Dashboard & Report Design
@@ -894,7 +857,9 @@ Interactive filters allow users to analyze the report by:
 * Department
 * Patient Category
 
-The assignment requires the Executive Overview to provide revenue, appointment, patient, cancellation, monthly revenue-trend and department-level views.
+### Executive Overview
+
+![Executive Overview](screenshots/executive_overview.png)
 
 ---
 
@@ -923,6 +888,10 @@ The table is filtered to the top 10 patients based on revenue.
 **Geographic Analysis**
 
 A map visual showing patient distribution/revenue by city.
+
+### Patient Insights
+
+![Patients Insights](screenshots/patients_insights.png)
 
 ---
 
@@ -953,6 +922,10 @@ Scheduled
 
 A dedicated KPI displays the no-show rate.
 
+### Doctor & Department Performance
+
+![Doctor & Department Performance](screenshots/doctor&department_performance.png)
+
 ---
 
 # 4️⃣ Appointment Details — Drillthrough
@@ -979,7 +952,9 @@ appointment_id
 
 Users can right-click a relevant visual on another report page and navigate to the detailed appointment record.
 
-The assignment requires the detailed page to be reachable through drillthrough from another report visual.
+### Appointment Details
+
+![Appointment Details](screenshots/appointment_details.png)
 
 ---
 
@@ -1003,8 +978,6 @@ The report incorporates Power BI functionality beyond basic charts.
 * Conditional formatting
 * Drillthrough navigation
 
-These features correspond to the report-design requirements specified in the assignment.
-
 ---
 
 # 🔍 Data Quality Issues Identified
@@ -1023,8 +996,6 @@ The project intentionally contains several data-quality problems that simulate r
 | Business-unfriendly field names          | Renamed relevant columns                 |
 | Service-level revenue not pre-aggregated | Created Line Revenue and grouped summary |
 | No dedicated calendar dimension          | Created and marked `DimDate`             |
-
-The original dataset was intentionally designed with imperfect fields, including inconsistent casing/abbreviations, incorrect date types, blank follow-up dates and invalid billing quantities.
 
 ---
 
@@ -1174,13 +1145,7 @@ Load the six required tables.
 
 ## 4. Transform the Data
 
-Open:
-
-```text
-Transform Data
-```
-
-and reproduce the Power Query transformations documented in this repository.
+Reproduce the Power Query transformations documented in this repository.
 
 ---
 
@@ -1283,26 +1248,6 @@ The project particularly strengthened practical understanding of the relationshi
 
 ---
 
-# 🎓 Project Context
-
-This project was completed as part of a **Power BI Group Project** covering the practical skills taught through the project's Day 1–Day 4 training sequence.
-
-The assignment was designed to assess:
-
-* PostgreSQL connectivity
-* Power Query transformation
-* Star-schema modeling
-* DAX calculations
-* Time intelligence
-* Dashboard design
-* Data visualization
-* Filtering and drillthrough
-* Business-oriented analysis
-
-The original project requirements specify a `.pbix` dashboard, exported report, and project summary as the final deliverables.
-
----
-
 # 👤 Skills Demonstrated
 
 ### Technical Skills
@@ -1343,8 +1288,6 @@ The project dataset is a provided/sample hospital dataset intended for education
 
 The Power BI model removes unnecessary personal contact fields such as patient phone numbers and email addresses because they are not required for the analytical objectives of the dashboard.
 
-No real patient information should be added to or exposed through this repository.
-
 ---
 
 # 📌 Project Status
@@ -1373,7 +1316,7 @@ Together, these components form an end-to-end healthcare Business Intelligence s
 
 ---
 
-## 📬 Contact
+## 📬 Author
 
 **Muhammad Ali Waris Khan**
 
